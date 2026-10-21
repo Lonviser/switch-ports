@@ -16,7 +16,7 @@ concurrency:
 jobs:
   publish:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 20
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -25,15 +25,21 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '24'
+          cache: npm
+      - run: npm ci
       - run: npm test
       - name: Fetch and validate upstream catalogue
         run: npm run sync
+      - name: Update GitHub popularity and discover missing artwork
+        run: npm run enrich
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - run: npm run build
       - name: Keep last successful snapshot and change history
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add public/data/catalog.json
+          git add public/data/ public/assets/covers/
           if ! git diff --cached --quiet; then
             git commit -m "data: refresh SwitchPorts catalogue [skip ci]"
             git push

@@ -1,0 +1,3957 @@
+{
+  "repositories": {
+    "MiaouMeowMiaou/j2me-for-switch": {
+      "stars": 2,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "Raibatsu/raikopon": {
+      "stars": 59,
+      "defaultBranch": "master",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "PalindromicBreadLoaf/dekopon": {
+      "stars": 142,
+      "defaultBranch": "master",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "1timewire1/Yokoi_Game_-_Watch_emulator_switch": {
+      "stars": 1,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "Erige005/Kirikiroid2-NX": {
+      "stars": 13,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "toniisound/supermodel-nx": {
+      "stars": 4,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ticohq/tico": {
+      "stars": 1400,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "toniisound/model2-nx": {
+      "stars": 1,
+      "defaultBranch": "master",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "NaGaa95/DrasticDS_nx": {
+      "stars": 156,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "NaGaa95/dolphin-nx": {
+      "stars": 183,
+      "defaultBranch": "master",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "PalindromicBreadLoaf/nezumiiruka": {
+      "stars": 46,
+      "defaultBranch": "master",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "shooterspps/duckstation": {
+      "stars": 9,
+      "defaultBranch": "switch-port",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "NaGaa95/NetherSX2_nx": {
+      "stars": 300,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "SirSamael/ppsspp-switch-community-build": {
+      "stars": 107,
+      "defaultBranch": "release-v0.6.0",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "PalindromicBreadLoaf/ARMSX2-NX": {
+      "stars": 68,
+      "defaultBranch": "master",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "NaGaa95/ppsspp-nx": {
+      "stars": 33,
+      "defaultBranch": "master",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "NaGaa95/Vita3K-nx": {
+      "stars": 154,
+      "defaultBranch": "master",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "r4dius/system22-nx": {
+      "stars": 2,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "Thorhax/yabasanshiro-nx": {
+      "stars": 2,
+      "defaultBranch": "switch",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "1timewire1/D.Smile_nx": {
+      "stars": 1,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "boraeskicioglu/tasm2_nx": {
+      "stars": 2,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "NaGaa95/Cemu-nx": {
+      "stars": 224,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "aks796/abforever_nx": {
+      "stars": 0,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "markaurel13/abstarwars2_nx": {
+      "stars": 1,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "aks796/abspace_nx": {
+      "stars": 2,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "danfromtico/autorun": {
+      "stars": 487,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "aks796/a8retry_nx": {
+      "stars": 2,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "iqbalriz/assassinscreed_nx": {
+      "stars": 1,
+      "defaultBranch": "master",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "iqbalriz/costumequest_nx": {
+      "stars": 1,
+      "defaultBranch": "master",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "r4lix/codboz-nx": {
+      "stars": 7,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "hazevauks/dantheman_nx": {
+      "stars": 0,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "lemasterxar5/tdkr_nx": {
+      "stars": 2,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "Thorhax/Ducktales-NX": {
+      "stars": 1,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "hazevauks/deadspace_nx": {
+      "stars": 3,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "aks796/dcr_sea_nx": {
+      "stars": 0,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "aks796/flappybirdsfamily_nx": {
+      "stars": 0,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "aks796/labyrinth2_nx": {
+      "stars": 0,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "SantiBros/NFSMostWanted2012-Android-Switch": {
+      "stars": 9,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "markaurel13/nova3-nx": {
+      "stars": 3,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "aks796/pvz_touch_nx": {
+      "stars": 1,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "iqbalriz/rayman_nx": {
+      "stars": 0,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "iqbalriz/fiestarun_nx": {
+      "stars": 0,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "hazevauks/smashhit_nx": {
+      "stars": 0,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "liartes/spacehulk-nx": {
+      "stars": 0,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "aks796/sonic_allstars_nx": {
+      "stars": 0,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "boraeskicioglu/spiderman_total_mayhem_nx": {
+      "stars": 1,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "NaGaa95/aom_nx": {
+      "stars": 12,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "NaGaa95/abc_nx": {
+      "stars": 9,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ChanseyIsTheBest/angrybirdsclassic_nx": {
+      "stars": 21,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "NaGaa95/angrybirds2_nx": {
+      "stars": 12,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "NaGaa95/angrybirdsjourney_nx": {
+      "stars": 5,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "xflipperkast/angrybirdsas_nx": {
+      "stars": 5,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "aks796/abreloaded_nx": {
+      "stars": 1,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "NaGaa95/acpc_nx": {
+      "stars": 26,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ChanseyIsTheBest/bananakong_nx": {
+      "stars": 1,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ChanseyIsTheBest/baldi_nx": {
+      "stars": 1,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ChanseyIsTheBest/badpiggies_nx": {
+      "stars": 10,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ChanseyIsTheBest/battd_nx": {
+      "stars": 0,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ChanseyIsTheBest/smk2_nx": {
+      "stars": 0,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ChanseyIsTheBest/bloons_pop_nx": {
+      "stars": 0,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "aks796/bombsquad_nx": {
+      "stars": 3,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ChanseyIsTheBest/btd5_nx": {
+      "stars": 3,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "aks796/bse_rebombed_nx": {
+      "stars": 1,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "aks796/bs_joyride_nx": {
+      "stars": 0,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ChanseyIsTheBest/bouncemasters_nx": {
+      "stars": 0,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "givethesourceplox/bully-NX": {
+      "stars": 70,
+      "defaultBranch": "master",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ChanseyIsTheBest/burgershop_nx": {
+      "stars": 2,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ChanseyIsTheBest/burgershop2_nx": {
+      "stars": 1,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "NaGaa95/coi_nx": {
+      "stars": 15,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "seamusduncmcgrath/cod-boz-arm64-nx": {
+      "stars": 2,
+      "defaultBranch": "master",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "NaGaa95/cr3_nx": {
+      "stars": 7,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "NaGaa95/sotn_nx": {
+      "stars": 24,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "NaGaa95/ct_nx": {
+      "stars": 47,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ChanseyIsTheBest/clayjamclassic_nx": {
+      "stars": 1,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ChanseyIsTheBest/colorsheep_nx": {
+      "stars": 2,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "NaGaa95/css_nx": {
+      "stars": 25,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ChanseyIsTheBest/cloverpit_nx": {
+      "stars": 2,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "delsonazevedo/crazytaxy_nx": {
+      "stars": 11,
+      "defaultBranch": "master",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "NaGaa95/ctr_nx": {
+      "stars": 3,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "NaGaa95/ctr2_nx": {
+      "stars": 4,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "1timewire1/ctr_experiments_nx": {
+      "stars": 3,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "1timewire1/ctr_magic_nx": {
+      "stars": 3,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "1timewire1/ctr_timetravel_nx": {
+      "stars": 0,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ChanseyIsTheBest/datadefense_nx": {
+      "stars": 0,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "artslay/abyssal_nx": {
+      "stars": 2,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ChanseyIsTheBest/deusexgo_nx": {
+      "stars": 1,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "delsonazevedo/drmariomania_nx": {
+      "stars": 3,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ChanseyIsTheBest/dukedashington_nx": {
+      "stars": 0,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "xflipperkast/earntodie2_nx": {
+      "stars": 1,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ChanseyIsTheBest/the_executive_nx": {
+      "stars": 0,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "artslay/NearChuckle_nx": {
+      "stars": 11,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ChanseyIsTheBest/daggerfall_nx": {
+      "stars": 2,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "NaGaa95/ffd_nx": {
+      "stars": 13,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "NaGaa95/ffd2_nx": {
+      "stars": 9,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "NaGaa95/ff3_3d_nx": {
+      "stars": 15,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "NaGaa95/ff4_3d_nx": {
+      "stars": 28,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "GlitchedDeveloper/ff4_nx": {
+      "stars": 1,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "NaGaa95/ff4tay_nx": {
+      "stars": 14,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "aks796/flappy_bird_nx": {
+      "stars": 0,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ChanseyIsTheBest/fruitninjaclassic_nx": {
+      "stars": 5,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "artslay/galaxian_nx": {
+      "stars": 1,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "NaGaa95/gdash_nx": {
+      "stars": 30,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "Thorhax/Gizmoduck-NX-Modern": {
+      "stars": 1,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "mariob0y/gta3-nx": {
+      "stars": 7,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "NaGaa95/gtalcs_nx": {
+      "stars": 23,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "NaGaa95/gtactw_nx": {
+      "stars": 33,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "NaGaa95/gtasa_nx": {
+      "stars": 51,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "NaGaa95/hl2_nx": {
+      "stars": 84,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ChanseyIsTheBest/happywheels_nx": {
+      "stars": 3,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ChanseyIsTheBest/heartstar_nx": {
+      "stars": 0,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ChanseyIsTheBest/hitmango_nx": {
+      "stars": 1,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "xflipperkast/HCR_NX": {
+      "stars": 6,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "boraeskicioglu/hmd_nx": {
+      "stars": 2,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "aks796/infinityblade_nx": {
+      "stars": 6,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "NaGaa95/jetpackjoyride_nx": {
+      "stars": 8,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "CostelaCNX/ReChan-Switch": {
+      "stars": 5,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ChanseyIsTheBest/killerbean_nx": {
+      "stars": 2,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "NaGaa95/KHUx_nx": {
+      "stars": 17,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ChanseyIsTheBest/laracroftgo_nx": {
+      "stars": 1,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "NaGaa95/laytonbmr_nx": {
+      "stars": 11,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "NaGaa95/lbbg_nx": {
+      "stars": 19,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "NaGaa95/lbdcsh_nx": {
+      "stars": 12,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "NaGaa95/lnsor_nx": {
+      "stars": 14,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "NaGaa95/lswtcs_nx": {
+      "stars": 28,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "NaGaa95/lswtfa_nx": {
+      "stars": 12,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "aks796/lummm_nx": {
+      "stars": 0,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "StevensND/mmxregenesis_nx": {
+      "stars": 9,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "NaGaa95/max_nx_v2.1.131": {
+      "stars": 11,
+      "defaultBranch": "master",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "bshurikan/mpo_nx": {
+      "stars": 7,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ChanseyIsTheBest/mulmash_nx": {
+      "stars": 0,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "delsonazevedo/nbajam_nx": {
+      "stars": 0,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ChanseyIsTheBest/osmos_nx": {
+      "stars": 1,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "xflipperkast/papasburgeria_nx": {
+      "stars": 0,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ChanseyIsTheBest/papapear_nx": {
+      "stars": 0,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "xflipperkast/papascluckeria_nx": {
+      "stars": 0,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "xflipperkast/papaspaleteria_nx": {
+      "stars": 0,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ChanseyIsTheBest/papersplease_nx": {
+      "stars": 6,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "xflipperkast/papapizzatg_nx": {
+      "stars": 7,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ChanseyIsTheBest/pvs_nx": {
+      "stars": 0,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ChanseyIsTheBest/phigros_nx": {
+      "stars": 9,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "xflipperkast/PVZ2_NX": {
+      "stars": 14,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "6eone6/phigros_nx_cn": {
+      "stars": 6,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ChanseyIsTheBest/pvz_fusion_en_nx": {
+      "stars": 10,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "xflipperkast/PVZ2RF_NX": {
+      "stars": 6,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ChanseyIsTheBest/pvz_ultimate_nx": {
+      "stars": 2,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ChanseyIsTheBest/pcl_nx": {
+      "stars": 0,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ChanseyIsTheBest/poinpy_nx": {
+      "stars": 1,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ChanseyIsTheBest/poorbunny_nx": {
+      "stars": 0,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "NaGaa95/layton_nx": {
+      "stars": 13,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "NaGaa95/layton3_nx": {
+      "stars": 14,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "NaGaa95/layton2_nx": {
+      "stars": 15,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "xflipperkast/pou_nx": {
+      "stars": 4,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ChanseyIsTheBest/theroomthree_nx": {
+      "stars": 1,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ChanseyIsTheBest/theroom4_nx": {
+      "stars": 1,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ChanseyIsTheBest/revolt_nx": {
+      "stars": 1,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "BirdSentinel/rvgl-for-switch": {
+      "stars": 12,
+      "defaultBranch": "master",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ChanseyIsTheBest/sts2_nx": {
+      "stars": 8,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "xflipperkast/slither_nx": {
+      "stars": 4,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "boraeskicioglu/s4ep2-nx": {
+      "stars": 14,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ChanseyIsTheBest/sonicdash_nx": {
+      "stars": 0,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ChanseyIsTheBest/sonicjumpfever_nx": {
+      "stars": 0,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ChanseyIsTheBest/sonicboomdash_nx": {
+      "stars": 0,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ChanseyIsTheBest/sonicjump_nx": {
+      "stars": 3,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "boraeskicioglu/sonic_runners_adventure_nx": {
+      "stars": 2,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "boraeskicioglu/stt16bit_nx": {
+      "stars": 11,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "xflipperkast/stonestory_nx": {
+      "stars": 1,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "souldbminerr/swi-nx": {
+      "stars": 1,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "delsonazevedo/sorx_nx": {
+      "stars": 2,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "NaGaa95/subwaysurfers_nx": {
+      "stars": 17,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "aks796/sm63redux_nx": {
+      "stars": 1,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "aks796/sm127_nx": {
+      "stars": 1,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "delsonazevedo/Super-Mario-Bros.-Remastered-Switch": {
+      "stars": 12,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "delsonazevedo/Super-Mario-World-Remastered-Plus-Switch": {
+      "stars": 22,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "NaGaa95/tf2_nx": {
+      "stars": 15,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "NaGaa95/swordigo_nx": {
+      "stars": 11,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ChanseyIsTheBest/tte_nx": {
+      "stars": 1,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ChanseyIsTheBest/totalpartykill_nx": {
+      "stars": 0,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "delsonazevedo/vpl_nx": {
+      "stars": 3,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "NaGaa95/vln_nx": {
+      "stars": 12,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "auggeythecat/NX-VVVVVV--recomp": {
+      "stars": 0,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ChanseyIsTheBest/wmw_nx": {
+      "stars": 2,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ChanseyIsTheBest/wmw2_nx": {
+      "stars": 3,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "DI4VOLO-dev/ys1x_nx": {
+      "stars": 4,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "StevensND/zombotron_nx": {
+      "stars": 2,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ChanseyIsTheBest/zookeeperdx_nx": {
+      "stars": 1,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "Thorhax/Virtual-On-NX": {
+      "stars": 0,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "Thorhax/Daytona-NX-Modern": {
+      "stars": 2,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "Thorhax/Killer-Instinct-NX-Modern": {
+      "stars": 1,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "Thorhax/Killer-Instinct-2-NX-Modern": {
+      "stars": 1,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "Thorhax/Cannonball-NX-Modern": {
+      "stars": 0,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "boraeskicioglu/sonic_the_fighters_nx": {
+      "stars": 2,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "Thorhax/VF2-NX-Modern": {
+      "stars": 1,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "jacquesdupontd/port0r": {
+      "stars": 151,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "bryanthaboi/gen1recomp": {
+      "stars": 3994,
+      "defaultBranch": "dev",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "UNDERdecoded/Gen2Recomped": {
+      "stars": 403,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "toniisound/oracles-nx": {
+      "stars": 7,
+      "defaultBranch": "switch",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "toniisound/The-Oracles-Project-NX": {
+      "stars": 1,
+      "defaultBranch": "switch",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "Alexgg1014/The-Legend-of-Zelda-Link-s-Awakening-DX-HD-Alek-s-Ultimate-NX-Edition": {
+      "stars": 5,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "delsonazevedo/Zelda-LA-DX-HD-Updated": {
+      "stars": 4,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "Alexgg1014/The-Legend-of-Zelda-The-Minish-Cap-Alek-s-Ultimate-NX-Edition": {
+      "stars": 52,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "boraeskicioglu/sonic_advance2_nx": {
+      "stars": 5,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "HayatoG/tmc": {
+      "stars": 27,
+      "defaultBranch": "switch-port",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "JJTapiaXX/Metroid-Zero-Mission-NX": {
+      "stars": 2,
+      "defaultBranch": "switch-port",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "digdat0/ACGC-Switch-Port": {
+      "stars": 4,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "HayatoG/dusklight": {
+      "stars": 68,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "souldbminerr/dusklight-nx": {
+      "stars": 33,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "Alexgg1014/The-Legend-of-Zelda-Twilight-Princess-Alek-s-Ultimate-NX-Edition": {
+      "stars": 18,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "new-coke/strikers": {
+      "stars": 346,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "givethesourceplox/dusk": {
+      "stars": 202,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "centollOS/SwitchWaker": {
+      "stars": 73,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "KawaiiBunga/Melee-NX": {
+      "stars": 20,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "Thorhax/sega-vr-disasm": {
+      "stars": 0,
+      "defaultBranch": "master",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "PalindromicBreadLoaf/Docklight": {
+      "stars": 15,
+      "defaultBranch": "develop",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "paulodiasred/BM64Switch": {
+      "stars": 3,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "DomazinUS/CBFD-Switch": {
+      "stars": 8,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "boraeskicioglu/goldenballoon_nx": {
+      "stars": 13,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "Trinalord777/DK64Recomp-NX": {
+      "stars": 6,
+      "defaultBranch": "nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "fgsfdsfgs/Doom64EX": {
+      "stars": 13,
+      "defaultBranch": "master",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "PalindromicBreadLoaf/NX-Diffuser": {
+      "stars": 9,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "YoshiCrystal9/2ship2harkinian-Switch": {
+      "stars": 64,
+      "defaultBranch": "develop",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "HarbourMasters/SpaghettiKart": {
+      "stars": 2433,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "timschneeb/Shipwright-Switch": {
+      "stars": 68,
+      "defaultBranch": "develop",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "Thorhax/PaperBoat-NX-Modern": {
+      "stars": 7,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "CypherNoodle/PaperBoat-nx": {
+      "stars": 5,
+      "defaultBranch": "switch-port",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "reflex909/2ship2harkinian-Switch": {
+      "stars": 16,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "gabryboy12-ai/StarCraft64-NX": {
+      "stars": 1,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "perfect-dark-pc-port/perfect_dark": {
+      "stars": 2068,
+      "defaultBranch": "port",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "HarbourMasters/Ghostship": {
+      "stars": 840,
+      "defaultBranch": "develop",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "HarbourMasters/Starship": {
+      "stars": 2109,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "KawaiiBunga/BattleShipNX": {
+      "stars": 4,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "delsonazevedo/BattleShip-Switch": {
+      "stars": 0,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "1weell/RaceWave46-Switch": {
+      "stars": 1,
+      "defaultBranch": "switch-port",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "DomazinUS/RaceWave46-Switch": {
+      "stars": 7,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "souldbminerr/0ad-switch": {
+      "stars": 2,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "capsterx-switch/abuse": {
+      "stars": 2,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "Thorhax/AvP-Gold-NX-Modern": {
+      "stars": 0,
+      "defaultBranch": "master",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "fgsfdsfgs/ArxLibertatis": {
+      "stars": 4,
+      "defaultBranch": "switch-new",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "gitgarage/openblack": {
+      "stars": 1,
+      "defaultBranch": "switch-port",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "rsn8887/julius": {
+      "stars": 6,
+      "defaultBranch": "master",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "capsterx-switch/BrogueCE": {
+      "stars": 5,
+      "defaultBranch": "master",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "bshurikan/cvrevamped_nx": {
+      "stars": 2,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "rsn8887/OpenClaw": {
+      "stars": 0,
+      "defaultBranch": "master",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "Thorhax/Descent1-NX-Modern": {
+      "stars": 0,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "Thorhax/Descent2-NX-Modern": {
+      "stars": 2,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "capsterx-switch/Vanilla-Conquer": {
+      "stars": 9,
+      "defaultBranch": "vanilla",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "alexart878/dethrace-switch": {
+      "stars": 9,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "lantus/devilution-nx": {
+      "stars": 891,
+      "defaultBranch": "master",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "lantus/chocolate-doom-nx": {
+      "stars": 61,
+      "defaultBranch": "master",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "Thorhax/DevilutionX-NX-Modern": {
+      "stars": 1,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "Thorhax/GZDoom-NX-2026": {
+      "stars": 0,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "Thorhax/GZDoom-NX-Modern": {
+      "stars": 4,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "fgsfdsfgs/eduke32": {
+      "stars": 4,
+      "defaultBranch": "switch_pr",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "carstene1ns/dunelegacy": {
+      "stars": 1,
+      "defaultBranch": "release-0.98.6",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "jamyaro/REDRIVER2-switch": {
+      "stars": 10,
+      "defaultBranch": "master",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "fgsfdsfgs/openmw": {
+      "stars": 55,
+      "defaultBranch": "master",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ryandeering/fallout2-ce-switch": {
+      "stars": 35,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "seamusduncmcgrath/openmw-nx": {
+      "stars": 2,
+      "defaultBranch": "master",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ryandeering/fallout-ce-switch": {
+      "stars": 33,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "NaGaa95/freespace2_nx": {
+      "stars": 3,
+      "defaultBranch": "master",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ihhub/fheroes2": {
+      "stars": 3511,
+      "defaultBranch": "master",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "FWGS/xash3d-fwgs": {
+      "stars": 2871,
+      "defaultBranch": "master",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "NaGaa95/vcmi_nx": {
+      "stars": 12,
+      "defaultBranch": "develop",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "rsn8887/Hurrican": {
+      "stars": 7,
+      "defaultBranch": "master",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ChanseyIsTheBest/insaniquarium_nx": {
+      "stars": 0,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "deathkiller/jazz2": {
+      "stars": 582,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "KranKRival/OpenJazzNX": {
+      "stars": 7,
+      "defaultBranch": "master",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "worthis/ZeldaOLB-new-engine": {
+      "stars": 3,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "worthis/ZeldaROTH-new-engine": {
+      "stars": 4,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "worthis/Zelda3T": {
+      "stars": 1,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "adumah/Luanti-NX": {
+      "stars": 1,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "delsonazevedo/mari0-switch": {
+      "stars": 3,
+      "defaultBranch": "master",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ChanseyIsTheBest/MBHaxe-Switch": {
+      "stars": 2,
+      "defaultBranch": "master",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "McKay42/McOsu-NX": {
+      "stars": 72,
+      "defaultBranch": "master",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "aks796/mari0_ae_nx": {
+      "stars": 0,
+      "defaultBranch": "master",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "nzp-team/nzportable": {
+      "stars": 855,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "NaGaa95/openmohaa_nx": {
+      "stars": 14,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "Thorhax/OpenOMF-NX-Modern": {
+      "stars": 0,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "theflippedbit/opentyrian-nx": {
+      "stars": 13,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "r4dius/outrun2-decomp": {
+      "stars": 38,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "Petit-Prince-dev/PokeMMO-NX": {
+      "stars": 65,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "HayatoG/PvZ-Portable": {
+      "stars": 5,
+      "defaultBranch": "switch-port",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "hazevauks/openPREYswitch": {
+      "stars": 2,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "Thorhax/Quakespasm-NX-Modern": {
+      "stars": 1,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "Thorhax/Quake2-NX-Modern": {
+      "stars": 0,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "fgsfdsfgs/ioq3": {
+      "stars": 21,
+      "defaultBranch": "master",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "rsn8887/rocksndiamonds": {
+      "stars": 14,
+      "defaultBranch": "master",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "capsterx-switch/iortcw": {
+      "stars": 5,
+      "defaultBranch": "master",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "rsn8887/OpenRCT2": {
+      "stars": 39,
+      "defaultBranch": "switch",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "adumah/SheepDogWolf-NX": {
+      "stars": 0,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "Wander-Eule/OpenRCT2-Switch": {
+      "stars": 2,
+      "defaultBranch": "switch",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "fgsfdsfgs/Serious-Engine": {
+      "stars": 14,
+      "defaultBranch": "master",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ZenoArrows/The-Simpsons-Hit-and-Run": {
+      "stars": 398,
+      "defaultBranch": "master",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "cutarev/sh2-nx": {
+      "stars": 38,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "cutarev/sh3-nx": {
+      "stars": 28,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "72ak/sh4-nx": {
+      "stars": 8,
+      "defaultBranch": "master",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "NaGaa95/ProjectCane": {
+      "stars": 11,
+      "defaultBranch": "master",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ChaykaDed/silent-hill-decomp-nx": {
+      "stars": 16,
+      "defaultBranch": "pc-port",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "NaGaa95/MarathonRecomp-NX": {
+      "stars": 31,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "heyjoeway/Sonic-CD-11-Decompilation": {
+      "stars": 23,
+      "defaultBranch": "master",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "boraeskicioglu/sonic_r_nx": {
+      "stars": 7,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "Thorhax/Sonic-R-NX-Modern": {
+      "stars": 1,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "averne/SpaceCadetPinball-NX": {
+      "stars": 75,
+      "defaultBranch": "master",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "RohanBhattacharyya/oSBM": {
+      "stars": 99,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "JohnUzoka/terrabuilder-nx": {
+      "stars": 5,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "saekaze/th06-switch": {
+      "stars": 14,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "saekaze/th075-switch": {
+      "stars": 1,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "saekaze/th07-switch": {
+      "stars": 8,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "saekaze/th08-switch": {
+      "stars": 6,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "saekaze/thWWW-switch": {
+      "stars": 2,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "saekaze/th09-switch": {
+      "stars": 3,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "saekaze/th10-switch": {
+      "stars": 6,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "saekaze/th15-switch": {
+      "stars": 3,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "saekaze/th11-switch": {
+      "stars": 4,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "rsn8887/OpenTTD": {
+      "stars": 26,
+      "defaultBranch": "master",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "capsterx-switch/exult": {
+      "stars": 0,
+      "defaultBranch": "master",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "NalienDev/Undertale-Yellow-NX": {
+      "stars": 6,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "fgsfdsfgs/unreal_nx": {
+      "stars": 12,
+      "defaultBranch": "master",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "worthis/Vovochka": {
+      "stars": 0,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "Thorhax/Wargus-NX-Modern": {
+      "stars": 1,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "Thorhax/War1gus-NX-Modern": {
+      "stars": 2,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "Thorhax/Wolf4SDL-NX-Modern": {
+      "stars": 1,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "alexart878/OpenXcom-switch": {
+      "stars": 6,
+      "defaultBranch": "switch-port",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "amydevs/lainNX": {
+      "stars": 12,
+      "defaultBranch": "master",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "1timewire1/CircleShootApp": {
+      "stars": 0,
+      "defaultBranch": "master",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "adumah/MsPacManMazeMadnessRecomp": {
+      "stars": 0,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "emuman100/wipeout-rewrite-nintendo-switch-homebrew": {
+      "stars": 4,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "fildicio/jak-project-switch": {
+      "stars": 7,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "souldbminerr/DKC1Recomp-NX": {
+      "stars": 3,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "mrOt4/DKC1Recomp-NX": {
+      "stars": 0,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "souldbminerr/DKC2Recomp-NX": {
+      "stars": 1,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "souldbminerr/DKC3Recomp-NX": {
+      "stars": 1,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "1weell/DKC2Recomp-Switch": {
+      "stars": 1,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "Thorhax/F-Zero-NX-Modern": {
+      "stars": 1,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "snesrev/zelda3": {
+      "stars": 4889,
+      "defaultBranch": "master",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "Alexgg1014/The-Legend-of-Zelda-A-Link-To-The-Past-Alek-s-Ultimate-NX-Edition": {
+      "stars": 21,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "mrOt4/babel-recomp": {
+      "stars": 1,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "Thorhax/MegaManX-NX": {
+      "stars": 0,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "kandowontu2/starfox-enhanced": {
+      "stars": 97,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "snesrev/sm": {
+      "stars": 557,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "antoxa2584x/burnout3-sw": {
+      "stars": 41,
+      "defaultBranch": "switch",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "R-drg/defjam-sw": {
+      "stars": 8,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "antoxa2584x/flatout2-sw": {
+      "stars": 12,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "thelinkin3000/halo-ce-universal": {
+      "stars": 56,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "seamusduncmcgrath/OpenCE-nx": {
+      "stars": 2,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "antoxa2584x/nfsu1-sw": {
+      "stars": 53,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "antoxa2584x/nfsu2-sw": {
+      "stars": 154,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "JohnJames29/WOTW-NX": {
+      "stars": 3,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "antoxa2584x/nfsuc-sw": {
+      "stars": 55,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "Wiredlainn-afk/Bakugan-NX": {
+      "stars": 4,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "Ad0ky/LostOdysseyRecomp": {
+      "stars": 4,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "nebadasSwifty/masseffect-nx": {
+      "stars": 32,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ChanseyIsTheBest/futari-nx": {
+      "stars": 2,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "StevensND/nfsmw-nx": {
+      "stars": 242,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ChanseyIsTheBest/peggle2-nx": {
+      "stars": 3,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "R-drg/the-simpsons-game-nx": {
+      "stars": 18,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "JohnUzoka/skate-3-rust-engine": {
+      "stars": 20,
+      "defaultBranch": "horizon-port",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ChanseyIsTheBest/sa2-nx": {
+      "stars": 11,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ChanseyIsTheBest/MarathonRecomp-NX": {
+      "stars": 1,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "NaGaa95/UnleashedRecomp-NX": {
+      "stars": 22,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "givethesourceplox/UnleashedRecomp-NX": {
+      "stars": 48,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ChanseyIsTheBest/UnleashedRecomp-NX": {
+      "stars": 11,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "BiroGrafx/sc5p2-nx": {
+      "stars": 2,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "liartes/torchlight-nx": {
+      "stars": 1,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "R-drg/project8-sw": {
+      "stars": 2,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "GreenSwampDweller/torchlight-rekindled": {
+      "stars": 16,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "Thorhax/usf4-nx": {
+      "stars": 1,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "centollOS/SwitchWakerHD": {
+      "stars": 166,
+      "defaultBranch": "main",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    }
+  },
+  "images": {
+    "dekopon": {
+      "path": "./assets/covers/7fce19bacafacd010f5e.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/PalindromicBreadLoaf/dekopon/master/src/citra_switch/icon.jpg",
+      "source": "GitHub · PalindromicBreadLoaf/dekopon",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "yokoi": {
+      "path": "./assets/covers/c1dc96f92ea407bc9f86.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/1timewire1/Yokoi_Game_-_Watch_emulator_switch/main/meta/banner.png",
+      "source": "GitHub · 1timewire1/Yokoi_Game_-_Watch_emulator_switch",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "raikaazahar": {
+      "path": "./assets/covers/e0ca83b3c5403d30dad9.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/Raibatsu/raikopon/master/src/citra_switch/icon.jpg",
+      "source": "GitHub · Raibatsu/raikopon",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "kirikiroid2nx": {
+      "path": "./assets/covers/a2a4de88e6d0d65ca9e8.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/Erige005/Kirikiroid2-NX/main/platforms/switch/icon.jpg",
+      "source": "GitHub · Erige005/Kirikiroid2-NX",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "model2nx": {
+      "path": "./assets/covers/7a4e18ef65dfeb887c48.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/toniisound/model2-nx/master/assets/icon.jpg",
+      "source": "GitHub · toniisound/model2-nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "supermodelnx": {
+      "path": "./assets/covers/c198ccbe429e65450ea0.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/toniisound/supermodel-nx/main/Switch/icon.jpg",
+      "source": "GitHub · toniisound/supermodel-nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "drasticds": {
+      "path": "./assets/covers/163dfd4d353f1e449940.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/NaGaa95/DrasticDS_nx/main/icon.jpg",
+      "source": "GitHub · NaGaa95/DrasticDS_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "dolphin": {
+      "path": "./assets/covers/c3114e1d2b4e1162cd99.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/NaGaa95/dolphin-nx/master/Data/Switch/dolphin_icon.jpg",
+      "source": "GitHub · NaGaa95/dolphin-nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "duckstation": {
+      "path": "./assets/covers/4f7a26d39db50b9d9907.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/shooterspps/duckstation/switch-port/extras/icons/icon-switch.jpg",
+      "source": "GitHub · shooterspps/duckstation",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "nethersx2": {
+      "path": "./assets/covers/a737faea7fc8ab389ea3.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/NaGaa95/NetherSX2_nx/main/icon.jpg",
+      "source": "GitHub · NaGaa95/NetherSX2_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "nezumiiruka": {
+      "path": "./assets/covers/11ee723858d38c766436.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/PalindromicBreadLoaf/nezumiiruka/master/Source/Core/DolphinSwitch/icon.jpg",
+      "source": "GitHub · PalindromicBreadLoaf/nezumiiruka",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ppssppnx": {
+      "path": "./assets/covers/ce738858494b73ddbeb6.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/NaGaa95/ppsspp-nx/master/icons/PPSSPP-icon.jpg",
+      "source": "GitHub · NaGaa95/ppsspp-nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "armsx2": {
+      "path": "./assets/covers/037a6c57a20cbbf831d1.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/PalindromicBreadLoaf/ARMSX2-NX/master/switch/app/icon.jpg",
+      "source": "GitHub · PalindromicBreadLoaf/ARMSX2-NX",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "system22nx": {
+      "path": "./assets/covers/744af43a357dc0dd36c3.webp",
+      "sourceUrl": "https://github.com/user-attachments/assets/e8ca68d1-fcc5-4a26-be98-a2cb9bb628bc",
+      "source": "System22 NX · official project screenshot",
+      "checkedAt": "2026-10-21T09:03:49.871Z",
+      "overrideSignature": "a5afb418c03cd329"
+    },
+    "yabasanshiro": {
+      "path": "./assets/covers/1fabd95e796ad2f59508.webp",
+      "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Sega-Saturn-Console-Set-Mk2.png/960px-Sega-Saturn-Console-Set-Mk2.png",
+      "source": "Wikipedia · Sega Saturn",
+      "checkedAt": "2026-10-21T09:03:49.871Z",
+      "overrideSignature": "55d3caea99558287"
+    },
+    "ppsspp": {
+      "path": "./assets/covers/9072f22bfaa09ca1c086.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/SirSamael/ppsspp-switch-community-build/release-v0.6.0/icons/PPSSPP-icon.jpg",
+      "source": "GitHub · SirSamael/ppsspp-switch-community-build",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "vita3k": {
+      "path": "./assets/covers/e99b5cc42ae14bf3a78c.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/NaGaa95/Vita3K-nx/master/switch-launcher/icon.jpg",
+      "source": "GitHub · NaGaa95/Vita3K-nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "dsmilenx": {
+      "path": "./assets/covers/62cc900776acec40afac.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/1timewire1/D.Smile_nx/main/switch/icon.jpg",
+      "source": "GitHub · 1timewire1/D.Smile_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "cemu": {
+      "path": "./assets/covers/8909ed424d341810e50f.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/NaGaa95/Cemu-nx/main/dist/switch/icon.jpg",
+      "source": "GitHub · NaGaa95/Cemu-nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "angrybirdsforever": {
+      "path": "./assets/covers/982ea9102f77c2db2895.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/aks796/abforever_nx/main/launcher/icon.jpg",
+      "source": "GitHub · aks796/abforever_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "amazingspiderman2": {
+      "path": "./assets/covers/8cca037cf015fd71f275.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/boraeskicioglu/tasm2_nx/main/launcher/icon.jpg",
+      "source": "GitHub · boraeskicioglu/tasm2_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "angrybirdsspacehd": {
+      "path": "./assets/covers/75c15b4d9573a43b7dfd.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/aks796/abspace_nx/main/launcher/icon.jpg",
+      "source": "GitHub · aks796/abspace_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "autorun": {
+      "path": "./assets/covers/e79af6a271660a65e69b.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/danfromtico/autorun/main/horizon-wine/assets/icon.jpg",
+      "source": "GitHub · danfromtico/autorun",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "angrybirdsstarwars2": {
+      "path": "./assets/covers/e8ac6b28560f0f699ad2.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/markaurel13/abstarwars2_nx/main/launcher/icon.jpg",
+      "source": "GitHub · markaurel13/abstarwars2_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "asphalt8airborneretry": {
+      "path": "./assets/covers/a267460dfe6644b2b4bd.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/aks796/a8retry_nx/main/icon.jpg",
+      "source": "GitHub · aks796/a8retry_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "assassinscreedaltairschronicleshd": {
+      "path": "./assets/covers/d101a863e0d7a8bd6791.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/iqbalriz/assassinscreed_nx/master/launcher/icon.jpg",
+      "source": "GitHub · iqbalriz/assassinscreed_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "costumequest": {
+      "path": "./assets/covers/6572dfe4ac972da82a24.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/iqbalriz/costumequest_nx/master/launcher/icon.jpg",
+      "source": "GitHub · iqbalriz/costumequest_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "dantheman": {
+      "path": "./assets/covers/04081f611edfaf0ab3fd.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/hazevauks/dantheman_nx/main/launcher/icon.jpg",
+      "source": "GitHub · hazevauks/dantheman_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "deadspacesabotage": {
+      "path": "./assets/covers/9b9a0e58b479ebb21782.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/hazevauks/deadspace_nx/main/launcher/icon.jpg",
+      "source": "GitHub · hazevauks/deadspace_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "darkknightrises": {
+      "path": "./assets/covers/5bfe72b5b224a1cbccf0.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/lemasterxar5/tdkr_nx/main/launcher/icon.jpg",
+      "source": "GitHub · lemasterxar5/tdkr_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ducktalesremastered": {
+      "path": "./assets/covers/c650aae0c61ed71bd246.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/Thorhax/Ducktales-NX/main/launcher/icon.jpg",
+      "source": "GitHub · Thorhax/Ducktales-NX",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "disneycrossyroad": {
+      "path": "./assets/covers/31a05fd688bde8a5b1e5.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/aks796/dcr_sea_nx/main/launcher/icon.jpg",
+      "source": "GitHub · aks796/dcr_sea_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "flappybirdsfamily": {
+      "path": "./assets/covers/bce31af444fb5fefd495.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/aks796/flappybirdsfamily_nx/main/launcher/icon.jpg",
+      "source": "GitHub · aks796/flappybirdsfamily_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "needforspeedmostwanted": {
+      "path": "./assets/covers/14ab2d9ccd0ed263c4f2.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/StevensND/nfsmw-nx/main/extras/banner.png",
+      "source": "GitHub · StevensND/nfsmw-nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "nova3nearorbitvanguardalliance": {
+      "path": "./assets/covers/6b947c2b97b037a34747.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/markaurel13/nova3-nx/main/launcher/icon.jpg",
+      "source": "GitHub · markaurel13/nova3-nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "plantsvszombiestouch": {
+      "path": "./assets/covers/95cb5ed6eae5864e0305.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/aks796/pvz_touch_nx/main/icon.jpg",
+      "source": "GitHub · aks796/pvz_touch_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "labyrinth2": {
+      "path": "./assets/covers/7f8385c97ab6d5463a9e.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/aks796/labyrinth2_nx/main/icon.png",
+      "source": "GitHub · aks796/labyrinth2_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "raymanjunglerun": {
+      "path": "./assets/covers/92605d1fde1f95c08d3a.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/iqbalriz/rayman_nx/main/launcher/icon.jpg",
+      "source": "GitHub · iqbalriz/rayman_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "raymanfiestarun": {
+      "path": "./assets/covers/8015eb8e05cd662b633f.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/iqbalriz/fiestarun_nx/main/launcher/icon.jpg",
+      "source": "GitHub · iqbalriz/fiestarun_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "smashhit": {
+      "path": "./assets/covers/ae189dffacd1b4a03b7f.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/hazevauks/smashhit_nx/main/launcher/icon.jpg",
+      "source": "GitHub · hazevauks/smashhit_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "sonicsegaallstarsracing": {
+      "path": "./assets/covers/3ee89314a2ed8c1eb24f.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/aks796/sonic_allstars_nx/main/icon.jpg",
+      "source": "GitHub · aks796/sonic_allstars_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ultimatespidermantotalmayhem": {
+      "path": "./assets/covers/06fd2f73e5405c672259.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/boraeskicioglu/spiderman_total_mayhem_nx/main/launcher/icon.jpg",
+      "source": "GitHub · boraeskicioglu/spiderman_total_mayhem_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "afterburnerclimax": {
+      "path": "./assets/covers/b0fae77c738a5f0e6bc8.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/NaGaa95/abc_nx/main/icon.jpg",
+      "source": "GitHub · NaGaa95/abc_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "adventuresofmana": {
+      "path": "./assets/covers/19008694e920f9207cbe.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/NaGaa95/aom_nx/main/icon.jpg",
+      "source": "GitHub · NaGaa95/aom_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "angrybirds2": {
+      "path": "./assets/covers/364fba104964dc3c230a.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/NaGaa95/angrybirds2_nx/main/icon.jpg",
+      "source": "GitHub · NaGaa95/angrybirds2_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "angrybirdsclassic": {
+      "path": "./assets/covers/0c3a2df17287776a3af2.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/ChanseyIsTheBest/angrybirdsclassic_nx/main/icon.jpg",
+      "source": "GitHub · ChanseyIsTheBest/angrybirdsclassic_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "angrybirdsjourney": {
+      "path": "./assets/covers/649588d72adb886d86b3.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/NaGaa95/angrybirdsjourney_nx/main/icon.jpg",
+      "source": "GitHub · NaGaa95/angrybirdsjourney_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "angrybirdsepicallstars": {
+      "path": "./assets/covers/dd6ed77c4f6e52c2e2c8.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/xflipperkast/angrybirdsas_nx/main/icon.jpg",
+      "source": "GitHub · xflipperkast/angrybirdsas_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "animalcrossingpocketcamp": {
+      "path": "./assets/covers/f6e41b70f423c565a2d7.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/NaGaa95/acpc_nx/main/icon.jpg",
+      "source": "GitHub · NaGaa95/acpc_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "badpiggies": {
+      "path": "./assets/covers/99ee6e050a0ceddb8437.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/ChanseyIsTheBest/badpiggies_nx/main/icon.jpg",
+      "source": "GitHub · ChanseyIsTheBest/badpiggies_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "baldisbasicclassic": {
+      "path": "./assets/covers/21b74816e447c7018ea9.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/ChanseyIsTheBest/baldi_nx/main/icon.jpg",
+      "source": "GitHub · ChanseyIsTheBest/baldi_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "bananakong": {
+      "path": "./assets/covers/e9fab2bc01f076d56c40.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/ChanseyIsTheBest/bananakong_nx/main/icon.jpg",
+      "source": "GitHub · ChanseyIsTheBest/bananakong_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "bloonsadventuretimetd": {
+      "path": "./assets/covers/6abc0cf98e850ff4dd8d.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/ChanseyIsTheBest/battd_nx/main/icon.jpg",
+      "source": "GitHub · ChanseyIsTheBest/battd_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "bloonspop": {
+      "path": "./assets/covers/e2e88daa3f9ada7491c5.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/ChanseyIsTheBest/bloons_pop_nx/main/icon.jpg",
+      "source": "GitHub · ChanseyIsTheBest/bloons_pop_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "bloonstd5mobile": {
+      "path": "./assets/covers/31e405db858855c488bd.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/ChanseyIsTheBest/btd5_nx/main/icon.jpg",
+      "source": "GitHub · ChanseyIsTheBest/btd5_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "bombsquadexplodinary": {
+      "path": "./assets/covers/7a22fb61715fdf7aa317.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/aks796/bse_rebombed_nx/main/resources/icon.jpg",
+      "source": "GitHub · aks796/bse_rebombed_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "bombsquad": {
+      "path": "./assets/covers/2df555bb11d3e6055ff7.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/aks796/bombsquad_nx/main/resources/icon.jpg",
+      "source": "GitHub · aks796/bombsquad_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "bombsquadjoyride": {
+      "path": "./assets/covers/4292b04f169d711bfcd6.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/aks796/bs_joyride_nx/main/resources/icon.jpg",
+      "source": "GitHub · aks796/bs_joyride_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "bloonssupermonkey2": {
+      "path": "./assets/covers/f63b8c19bc4d42ae953f.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/ChanseyIsTheBest/smk2_nx/main/icon.jpg",
+      "source": "GitHub · ChanseyIsTheBest/smk2_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "bullyanniversaryedition": {
+      "path": "./assets/covers/3a11e215cd4d422f93cf.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/givethesourceplox/bully-NX/master/icon.jpg",
+      "source": "GitHub · givethesourceplox/bully-NX",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "bouncemasters": {
+      "path": "./assets/covers/e441e26cbe6185f07a21.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/ChanseyIsTheBest/bouncemasters_nx/main/icon.jpg",
+      "source": "GitHub · ChanseyIsTheBest/bouncemasters_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "burgershop2": {
+      "path": "./assets/covers/333da9ed7a8db82314d4.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/ChanseyIsTheBest/burgershop2_nx/main/icon.jpg",
+      "source": "GitHub · ChanseyIsTheBest/burgershop2_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "burgershop": {
+      "path": "./assets/covers/0f9a40600e1f8e507ee4.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/ChanseyIsTheBest/burgershop_nx/main/icon.jpg",
+      "source": "GitHub · ChanseyIsTheBest/burgershop_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "castleofillusion": {
+      "path": "./assets/covers/57c307eacbfa2c72f91f.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/NaGaa95/coi_nx/main/icon.jpg",
+      "source": "GitHub · NaGaa95/coi_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "castlevaniasymphonyofthenight": {
+      "path": "./assets/covers/0e527a0f9799db093b8b.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/NaGaa95/sotn_nx/main/icon.jpg",
+      "source": "GitHub · NaGaa95/sotn_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "chaosringsiii": {
+      "path": "./assets/covers/787dea79dbc49c89e184.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/NaGaa95/cr3_nx/main/icon.jpg",
+      "source": "GitHub · NaGaa95/cr3_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "chronotrigger": {
+      "path": "./assets/covers/1a250457ed6f8a76a93a.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/NaGaa95/ct_nx/main/icon.jpg",
+      "source": "GitHub · NaGaa95/ct_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "cloverpit": {
+      "path": "./assets/covers/5a603935d5b580834b4b.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/ChanseyIsTheBest/cloverpit_nx/main/icon.jpg",
+      "source": "GitHub · ChanseyIsTheBest/cloverpit_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "clayjamclassic": {
+      "path": "./assets/covers/95ec7101e0f78a7a8a79.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/ChanseyIsTheBest/clayjamclassic_nx/main/icon.jpg",
+      "source": "GitHub · ChanseyIsTheBest/clayjamclassic_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "counterstrikesource": {
+      "path": "./assets/covers/7348b5e3111084334c35.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/NaGaa95/css_nx/main/icon.jpg",
+      "source": "GitHub · NaGaa95/css_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "crazytaxi": {
+      "path": "./assets/covers/cfd504f15699957a82a5.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/delsonazevedo/crazytaxy_nx/master/icon.jpg",
+      "source": "GitHub · delsonazevedo/crazytaxy_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "colorsheep": {
+      "path": "./assets/covers/5c31d1240ed8b2217450.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/ChanseyIsTheBest/colorsheep_nx/main/icon.jpg",
+      "source": "GitHub · ChanseyIsTheBest/colorsheep_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "cuttherope": {
+      "path": "./assets/covers/d54f5c1a75eb0442c37b.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/NaGaa95/ctr_nx/main/icon.jpg",
+      "source": "GitHub · NaGaa95/ctr_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "cuttherope2": {
+      "path": "./assets/covers/b27885127a57d1938ec9.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/NaGaa95/ctr2_nx/main/icon.jpg",
+      "source": "GitHub · NaGaa95/ctr2_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "cuttheropeexperiments": {
+      "path": "./assets/covers/954999ad330ae3aebab4.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/1timewire1/ctr_experiments_nx/main/icon.jpg",
+      "source": "GitHub · 1timewire1/ctr_experiments_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "cuttheropemagic": {
+      "path": "./assets/covers/c6dd37e8caaeea33aeb2.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/1timewire1/ctr_magic_nx/main/icon.jpg",
+      "source": "GitHub · 1timewire1/ctr_magic_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "cuttheropetimetravel": {
+      "path": "./assets/covers/0d73db4e3a5f04dcdd47.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/1timewire1/ctr_timetravel_nx/main/icon.jpg",
+      "source": "GitHub · 1timewire1/ctr_timetravel_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "datadefense": {
+      "path": "./assets/covers/105460dbea0e50c36502.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/ChanseyIsTheBest/datadefense_nx/main/icon.jpg",
+      "source": "GitHub · ChanseyIsTheBest/datadefense_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "deep3dsubmarineodyssey": {
+      "path": "./assets/covers/22719efcde1fce3364c8.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/artslay/abyssal_nx/main/icon.jpg",
+      "source": "GitHub · artslay/abyssal_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "deusexgo": {
+      "path": "./assets/covers/4d895ca64772cc2a8ba3.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/ChanseyIsTheBest/deusexgo_nx/main/icon.jpg",
+      "source": "GitHub · ChanseyIsTheBest/deusexgo_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "drmariomania": {
+      "path": "./assets/covers/4d1200ed8cc1a95713f0.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/delsonazevedo/drmariomania_nx/main/icon.jpg",
+      "source": "GitHub · delsonazevedo/drmariomania_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "dukedashingtonremastered": {
+      "path": "./assets/covers/68a85d396381c5821e82.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/ChanseyIsTheBest/dukedashington_nx/main/icon.jpg",
+      "source": "GitHub · ChanseyIsTheBest/dukedashington_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "earn2die": {
+      "path": "./assets/covers/d0b29302f0bb61d98d59.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/xflipperkast/earntodie2_nx/main/icon.jpg",
+      "source": "GitHub · xflipperkast/earntodie2_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "theexecutive": {
+      "path": "./assets/covers/46bb38b78c201fcf6525.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/ChanseyIsTheBest/the_executive_nx/main/icon.jpg",
+      "source": "GitHub · ChanseyIsTheBest/the_executive_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "theelderscrollsiidaggerfallunity": {
+      "path": "./assets/covers/18103d70602bc42d53b1.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/ChanseyIsTheBest/daggerfall_nx/main/icon.jpg",
+      "source": "GitHub · ChanseyIsTheBest/daggerfall_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "finalfantasydimensions": {
+      "path": "./assets/covers/cd3dea7ba42e27df1468.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/NaGaa95/ffd_nx/main/icon.jpg",
+      "source": "GitHub · NaGaa95/ffd_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "finalfantasyiii3dremake": {
+      "path": "./assets/covers/32319442cdda531184a8.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/NaGaa95/ff3_3d_nx/main/icon.jpg",
+      "source": "GitHub · NaGaa95/ff3_3d_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "finalfantasydimensionii": {
+      "path": "./assets/covers/71e1cb160a5a2de689f4.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/NaGaa95/ffd2_nx/main/icon.jpg",
+      "source": "GitHub · NaGaa95/ffd2_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "finalfantasyiv3dremake": {
+      "path": "./assets/covers/bb945df6327ac2cd2476.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/GlitchedDeveloper/ff4_nx/main/icon.jpg",
+      "source": "GitHub · GlitchedDeveloper/ff4_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "finalfantasyivtheafteryears": {
+      "path": "./assets/covers/1d7ee1a4db13e03c3b1c.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/NaGaa95/ff4tay_nx/main/icon.jpg",
+      "source": "GitHub · NaGaa95/ff4tay_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "flappybird": {
+      "path": "./assets/covers/9a105cf55f3d3a6f2704.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/aks796/flappy_bird_nx/main/icon.jpg",
+      "source": "GitHub · aks796/flappy_bird_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "fruitninjaclassic": {
+      "path": "./assets/covers/4154d5fd28b473017ad6.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/ChanseyIsTheBest/fruitninjaclassic_nx/main/icon.jpg",
+      "source": "GitHub · ChanseyIsTheBest/fruitninjaclassic_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "galaxyonfire": {
+      "path": "./assets/covers/fe99a802d60a392bbd64.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/artslay/galaxian_nx/main/icon.jpg",
+      "source": "GitHub · artslay/galaxian_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "geometrydash": {
+      "path": "./assets/covers/3198b801e1e057f9099c.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/NaGaa95/gdash_nx/main/icon.jpg",
+      "source": "GitHub · NaGaa95/gdash_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "gizmoduck": {
+      "path": "./assets/covers/ca752ad47bd4593c2cbb.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/Thorhax/Gizmoduck-NX-Modern/main/icon.jpg",
+      "source": "GitHub · Thorhax/Gizmoduck-NX-Modern",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "grandtheftauto3": {
+      "path": "./assets/covers/2ac9c5276d6dcdcb9220.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/mariob0y/gta3-nx/main/icon.png",
+      "source": "GitHub · mariob0y/gta3-nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "grandtheftautochinatownwars": {
+      "path": "./assets/covers/9734f4590b3392c8e41a.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/NaGaa95/gtactw_nx/main/icon.jpg",
+      "source": "GitHub · NaGaa95/gtactw_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "grandtheftautolibertycitystories": {
+      "path": "./assets/covers/ce082f7f941a6a391478.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/NaGaa95/gtalcs_nx/main/icon.jpg",
+      "source": "GitHub · NaGaa95/gtalcs_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "grandtheftautosanandreas": {
+      "path": "./assets/covers/74a99a5b5bc9b8a96079.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/NaGaa95/gtasa_nx/main/icon.jpg",
+      "source": "GitHub · NaGaa95/gtasa_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "happywheels": {
+      "path": "./assets/covers/f4cf8297e15942f70f59.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/ChanseyIsTheBest/happywheels_nx/main/icon.jpg",
+      "source": "GitHub · ChanseyIsTheBest/happywheels_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "heartstar": {
+      "path": "./assets/covers/3ad5aec3f4f0282f1d49.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/ChanseyIsTheBest/heartstar_nx/main/icon.jpg",
+      "source": "GitHub · ChanseyIsTheBest/heartstar_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "hillclimbracing": {
+      "path": "./assets/covers/2585a293979d998fe795.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/xflipperkast/HCR_NX/main/icon.jpg",
+      "source": "GitHub · xflipperkast/HCR_NX",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "hitmango": {
+      "path": "./assets/covers/0f0016564d379aeebefb.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/ChanseyIsTheBest/hitmango_nx/main/icon.jpg",
+      "source": "GitHub · ChanseyIsTheBest/hitmango_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "howmanydudes": {
+      "path": "./assets/covers/ad1b8927f628fe813b2d.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/boraeskicioglu/hmd_nx/main/icon.jpg",
+      "source": "GitHub · boraeskicioglu/hmd_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "infinityblade": {
+      "path": "./assets/covers/13063ab398ab8cf88870.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/aks796/infinityblade_nx/main/resources/icon.jpg",
+      "source": "GitHub · aks796/infinityblade_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "jackiechanstuntmaster": {
+      "path": "./assets/covers/e07e29caa8a757bbeb9f.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/CostelaCNX/ReChan-Switch/main/switch/rechan/icon.jpg",
+      "source": "GitHub · CostelaCNX/ReChan-Switch",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "jetpackjoyride": {
+      "path": "./assets/covers/b70028e05b7c2b6dc63b.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/NaGaa95/jetpackjoyride_nx/main/icon.jpg",
+      "source": "GitHub · NaGaa95/jetpackjoyride_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "killerbeanunleashed": {
+      "path": "./assets/covers/f53bd95c3f64f1227e83.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/ChanseyIsTheBest/killerbean_nx/main/icon.jpg",
+      "source": "GitHub · ChanseyIsTheBest/killerbean_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "kingdomheartsuniondarkroad": {
+      "path": "./assets/covers/2b135498b31d4feae457.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/NaGaa95/KHUx_nx/main/icon.jpg",
+      "source": "GitHub · NaGaa95/KHUx_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "laracroftgo": {
+      "path": "./assets/covers/e641664286b1d670ac14.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/ChanseyIsTheBest/laracroftgo_nx/main/icon.jpg",
+      "source": "GitHub · ChanseyIsTheBest/laracroftgo_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "laytonbrothersmysteryroom": {
+      "path": "./assets/covers/0c2bb1f5cff966699b41.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/NaGaa95/laytonbmr_nx/main/icon.jpg",
+      "source": "GitHub · NaGaa95/laytonbmr_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "halflife2": {
+      "path": "./assets/covers/faa899dc1a1a63a451ac.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/NaGaa95/hl2_nx/main/icon.jpg",
+      "source": "GitHub · NaGaa95/hl2_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "legobatmanbeyondgotham": {
+      "path": "./assets/covers/465fd55af1628e23f088.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/NaGaa95/lbbg_nx/main/icon.jpg",
+      "source": "GitHub · NaGaa95/lbbg_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "legostarwarsthecompletesaga": {
+      "path": "./assets/covers/303488e6f9703119ebd7.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/NaGaa95/lswtcs_nx/main/icon.jpg",
+      "source": "GitHub · NaGaa95/lswtcs_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "legoninjagoshadowofronin": {
+      "path": "./assets/covers/7928447f605099f4e74a.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/NaGaa95/lnsor_nx/main/icon.jpg",
+      "source": "GitHub · NaGaa95/lnsor_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "legostarwarstheforceawakens": {
+      "path": "./assets/covers/d316a35855d2c2fc5b68.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/NaGaa95/lswtfa_nx/main/icon.jpg",
+      "source": "GitHub · NaGaa95/lswtfa_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "levelupmariosminigamesmayhem": {
+      "path": "./assets/covers/21334279f4043afb4793.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/aks796/lummm_nx/main/lummm_nx/icon.jpg",
+      "source": "GitHub · aks796/lummm_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "maxpayne": {
+      "path": "./assets/covers/86816ce7d2ed6d75e7d0.webp",
+      "sourceUrl": "https://cdn.akamai.steamstatic.com/steam/apps/12140/header.jpg",
+      "source": "Steam · app 12140",
+      "checkedAt": "2026-10-21T09:03:49.871Z",
+      "overrideSignature": "d9e5d13c4abd23b8"
+    },
+    "megamanxregenesis": {
+      "path": "./assets/covers/6c475e9e17435a01ebd7.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/StevensND/mmxregenesis_nx/main/icon.jpg",
+      "source": "GitHub · StevensND/mmxregenesis_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "metroidprimeorigins": {
+      "path": "./assets/covers/7256b30874d1feae5f27.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/bshurikan/mpo_nx/main/docs/assets/icon.png",
+      "source": "GitHub · bshurikan/mpo_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "nbajam": {
+      "path": "./assets/covers/2a03c4b8e9b6ba013f5d.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/delsonazevedo/nbajam_nx/main/icon.jpg",
+      "source": "GitHub · delsonazevedo/nbajam_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "mulmashtabbagalgal": {
+      "path": "./assets/covers/d381727e01a0448103fb.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/ChanseyIsTheBest/mulmash_nx/main/icon.jpg",
+      "source": "GitHub · ChanseyIsTheBest/mulmash_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "papapearsaga": {
+      "path": "./assets/covers/d7bd6a3ec3429c1b6f61.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/ChanseyIsTheBest/papapear_nx/main/icon.jpg",
+      "source": "GitHub · ChanseyIsTheBest/papapear_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "papasburgeriatogo": {
+      "path": "./assets/covers/16b087dc311ca3167496.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/xflipperkast/papasburgeria_nx/main/icon.jpg",
+      "source": "GitHub · xflipperkast/papasburgeria_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "papascluckeriatogo": {
+      "path": "./assets/covers/064b7757e1416a012b4a.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/xflipperkast/papascluckeria_nx/main/icon.jpg",
+      "source": "GitHub · xflipperkast/papascluckeria_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "papaspaleteriatogo": {
+      "path": "./assets/covers/a4d6e8cb501771ec1dd9.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/xflipperkast/papaspaleteria_nx/main/icon.jpg",
+      "source": "GitHub · xflipperkast/papaspaleteria_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "papaspizzeriatogo": {
+      "path": "./assets/covers/8c1674f1fa31459fb1dd.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/xflipperkast/papapizzatg_nx/main/icon.jpg",
+      "source": "GitHub · xflipperkast/papapizzatg_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "papersplease": {
+      "path": "./assets/covers/80cb010ae27ab222399e.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/ChanseyIsTheBest/papersplease_nx/main/icon.jpg",
+      "source": "GitHub · ChanseyIsTheBest/papersplease_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "phigros": {
+      "path": "./assets/covers/76f895d5ae247501a904.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/ChanseyIsTheBest/phigros_nx/main/icon.jpg",
+      "source": "GitHub · ChanseyIsTheBest/phigros_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "pizzavsskeletons": {
+      "path": "./assets/covers/24a0f4cb2fb848b14f48.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/ChanseyIsTheBest/pvs_nx/main/icon.jpg",
+      "source": "GitHub · ChanseyIsTheBest/pvs_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "phigroscn": {
+      "path": "./assets/covers/f651e82c7d75c6c7f146.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/6eone6/phigros_nx_cn/main/icon.jpg",
+      "source": "GitHub · 6eone6/phigros_nx_cn",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "plantsvszombiesfusion": {
+      "path": "./assets/covers/a8d887f7af24ef926230.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/ChanseyIsTheBest/pvz_fusion_en_nx/main/icon.jpg",
+      "source": "GitHub · ChanseyIsTheBest/pvz_fusion_en_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "plantsvszombies2": {
+      "path": "./assets/covers/a1a509b74d70053b4e72.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/xflipperkast/PVZ2_NX/main/icon.jpg",
+      "source": "GitHub · xflipperkast/PVZ2_NX",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "plantsvszombies2reflourished": {
+      "path": "./assets/covers/52a9a641d3db80778762.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/xflipperkast/PVZ2RF_NX/main/icon.jpg",
+      "source": "GitHub · xflipperkast/PVZ2RF_NX",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "plantsvszombiesultimate": {
+      "path": "./assets/covers/c97538e94b544cea5199.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/ChanseyIsTheBest/pvz_ultimate_nx/main/icon.jpg",
+      "source": "GitHub · ChanseyIsTheBest/pvz_ultimate_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "pocketcrystalleague": {
+      "path": "./assets/covers/dccb2412d8276e038a51.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/ChanseyIsTheBest/pcl_nx/main/icon.jpg",
+      "source": "GitHub · ChanseyIsTheBest/pcl_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "poorbunny": {
+      "path": "./assets/covers/30f6eab2594cdecca1ca.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/ChanseyIsTheBest/poorbunny_nx/main/icon.jpg",
+      "source": "GitHub · ChanseyIsTheBest/poorbunny_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "pou": {
+      "path": "./assets/covers/85175f58c6209deb5515.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/xflipperkast/pou_nx/main/icon.jpg",
+      "source": "GitHub · xflipperkast/pou_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "professorlaytoncuriousvillagehd": {
+      "path": "./assets/covers/06d0d2bcd084b7ec794a.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/NaGaa95/layton_nx/main/icon.jpg",
+      "source": "GitHub · NaGaa95/layton_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "professorlaytonlosthopehd": {
+      "path": "./assets/covers/d5dc7ef0aadc4429e514.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/NaGaa95/layton3_nx/main/icon.jpg",
+      "source": "GitHub · NaGaa95/layton3_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "professorlaytonpandorasboxhd": {
+      "path": "./assets/covers/777d75113090af25f802.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/NaGaa95/layton2_nx/main/icon.jpg",
+      "source": "GitHub · NaGaa95/layton2_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "theroomoldsins": {
+      "path": "./assets/covers/201a24edee12fda32525.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/ChanseyIsTheBest/theroom4_nx/main/icon.jpg",
+      "source": "GitHub · ChanseyIsTheBest/theroom4_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "theroom3": {
+      "path": "./assets/covers/dd01e083b9d13f5287ce.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/ChanseyIsTheBest/theroomthree_nx/main/icon.jpg",
+      "source": "GitHub · ChanseyIsTheBest/theroomthree_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "slitherio": {
+      "path": "./assets/covers/dc4e5b8f179beab58a00.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/xflipperkast/slither_nx/main/icon.jpg",
+      "source": "GitHub · xflipperkast/slither_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "sonic4episode2": {
+      "path": "./assets/covers/0dd988223298c749b7d6.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/boraeskicioglu/s4ep2-nx/main/icon.jpg",
+      "source": "GitHub · boraeskicioglu/s4ep2-nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "sonicdash": {
+      "path": "./assets/covers/baa63dcf86301f676eb7.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/ChanseyIsTheBest/sonicdash_nx/main/icon.jpg",
+      "source": "GitHub · ChanseyIsTheBest/sonicdash_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "slaythespire2": {
+      "path": "./assets/covers/494ba2f4dd70508416c7.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/ChanseyIsTheBest/sts2_nx/main/icon.jpg",
+      "source": "GitHub · ChanseyIsTheBest/sts2_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "sonicdash2sonicboom": {
+      "path": "./assets/covers/f2903bb94c9f23d6cd1a.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/ChanseyIsTheBest/sonicboomdash_nx/main/icon.jpg",
+      "source": "GitHub · ChanseyIsTheBest/sonicboomdash_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "sonicjump": {
+      "path": "./assets/covers/919c3e8e8cfe26bdad73.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/ChanseyIsTheBest/sonicjump_nx/main/icon.jpg",
+      "source": "GitHub · ChanseyIsTheBest/sonicjump_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "sonicjumpfever": {
+      "path": "./assets/covers/f0dd892f3be18c40e768.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/ChanseyIsTheBest/sonicjumpfever_nx/main/icon.jpg",
+      "source": "GitHub · ChanseyIsTheBest/sonicjumpfever_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "sonicrunnersadventure": {
+      "path": "./assets/covers/3d2f7c5c91c442b9dfd4.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/boraeskicioglu/sonic_runners_adventure_nx/main/icon.jpg",
+      "source": "GitHub · boraeskicioglu/sonic_runners_adventure_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "sonictripletrouble16bit": {
+      "path": "./assets/covers/ca0a186e3448058621b5.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/boraeskicioglu/stt16bit_nx/main/icon.jpg",
+      "source": "GitHub · boraeskicioglu/stt16bit_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "stonestoryrpg": {
+      "path": "./assets/covers/5483ba0b706cabc33990.webp",
+      "sourceUrl": "https://cdn.akamai.steamstatic.com/steam/apps/603390/header.jpg",
+      "source": "Steam · app 603390",
+      "checkedAt": "2026-10-21T09:03:49.871Z",
+      "overrideSignature": "66da2ca0cccd9d31"
+    },
+    "stickwithit": {
+      "path": "./assets/covers/bcad077a70e1566c3ebc.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/souldbminerr/swi-nx/main/icon.jpg",
+      "source": "GitHub · souldbminerr/swi-nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "streetsofragex": {
+      "path": "./assets/covers/652f61f31fd903ce5a73.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/delsonazevedo/sorx_nx/main/icon.jpg",
+      "source": "GitHub · delsonazevedo/sorx_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "subwaysurfers": {
+      "path": "./assets/covers/6ee03a2a7de9d5272cbe.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/NaGaa95/subwaysurfers_nx/main/icon.jpg",
+      "source": "GitHub · NaGaa95/subwaysurfers_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "supermario63redux": {
+      "path": "./assets/covers/f7637994545d33691496.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/aks796/sm63redux_nx/main/icon.jpg",
+      "source": "GitHub · aks796/sm63redux_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "supermario127": {
+      "path": "./assets/covers/da594beabf7549c1220f.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/aks796/sm127_nx/main/icon.jpg",
+      "source": "GitHub · aks796/sm127_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "supermariobrosremastered": {
+      "path": "./assets/covers/a8315e8950e8717a451e.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/delsonazevedo/Super-Mario-Bros.-Remastered-Switch/main/icon.jpg",
+      "source": "GitHub · delsonazevedo/Super-Mario-Bros.-Remastered-Switch",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "supermarioworldremasteredplus": {
+      "path": "./assets/covers/eac41e1f917d57d8ce75.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/delsonazevedo/Super-Mario-World-Remastered-Plus-Switch/main/icon.jpg",
+      "source": "GitHub · delsonazevedo/Super-Mario-World-Remastered-Plus-Switch",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "swordigo": {
+      "path": "./assets/covers/75b7104f65de96493705.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/NaGaa95/swordigo_nx/main/icon.jpg",
+      "source": "GitHub · NaGaa95/swordigo_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "teamfortress2reclassic": {
+      "path": "./assets/covers/d1cf8bd904dddfcb9809.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/NaGaa95/tf2_nx/main/icon.jpg",
+      "source": "GitHub · NaGaa95/tf2_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "tickettoearth": {
+      "path": "./assets/covers/eeff45dd5b6a58ce31a6.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/ChanseyIsTheBest/tte_nx/main/icon.jpg",
+      "source": "GitHub · ChanseyIsTheBest/tte_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "totalpartykill": {
+      "path": "./assets/covers/6e3848fac1d960a3c763.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/ChanseyIsTheBest/totalpartykill_nx/main/icon.jpg",
+      "source": "GitHub · ChanseyIsTheBest/totalpartykill_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "verylittlenightmares": {
+      "path": "./assets/covers/0ce87168a8638f006d5a.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/NaGaa95/vln_nx/main/icon.jpg",
+      "source": "GitHub · NaGaa95/vln_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "valkyrieprofilelenneth": {
+      "path": "./assets/covers/cedf7342609af1c5d8fb.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/delsonazevedo/vpl_nx/main/icon.jpg",
+      "source": "GitHub · delsonazevedo/vpl_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "vvvvvv": {
+      "path": "./assets/covers/9589d9159dd2b3dd73a7.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/auggeythecat/NX-VVVVVV--recomp/main/desktop_version/icon.jpg",
+      "source": "GitHub · auggeythecat/NX-VVVVVV--recomp",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "wheresmywater": {
+      "path": "./assets/covers/7b4726e2db77e71eb1bc.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/ChanseyIsTheBest/wmw_nx/main/icon.jpg",
+      "source": "GitHub · ChanseyIsTheBest/wmw_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "wheresmywater2": {
+      "path": "./assets/covers/49c4c4f3d7dfa1c9ded0.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/ChanseyIsTheBest/wmw2_nx/main/icon.jpg",
+      "source": "GitHub · ChanseyIsTheBest/wmw2_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "yschronicles1": {
+      "path": "./assets/covers/d4cd5f1f04ac26800342.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/DI4VOLO-dev/ys1x_nx/main/ys1x_nx/icon.jpg",
+      "source": "GitHub · DI4VOLO-dev/ys1x_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "zombotronreboot": {
+      "path": "./assets/covers/2ac628b6763f99ca9983.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/StevensND/zombotron_nx/main/icon.jpg",
+      "source": "GitHub · StevensND/zombotron_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "zookeeperdx": {
+      "path": "./assets/covers/61d05489b5d761223516.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/ChanseyIsTheBest/zookeeperdx_nx/main/icon.jpg",
+      "source": "GitHub · ChanseyIsTheBest/zookeeperdx_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "cybertroopersvirtualon": {
+      "path": "./assets/covers/7219ff3eb897ed509d82.webp",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/7/74/Virtual_On_-_Cyber_Troopers_arcade_flyer.jpg",
+      "source": "Wikipedia · Virtual On: Cyber Troopers",
+      "checkedAt": "2026-10-21T09:03:49.871Z",
+      "overrideSignature": "2d06d914e277579c"
+    },
+    "daytonausa": {
+      "path": "./assets/covers/716b3da4828c8f1689c9.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/Thorhax/Daytona-NX-Modern/main/platform/switch/icon.jpg",
+      "source": "GitHub · Thorhax/Daytona-NX-Modern",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "segarally": {
+      "path": "./assets/covers/110319f6a788b68873a5.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/jacquesdupontd/port0r/main/assets/switch/header.jpg",
+      "source": "GitHub · jacquesdupontd/port0r",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "sonicthefighters": {
+      "path": "./assets/covers/7c7f66675294e9a3332f.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/boraeskicioglu/sonic_the_fighters_nx/main/icon.jpg",
+      "source": "GitHub · boraeskicioglu/sonic_the_fighters_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "killerinstinct2": {
+      "path": "./assets/covers/dc8cdde5088ce16a8047.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/Thorhax/Killer-Instinct-2-NX-Modern/main/switch-package/switch/kinst2/ki2-icon.jpg",
+      "source": "GitHub · Thorhax/Killer-Instinct-2-NX-Modern",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "killerinstinct": {
+      "path": "./assets/covers/5f8a241ecf7b8db63a5a.webp",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/d/d7/Killer_Instinct_flyer.jpg",
+      "source": "Wikipedia · Killer Instinct (1994 video game)",
+      "checkedAt": "2026-10-21T09:03:49.871Z",
+      "overrideSignature": "a2b1b8393579feb2"
+    },
+    "virtuafighter2": {
+      "path": "./assets/covers/65b779bfcaa6f60e6291.webp",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/0/01/Virtua-fighter-2-box.jpg",
+      "source": "Wikipedia · Virtua Fighter 2",
+      "checkedAt": "2026-10-21T09:03:49.871Z",
+      "overrideSignature": "ce52a0015561699d"
+    },
+    "pokemongen1": {
+      "path": "./assets/covers/9f4d6d331174b358cd74.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/bryanthaboi/gen1recomp/dev/ports/switch/assets/icon.jpg",
+      "source": "GitHub · bryanthaboi/gen1recomp",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "thelegendofzeldalinksawakeningdx": {
+      "path": "./assets/covers/64700fb1bb8a84e0ae76.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/Alexgg1014/The-Legend-of-Zelda-Link-s-Awakening-DX-HD-Alek-s-Ultimate-NX-Edition/main/source/ProjectZ.Switch/Icon.jpg",
+      "source": "GitHub · Alexgg1014/The-Legend-of-Zelda-Link-s-Awakening-DX-HD-Alek-s-Ultimate-NX-Edition",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "thelegendofzeldaoracleofseasonsoracleofages": {
+      "path": "./assets/covers/c57aedb8c12d13345ebb.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/toniisound/The-Oracles-Project-NX/switch/launcher/switch/icon.jpg",
+      "source": "GitHub · toniisound/The-Oracles-Project-NX",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "pokemongen2": {
+      "path": "./assets/covers/f03d012994603455684a.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/UNDERdecoded/Gen2Recomped/main/ports/switch/assets/icon.jpg",
+      "source": "GitHub · UNDERdecoded/Gen2Recomped",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "metroidzeromission": {
+      "path": "./assets/covers/1939e89512ec8c778feb.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/JJTapiaXX/Metroid-Zero-Mission-NX/switch-port/platform/switch/assets/icon.jpg",
+      "source": "GitHub · JJTapiaXX/Metroid-Zero-Mission-NX",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "animalcrossing": {
+      "path": "./assets/covers/fb478091fbd8a8f39b7c.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/digdat0/ACGC-Switch-Port/main/switch/icon.jpg",
+      "source": "GitHub · digdat0/ACGC-Switch-Port",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "sonicadvance2": {
+      "path": "./assets/covers/62574f227ae2d3a4fd5b.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/boraeskicioglu/sonic_advance2_nx/main/assets/icon.jpg",
+      "source": "GitHub · boraeskicioglu/sonic_advance2_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "thelegendofzeldatwilightprincess": {
+      "path": "./assets/covers/0c59f71e5287a8f47652.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/Alexgg1014/The-Legend-of-Zelda-Twilight-Princess-Alek-s-Ultimate-NX-Edition/main/platforms/switch/icon.jpg",
+      "source": "GitHub · Alexgg1014/The-Legend-of-Zelda-Twilight-Princess-Alek-s-Ultimate-NX-Edition",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "supermariostrikers": {
+      "path": "./assets/covers/95aa6354a994067116cc.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/new-coke/strikers/main/smstrikers-port/assets/switch/icon.jpg",
+      "source": "GitHub · new-coke/strikers",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "thelegendofzeldawindwaker": {
+      "path": "./assets/covers/c7daf0eb6ab8d2e38522.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/centollOS/SwitchWaker/main/switch/native/icon/icon.jpg",
+      "source": "GitHub · centollOS/SwitchWaker",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "supersmashbrosmelee": {
+      "path": "./assets/covers/6734f695ae23684252f8.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/KawaiiBunga/Melee-NX/main/switch/icon.jpg",
+      "source": "GitHub · KawaiiBunga/Melee-NX",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "bomberman64": {
+      "path": "./assets/covers/883165ad7dec78e25be6.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/paulodiasred/BM64Switch/main/icons/nx-icon.jpg",
+      "source": "GitHub · paulodiasred/BM64Switch",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "virtuaracingdeluxe32x": {
+      "path": "./assets/covers/ce6f4a3d9ea8665704d8.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/Thorhax/sega-vr-disasm/master/platforms/switch/icon.png",
+      "source": "GitHub · Thorhax/sega-vr-disasm",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "banjokazooie": {
+      "path": "./assets/covers/36113293567078738200.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/PalindromicBreadLoaf/Docklight/develop/logo.png",
+      "source": "GitHub · PalindromicBreadLoaf/Docklight",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "diddykongracing": {
+      "path": "./assets/covers/3a3fa7967ded54e92df5.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/boraeskicioglu/goldenballoon_nx/main/switch/icon.jpg",
+      "source": "GitHub · boraeskicioglu/goldenballoon_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "donkeykong64": {
+      "path": "./assets/covers/f52d21c1be0d01e6caed.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/Trinalord777/DK64Recomp-NX/nx/switch/icon.jpg",
+      "source": "GitHub · Trinalord777/DK64Recomp-NX",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "fzerox": {
+      "path": "./assets/covers/c9f58ec0e7ed10713205.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/PalindromicBreadLoaf/NX-Diffuser/main/assets/branding/gdiffuser-switch-icon.jpg",
+      "source": "GitHub · PalindromicBreadLoaf/NX-Diffuser",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "thelegenedofzeldaocarinaoftime": {
+      "path": "./assets/covers/a5b3c007b298c747a299.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/timschneeb/Shipwright-Switch/develop/soh/icon.jpg",
+      "source": "GitHub · timschneeb/Shipwright-Switch",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "mariokart64": {
+      "path": "./assets/covers/1a040170ba5dfebf5660.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/HarbourMasters/SpaghettiKart/main/icon.png",
+      "source": "GitHub · HarbourMasters/SpaghettiKart",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "papermario": {
+      "path": "./assets/covers/be8da05b4cb353d216bd.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/CypherNoodle/PaperBoat-nx/switch-port/switch-icon.png",
+      "source": "GitHub · CypherNoodle/PaperBoat-nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "perfectdark": {
+      "path": "./assets/covers/55e5d9d3808e08c40832.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/perfect-dark-pc-port/perfect_dark/port/dist/nswitch/icon.jpg",
+      "source": "GitHub · perfect-dark-pc-port/perfect_dark",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "supermario64": {
+      "path": "./assets/covers/82f857b118a8e7cab224.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/HarbourMasters/Ghostship/develop/ios/Icon.png",
+      "source": "GitHub · HarbourMasters/Ghostship",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "supersmashbros": {
+      "path": "./assets/covers/ae5d6bde7a8f121f0ffa.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/delsonazevedo/BattleShip-Switch/main/assets/icon.png",
+      "source": "GitHub · delsonazevedo/BattleShip-Switch",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "0ad": {
+      "path": "./assets/covers/ff42d1ff699768d8dac7.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/souldbminerr/0ad-switch/main/0ad-src/build/switch/icon.jpg",
+      "source": "GitHub · souldbminerr/0ad-switch",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "abuse": {
+      "path": "./assets/covers/cb44c27fead4cc5589cd.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/capsterx-switch/abuse/main/icon.jpg",
+      "source": "GitHub · capsterx-switch/abuse",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "brogue": {
+      "path": "./assets/covers/1ec085a4ce41cf7d6cec.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/capsterx-switch/BrogueCE/master/icon.jpg",
+      "source": "GitHub · capsterx-switch/BrogueCE",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "captainclaw": {
+      "path": "./assets/covers/ea49283b03c607daa3f0.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/rsn8887/OpenClaw/master/icon.jpg",
+      "source": "GitHub · rsn8887/OpenClaw",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "descent": {
+      "path": "./assets/covers/7a7934ff2eec785f26a7.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/Thorhax/Descent1-NX-Modern/main/icon.jpg",
+      "source": "GitHub · Thorhax/Descent1-NX-Modern",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "descent2": {
+      "path": "./assets/covers/eb1c6f797bc348a4200b.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/Thorhax/Descent2-NX-Modern/main/icon.jpg",
+      "source": "GitHub · Thorhax/Descent2-NX-Modern",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "diablo": {
+      "path": "./assets/covers/f147ac71ebf74df7c1de.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/Thorhax/DevilutionX-NX-Modern/main/Packaging/switch/icon.jpg",
+      "source": "GitHub · Thorhax/DevilutionX-NX-Modern",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "dethrace": {
+      "path": "./assets/covers/ef925edd696d0bcd3668.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/alexart878/dethrace-switch/main/packaging/icon_source.png",
+      "source": "GitHub · alexart878/dethrace-switch",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "driver2": {
+      "path": "./assets/covers/02985ca54fde1ee4578e.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/jamyaro/REDRIVER2-switch/master/switch/icon.jpg",
+      "source": "GitHub · jamyaro/REDRIVER2-switch",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "doom": {
+      "path": "./assets/covers/65bee9dca9debc9992fa.webp",
+      "sourceUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2280/header.jpg",
+      "source": "Steam · app 2280",
+      "checkedAt": "2026-10-21T09:03:49.871Z",
+      "overrideSignature": "5a1f1d1f858eb8ca"
+    },
+    "dukenukem3d": {
+      "path": "./assets/covers/bc29d6da78cec6240841.webp",
+      "sourceUrl": "https://cdn.akamai.steamstatic.com/steam/apps/225140/header.jpg",
+      "source": "Steam · app 225140",
+      "checkedAt": "2026-10-21T09:03:49.871Z",
+      "overrideSignature": "458aa7223403cf4b"
+    },
+    "fallout2": {
+      "path": "./assets/covers/c21708d51b79b21edbf7.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/ryandeering/fallout2-ce-switch/main/assets/icon.jpg",
+      "source": "GitHub · ryandeering/fallout2-ce-switch",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "fallout": {
+      "path": "./assets/covers/ec3b706267ec29d02893.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/ryandeering/fallout-ce-switch/main/assets/icon.jpg",
+      "source": "GitHub · ryandeering/fallout-ce-switch",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "halflife": {
+      "path": "./assets/covers/396ec313d08a0794278e.webp",
+      "sourceUrl": "https://cdn.akamai.steamstatic.com/steam/apps/70/header.jpg",
+      "source": "Steam · app 70",
+      "checkedAt": "2026-10-21T09:03:49.871Z",
+      "overrideSignature": "b84bfb311b5b6bd6"
+    },
+    "freespace2": {
+      "path": "./assets/covers/8541ea239747606d9214.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/NaGaa95/freespace2_nx/master/switch/icon.jpg",
+      "source": "GitHub · NaGaa95/freespace2_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "heroesofmightmagicii": {
+      "path": "./assets/covers/41e38ee424a19e23659f.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/ihhub/fheroes2/master/files/images/platform/switch/icon.jpg",
+      "source": "GitHub · ihhub/fheroes2",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "insaniquarium": {
+      "path": "./assets/covers/e7d5efbd08e5ef20f4a0.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/ChanseyIsTheBest/insaniquarium_nx/main/assets/icon.jpg",
+      "source": "GitHub · ChanseyIsTheBest/insaniquarium_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "jazzjackrabbit": {
+      "path": "./assets/covers/53c63f4170d09aaca554.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/KranKRival/OpenJazzNX/master/icon.jpg",
+      "source": "GitHub · KranKRival/OpenJazzNX",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "thelegendofzeldaonilinkbegins": {
+      "path": "./assets/covers/f553885ca2287ddb7ad5.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/worthis/ZeldaOLB-new-engine/main/data/images/logos/logo.png",
+      "source": "GitHub · worthis/ZeldaOLB-new-engine",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "thelegendofzeldareturnofthehylian": {
+      "path": "./assets/covers/26d5e911c98888f9c190.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/worthis/ZeldaROTH-new-engine/main/data/images/logos/logo.png",
+      "source": "GitHub · worthis/ZeldaROTH-new-engine",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "thelegendofzeldatimetotriumph": {
+      "path": "./assets/covers/440d1fa48f4dc549b8ab.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/worthis/Zelda3T/main/icon.jpg",
+      "source": "GitHub · worthis/Zelda3T",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "mari0": {
+      "path": "./assets/covers/b67352f872aadf884093.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/delsonazevedo/mari0-switch/master/_DO_NOT_INCLUDE/switch_icon.jpg",
+      "source": "GitHub · delsonazevedo/mari0-switch",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "mari0alesan99sentities": {
+      "path": "./assets/covers/f49c75e42312e3daec25.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/aks796/mari0_ae_nx/master/graphics/switch_icon.jpg",
+      "source": "GitHub · aks796/mari0_ae_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "mcosu": {
+      "path": "./assets/covers/99b5eb128cbbd68cb56a.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/McKay42/McOsu-NX/master/icon.jpg",
+      "source": "GitHub · McKay42/McOsu-NX",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "marbleblastcollection": {
+      "path": "./assets/covers/72268fe14b17d3e0c643.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/ChanseyIsTheBest/MBHaxe-Switch/master/icon.jpg",
+      "source": "GitHub · ChanseyIsTheBest/MBHaxe-Switch",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "opentyrian2000": {
+      "path": "./assets/covers/3c2c52fbdd5bc706bdc6.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/theflippedbit/opentyrian-nx/main/icon.jpg",
+      "source": "GitHub · theflippedbit/opentyrian-nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "outrun2006coast2coast": {
+      "path": "./assets/covers/f41693bc0a998edc436d.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/r4dius/outrun2-decomp/main/switch/icon.jpg",
+      "source": "GitHub · r4dius/outrun2-decomp",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "onemustfall2097": {
+      "path": "./assets/covers/5067f7f1bd4f4c4a4c8b.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/Thorhax/OpenOMF-NX-Modern/main/icon.jpg",
+      "source": "GitHub · Thorhax/OpenOMF-NX-Modern",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "plantsvszombies": {
+      "path": "./assets/covers/2c0cf3823bca269c1ce8.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/HayatoG/PvZ-Portable/switch-port/icon-switch.jpg",
+      "source": "GitHub · HayatoG/PvZ-Portable",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "pokemmo": {
+      "path": "./assets/covers/f625db219917daa15cb5.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/Petit-Prince-dev/PokeMMO-NX/main/native/icon.jpg",
+      "source": "GitHub · Petit-Prince-dev/PokeMMO-NX",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "quake": {
+      "path": "./assets/covers/2eeae9a5b26b7c897386.webp",
+      "sourceUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2310/header.jpg",
+      "source": "Steam · app 2310",
+      "checkedAt": "2026-10-21T09:03:49.871Z",
+      "overrideSignature": "1cbb79a4a7e7b702"
+    },
+    "quake2": {
+      "path": "./assets/covers/b47dc026144aca8dcbc7.webp",
+      "sourceUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2320/header.jpg",
+      "source": "Steam · app 2320",
+      "checkedAt": "2026-10-21T09:03:49.871Z",
+      "overrideSignature": "d519a58f46fce03f"
+    },
+    "prey": {
+      "path": "./assets/covers/3cb52e5c480525d3a25e.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/hazevauks/openPREYswitch/main/assets/switch/icon.jpg",
+      "source": "GitHub · hazevauks/openPREYswitch",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "quakeiiiarena": {
+      "path": "./assets/covers/600b7cd5c976749eb151.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/fgsfdsfgs/ioq3/master/icon.jpg",
+      "source": "GitHub · fgsfdsfgs/ioq3",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "sheepdognwolfrewooled": {
+      "path": "./assets/covers/ae1c298c65a1133beaad.webp",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/8/8c/Sheep_Dog_n_Wolf.jpg",
+      "source": "Wikipedia · Sheep, Dog 'n' Wolf",
+      "checkedAt": "2026-10-21T09:03:49.871Z",
+      "overrideSignature": "41ec19b445505154"
+    },
+    "rollercoastertycoon2": {
+      "path": "./assets/covers/1a505dd103cf1c52be40.webp",
+      "sourceUrl": "https://cdn.akamai.steamstatic.com/steam/apps/285330/header.jpg",
+      "source": "Steam · app 285330",
+      "checkedAt": "2026-10-21T09:03:49.871Z",
+      "overrideSignature": "3545e1c998c29a21"
+    },
+    "silenthill3": {
+      "path": "./assets/covers/bd03180df3b4bb1485c0.webp",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/c/ca/Sh3_boxart.jpg",
+      "source": "Wikipedia · Silent Hill 3",
+      "checkedAt": "2026-10-21T09:03:49.871Z",
+      "overrideSignature": "b20cbf7c6742ed8b"
+    },
+    "silenthill4theroom": {
+      "path": "./assets/covers/ea97e130fa84b7d6c6e9.webp",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/a/ab/Silent2002.jpg",
+      "source": "Wikipedia · Silent Hill 4: The Room",
+      "checkedAt": "2026-10-21T09:03:49.871Z",
+      "overrideSignature": "c6354127d989c5ca"
+    },
+    "silenthill2": {
+      "path": "./assets/covers/369b1d85b95bb2f2dcf3.webp",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/9/95/Silent_Hill_2.jpg",
+      "source": "Wikipedia · Silent Hill 2 (2001 video game)",
+      "checkedAt": "2026-10-21T09:03:49.871Z",
+      "overrideSignature": "cd12473c81ea1147"
+    },
+    "silenthill": {
+      "path": "./assets/covers/580cf277d21084f84754.webp",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/9/96/Silent_Hill_video_game_cover.png",
+      "source": "Wikipedia · Silent Hill (video game)",
+      "checkedAt": "2026-10-21T09:03:49.871Z",
+      "overrideSignature": "24406a2967c158c9"
+    },
+    "slycooperandthethieviusraccoonus": {
+      "path": "./assets/covers/6ddee490ed5d84dca09a.webp",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/8/8e/SlyCooper2002cover.jpg",
+      "source": "Wikipedia · Sly Cooper and the Thievius Raccoonus",
+      "checkedAt": "2026-10-21T09:03:49.871Z",
+      "overrideSignature": "614f8db507e776fe"
+    },
+    "sonic2006": {
+      "path": "./assets/covers/da5ccdc960b701243cfd.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/NaGaa95/MarathonRecomp-NX/main/MarathonRecomp/res/switch_icon.jpg",
+      "source": "GitHub · NaGaa95/MarathonRecomp-NX",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "soniccd": {
+      "path": "./assets/covers/5d9f6263602afe6a03e4.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/heyjoeway/Sonic-CD-11-Decompilation/master/icon.jpg",
+      "source": "GitHub · heyjoeway/Sonic-CD-11-Decompilation",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "sonicr": {
+      "path": "./assets/covers/82e4eb042023aa0d86ad.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/Thorhax/Sonic-R-NX-Modern/main/source/switch/icon.jpg",
+      "source": "GitHub · Thorhax/Sonic-R-NX-Modern",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "touhou6embodimentofthescarletdevil": {
+      "path": "./assets/covers/99fa85e44e4b8f2733d7.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/saekaze/th06-switch/main/icon.jpg",
+      "source": "GitHub · saekaze/th06-switch",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "touhou75immaterialandmissingpower": {
+      "path": "./assets/covers/8a60e0856c4fac8ff787.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/saekaze/th075-switch/main/platform/switch/icon.jpg",
+      "source": "GitHub · saekaze/th075-switch",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "touhou7perfectcherryblossom": {
+      "path": "./assets/covers/25a0384a543016969bb0.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/saekaze/th07-switch/main/platform/switch/icon.jpg",
+      "source": "GitHub · saekaze/th07-switch",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "touhou8imperishablenight": {
+      "path": "./assets/covers/94115cb653f48fb02700.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/saekaze/th08-switch/main/platform/switch/icon.jpg",
+      "source": "GitHub · saekaze/th08-switch",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "touhou9phantasmagoriaofflowerview": {
+      "path": "./assets/covers/cd0a9fab17ae6d81a7d2.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/saekaze/th09-switch/main/platform/switch/icon.jpg",
+      "source": "GitHub · saekaze/th09-switch",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "touhou10mountainoffaith": {
+      "path": "./assets/covers/40a98dd4058a78717f2f.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/saekaze/th10-switch/main/platform/switch/icon.jpg",
+      "source": "GitHub · saekaze/th10-switch",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "touhou11subterraneananimism": {
+      "path": "./assets/covers/9d737fc790bd1599753f.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/saekaze/th11-switch/main/platform/switch/icon.jpg",
+      "source": "GitHub · saekaze/th11-switch",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "touhouwonderfulwakingworld": {
+      "path": "./assets/covers/92b97cbf9105da5a4a38.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/saekaze/thWWW-switch/main/assets/icon.jpg",
+      "source": "GitHub · saekaze/thWWW-switch",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "touhou15legacyoflunatickingdom": {
+      "path": "./assets/covers/01126aa60eb70177bf06.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/saekaze/th15-switch/main/platform/switch/icon.jpg",
+      "source": "GitHub · saekaze/th15-switch",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ultimavii": {
+      "path": "./assets/covers/5dda798d12132d150236.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/capsterx-switch/exult/master/icon.jpg",
+      "source": "GitHub · capsterx-switch/exult",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "unrealunrealgold": {
+      "path": "./assets/covers/4cd9a094005295a717ec.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/fgsfdsfgs/unreal_nx/master/icon.jpg",
+      "source": "GitHub · fgsfdsfgs/unreal_nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "velikolepnyvovochka": {
+      "path": "./assets/covers/a0452c8226ae7b27ce38.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/worthis/Vovochka/main/meta/icon.jpg",
+      "source": "GitHub · worthis/Vovochka",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "wolfenstein3d": {
+      "path": "./assets/covers/f62a517298868b203060.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/Thorhax/Wolf4SDL-NX-Modern/main/icon.jpg",
+      "source": "GitHub · Thorhax/Wolf4SDL-NX-Modern",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "warcraft": {
+      "path": "./assets/covers/526ebfecad2ff8265943.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/Thorhax/War1gus-NX-Modern/main/switch_icon.png",
+      "source": "GitHub · Thorhax/War1gus-NX-Modern",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "warcraftii": {
+      "path": "./assets/covers/07392a398c25b5fad6bb.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/Thorhax/Wargus-NX-Modern/main/switch_icon.png",
+      "source": "GitHub · Thorhax/Wargus-NX-Modern",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "undertaleyellow": {
+      "path": "./assets/covers/f85a8ebe009ebfe7e26d.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/NalienDev/Undertale-Yellow-NX/main/options/main/template_icon.png",
+      "source": "GitHub · NalienDev/Undertale-Yellow-NX",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "lain": {
+      "path": "./assets/covers/4224c2c56633b2f20129.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/amydevs/lainNX/master/icon.jpg",
+      "source": "GitHub · amydevs/lainNX",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "mspacmanmazemadness": {
+      "path": "./assets/covers/ace56eec04d502b3d51b.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/adumah/MsPacManMazeMadnessRecomp/main/assets/logo.png",
+      "source": "GitHub · adumah/MsPacManMazeMadnessRecomp",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "wipeout": {
+      "path": "./assets/covers/e7101fc6500ac07e71e4.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/emuman100/wipeout-rewrite-nintendo-switch-homebrew/main/icon.jpg",
+      "source": "GitHub · emuman100/wipeout-rewrite-nintendo-switch-homebrew",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "donkeykongcountry2": {
+      "path": "./assets/covers/3c30268af24082089772.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/souldbminerr/DKC2Recomp-NX/main/assets/switch/icon.jpg",
+      "source": "GitHub · souldbminerr/DKC2Recomp-NX",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "donkeykongcountry": {
+      "path": "./assets/covers/ce698c6d21c3642595e1.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/mrOt4/DKC1Recomp-NX/main/assets/switch/icon.jpg",
+      "source": "GitHub · mrOt4/DKC1Recomp-NX",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "fzero": {
+      "path": "./assets/covers/73ad968c439e52b9a7b4.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/Thorhax/F-Zero-NX-Modern/main/assets/switch_icon.jpg",
+      "source": "GitHub · Thorhax/F-Zero-NX-Modern",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "jakanddaxtertrilogy": {
+      "path": "./assets/covers/8e13c600fccd6e6e4c06.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/fildicio/jak-project-switch/main/game/switch/gk-icon-jak1.jpg",
+      "source": "GitHub · fildicio/jak-project-switch",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "megamanx": {
+      "path": "./assets/covers/db85a6451e336fa0ab05.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/Thorhax/MegaManX-NX/main/switch/icon.jpg",
+      "source": "GitHub · Thorhax/MegaManX-NX",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "thelegendofzeldaalinktothepast": {
+      "path": "./assets/covers/dac12d8d5ae85efb8906.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/Alexgg1014/The-Legend-of-Zelda-A-Link-To-The-Past-Alek-s-Ultimate-NX-Edition/main/src/platform/switch/icon.jpg",
+      "source": "GitHub · Alexgg1014/The-Legend-of-Zelda-A-Link-To-The-Past-Alek-s-Ultimate-NX-Edition",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "illusionofgaia": {
+      "path": "./assets/covers/5fec3bd7394bee7237a0.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/mrOt4/babel-recomp/main/res/icon.png",
+      "source": "GitHub · mrOt4/babel-recomp",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "supermetroid": {
+      "path": "./assets/covers/bd0a3fd2059343b67a4e.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/snesrev/sm/main/src/platform/switch/icon.jpg",
+      "source": "GitHub · snesrev/sm",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "burnout3takedown": {
+      "path": "./assets/covers/a0b918c2b2cf6d9e27e7.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/antoxa2584x/burnout3-sw/switch/assets/icon.jpg",
+      "source": "GitHub · antoxa2584x/burnout3-sw",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "defjamfightforny": {
+      "path": "./assets/covers/491afcc5a56a0988a460.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/R-drg/defjam-sw/main/assets/icon.jpg",
+      "source": "GitHub · R-drg/defjam-sw",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "flatout2": {
+      "path": "./assets/covers/4cd9faa1c41ce7e488dc.webp",
+      "sourceUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2990/header.jpg",
+      "source": "Steam · app 2990",
+      "checkedAt": "2026-10-21T09:03:49.871Z",
+      "overrideSignature": "e0892b8e6685c5a8"
+    },
+    "halocombatevolved": {
+      "path": "./assets/covers/b9a2c50132db03cecffc.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/seamusduncmcgrath/OpenCE-nx/main/port/switch/icon.jpg",
+      "source": "GitHub · seamusduncmcgrath/OpenCE-nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "needforspeedunderground": {
+      "path": "./assets/covers/9fe6b8a0897750093476.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/antoxa2584x/nfsu1-sw/main/assets/icon.jpg",
+      "source": "GitHub · antoxa2584x/nfsu1-sw",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "needforspeedunderground2": {
+      "path": "./assets/covers/6dac10c2755fadba1cbf.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/antoxa2584x/nfsu2-sw/main/assets/icon.jpg",
+      "source": "GitHub · antoxa2584x/nfsu2-sw",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "needforspeedcarbon": {
+      "path": "./assets/covers/dc9e1cf3f3864cf6df43.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/antoxa2584x/nfsuc-sw/main/assets/icon.jpg",
+      "source": "GitHub · antoxa2584x/nfsuc-sw",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "bakuganbattlebrawlers": {
+      "path": "./assets/covers/1938f1cb0611c99e4d8d.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/Wiredlainn-afk/Bakugan-NX/main/app/icon.jpg",
+      "source": "GitHub · Wiredlainn-afk/Bakugan-NX",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "masseffect": {
+      "path": "./assets/covers/441065cb7f38d53f40f4.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/nebadasSwifty/masseffect-nx/main/extras/icon.jpg",
+      "source": "GitHub · nebadasSwifty/masseffect-nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "lostodyssey": {
+      "path": "./assets/covers/fe6f12d7f50f8a02686a.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/Ad0ky/LostOdysseyRecomp/main/assets/steam/header.png",
+      "source": "GitHub · Ad0ky/LostOdysseyRecomp",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "mushihimesamafutari": {
+      "path": "./assets/covers/a261d784a542c14fe74b.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/ChanseyIsTheBest/futari-nx/main/app/futari_icon.jpg",
+      "source": "GitHub · ChanseyIsTheBest/futari-nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "thesimpsonsgame": {
+      "path": "./assets/covers/bc4a21b9a1a1ea9fb3fb.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/R-drg/the-simpsons-game-nx/main/src/game/switch/icon.jpg",
+      "source": "GitHub · R-drg/the-simpsons-game-nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "peggle2": {
+      "path": "./assets/covers/1900f4080b4ccfd52c58.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/ChanseyIsTheBest/peggle2-nx/main/app/icon.jpg",
+      "source": "GitHub · ChanseyIsTheBest/peggle2-nx",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "sonicthehedgehog2006": {
+      "path": "./assets/covers/de3e8132b9d221c9625c.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/ChanseyIsTheBest/MarathonRecomp-NX/main/MarathonRecomp/res/switch_icon.jpg",
+      "source": "GitHub · ChanseyIsTheBest/MarathonRecomp-NX",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "sonicadventure2": {
+      "path": "./assets/covers/cb4d37906fa2f9a869e4.webp",
+      "sourceUrl": "https://cdn.akamai.steamstatic.com/steam/apps/213610/header.jpg",
+      "source": "Steam · app 213610",
+      "checkedAt": "2026-10-21T09:03:49.871Z",
+      "overrideSignature": "b81354194ea04d90"
+    },
+    "sonicunleashed": {
+      "path": "./assets/covers/6f3ba0cd1ebaabeac057.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/ChanseyIsTheBest/UnleashedRecomp-NX/main/UnleashedRecomp/res/switch_icon.jpg",
+      "source": "GitHub · ChanseyIsTheBest/UnleashedRecomp-NX",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "spacechannel5part2": {
+      "path": "./assets/covers/2ea53311be674bc9dcfc.webp",
+      "sourceUrl": "https://cdn.akamai.steamstatic.com/steam/apps/71260/header.jpg",
+      "source": "Steam · app 71260",
+      "checkedAt": "2026-10-21T09:03:49.871Z",
+      "overrideSignature": "3077f01cd11a0039"
+    },
+    "tonyhawksproject8": {
+      "path": "./assets/covers/83ec5a6684703ee944b3.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/R-drg/project8-sw/main/src/game/switch/icon.jpg",
+      "source": "GitHub · R-drg/project8-sw",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "ultrastreetfighteriv": {
+      "path": "./assets/covers/6ee1c063dca0c8545a11.webp",
+      "sourceUrl": "https://cdn.akamai.steamstatic.com/steam/apps/45760/header.jpg",
+      "source": "Steam · app 45760",
+      "checkedAt": "2026-10-21T09:03:49.871Z",
+      "overrideSignature": "c6afb8b5c7094e9e"
+    },
+    "torchlight": {
+      "path": "./assets/covers/f17fa6a729a950e8d02e.webp",
+      "sourceUrl": "https://cdn.akamai.steamstatic.com/steam/apps/41500/header.jpg",
+      "source": "Steam · app 41500",
+      "checkedAt": "2026-10-21T09:03:49.871Z",
+      "overrideSignature": "ddd9219c3151f827"
+    },
+    "tico": {
+      "path": "./assets/covers/e8155e3544f731beca0c.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/ticohq/tico/HEAD/images/homescreen.webp",
+      "source": "Tico · official project screenshot",
+      "checkedAt": "2026-10-21T09:03:49.871Z",
+      "overrideSignature": "29bbcea7152f53ef"
+    },
+    "spacehulk": {
+      "path": "./assets/covers/9bf1372903fc0978f8b7.webp",
+      "sourceUrl": "https://cdn.akamai.steamstatic.com/steam/apps/242570/header.jpg",
+      "source": "Steam · app 242570",
+      "checkedAt": "2026-10-21T09:03:49.871Z",
+      "overrideSignature": "57fe00dde0a2a3ac"
+    },
+    "angrybirdsreloaded": {
+      "path": "./assets/covers/19f857ccc1038e85171a.webp",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/8/8c/AngryBirdsReloaded-AppIcon.webp",
+      "source": "Wikipedia · Angry Birds Reloaded",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "retroarch": {
+      "path": "./assets/covers/51625895fe85a42e7525.webp",
+      "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Retroarch_Netplay-lobby.png/960px-Retroarch_Netplay-lobby.png",
+      "source": "Wikipedia · RetroArch",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "farcry": {
+      "path": "./assets/covers/15442fb751338f93f99e.webp",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/a/a5/Far_Cry_1_boxshot.jpg",
+      "source": "Wikipedia · Far Cry (video game)",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "osmos": {
+      "path": "./assets/covers/a046ff38289b2a8ceca4.webp",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/7/76/Osmos.jpg",
+      "source": "Wikipedia · Osmos",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "outrun": {
+      "path": "./assets/covers/18ff5a75cc27f8a23236.webp",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/0/04/Out_Run_Coverart.png",
+      "source": "Wikipedia · Out Run",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "thelegendofzeldatheminishcap": {
+      "path": "./assets/covers/ea278303e982597d4f50.webp",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/0/0a/TLOZ-_Minish_Cap_NA_Box_art.png",
+      "source": "Wikipedia · The Legend of Zelda: The Minish Cap",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "doom64": {
+      "path": "./assets/covers/3c07d46e0cc09d33d397.webp",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/2/2b/Doom_64_box.jpg",
+      "source": "Wikipedia · Doom 64",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "conkersbadfurday": {
+      "path": "./assets/covers/7f79e38a16989d7f0b69.webp",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/9/99/Conkersbfdbox.jpg",
+      "source": "Wikipedia · Conker's Bad Fur Day",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "thelegendofzeldamajorasmask": {
+      "path": "./assets/covers/f06fc9fae027fcbef8ea.webp",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/6/60/The_Legend_of_Zelda_-_Majora%27s_Mask_Box_Art.jpg",
+      "source": "Wikipedia · The Legend of Zelda: Majora's Mask",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "alienvspredatorgold": {
+      "path": "./assets/covers/61bc3f48601f006280b8.webp",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/3/31/AvP1.jpg",
+      "source": "Wikipedia · Aliens Versus Predator (1999 video game)",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "waverace64": {
+      "path": "./assets/covers/37b6543ded953ab8db01.webp",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/e/e6/Wave_Race_64_Coverart.png",
+      "source": "Wikipedia · Wave Race 64",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "arxfatalis": {
+      "path": "./assets/covers/b3db9ccb6698dd8b6068.webp",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/3/3c/Arx_Fatalis_cover.png",
+      "source": "Wikipedia · Arx Fatalis",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "blackwhite": {
+      "path": "./assets/covers/ba91c1c0dd22ce080c41.webp",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/7/7b/Black_%26_White_Coverart.png",
+      "source": "Wikipedia · Black & White (video game)",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "caesariii": {
+      "path": "./assets/covers/bf703201266512d995da.webp",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/5/56/Caeser_III_Coverart.jpg",
+      "source": "Wikipedia · Caesar III",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "commanderkeen": {
+      "path": "./assets/covers/ffe4d28ab6b70de2144e.webp",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/b/b1/Commander_Keen_2001_Game_Boy_Color_box_art.jpg",
+      "source": "Wikipedia · Commander Keen (video game)",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "duneii": {
+      "path": "./assets/covers/f7989ee02e59216b283a.webp",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/7/78/Dune2_BOD.jpg",
+      "source": "Wikipedia · Dune II",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "elderscrollsiiimorrowind": {
+      "path": "./assets/covers/26f6ad1a825b464a9ab8.webp",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/5/53/MorrowindCOVER.jpg",
+      "source": "Wikipedia · The Elder Scrolls III: Morrowind",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "jazzjackrabbit2": {
+      "path": "./assets/covers/8ff0276372a3b94e30cf.webp",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/f/f0/Jazz_Jackrabbit_2.PNG",
+      "source": "Wikipedia · Jazz Jackrabbit 2",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "medalofhonoralliedassault": {
+      "path": "./assets/covers/d9b9f33e687170a3700c.webp",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/d/d9/Medal_of_Honor_-_Allied_Assault_Coverart.png",
+      "source": "Wikipedia · Medal of Honor: Allied Assault",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "luanti": {
+      "path": "./assets/covers/97b003f897fcc36a5f54.webp",
+      "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Minetest_logo.svg/960px-Minetest_logo.svg.png",
+      "source": "Wikipedia · Luanti",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "returntocastlewolfenstein": {
+      "path": "./assets/covers/92cf0d2480aebe413cd4.webp",
+      "sourceUrl": "https://cdn.akamai.steamstatic.com/steam/apps/9010/header.jpg",
+      "source": "Steam · app 9010",
+      "checkedAt": "2026-10-21T09:03:49.871Z",
+      "overrideSignature": "6a9880da54b3b96e"
+    },
+    "thesimpsonshitandrun": {
+      "path": "./assets/covers/1d87fed6aed3edfb116a.webp",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/5/5f/The_Simpsons_Hit_and_Run_cover.png",
+      "source": "Wikipedia · The Simpsons: Hit & Run",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "spacecadet": {
+      "path": "./assets/covers/89acdd74d6b1beebf0a3.webp",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/e/e0/Full_Tilt%21_Pinball_coverart.png",
+      "source": "Wikipedia · Full Tilt! Pinball",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "starbound": {
+      "path": "./assets/covers/7ea9b3f7f7002480b011.webp",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Starbound_Logo.png",
+      "source": "Wikipedia · Starbound",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "transporttycoondeluxe": {
+      "path": "./assets/covers/6e68f50303df5e138d9e.webp",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/7/7f/Transport_Tycoon_Coverart.jpg",
+      "source": "Wikipedia · Transport Tycoon",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "xcom": {
+      "path": "./assets/covers/a3bc38afa487dd39790b.webp",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/6/66/UFO_Enemy_Unknown_cover_art.png",
+      "source": "Wikipedia · UFO: Enemy Unknown",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "zumadeluxe": {
+      "path": "./assets/covers/975adb6114e8c203b713.webp",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/a/ab/Zumacover.jpg",
+      "source": "Wikipedia · Zuma (video game)",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "dragonballztenkaichibudokai3": {
+      "path": "./assets/covers/4f3974ede30aef9404d5.webp",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/c/c5/Dragon_Ball_Z_Budokai_Tenkaichi.png",
+      "source": "Wikipedia · Dragon Ball Z: Budokai Tenkaichi",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "donkeykongcountry3": {
+      "path": "./assets/covers/760bdd603beb78edafce.webp",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/c/cc/Dkc3_snes_boxart.jpg",
+      "source": "Wikipedia · Donkey Kong Country 3",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "tomandjerrywarofthewhiskers": {
+      "path": "./assets/covers/b7e6e058e24ff815a05f.webp",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/a/a9/TomAndJerry_WotW_cover.png",
+      "source": "Wikipedia · Tom and Jerry in War of the Whiskers",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "skate3": {
+      "path": "./assets/covers/78bb97515a0609522a5f.webp",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/8/84/Skate-3-Boxart.jpg",
+      "source": "Wikipedia · Skate 3",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "thelegendofzeldawindwakerhd": {
+      "path": "./assets/covers/8ba5362a39351295011c.webp",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/7/79/The_Legend_of_Zelda_The_Wind_Waker.jpg",
+      "source": "Wikipedia · The Legend of Zelda: The Wind Waker",
+      "checkedAt": "2026-10-21T08:53:42.117Z"
+    },
+    "freej2me": {
+      "path": "./assets/covers/070d226319f14a4fd125.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/hex007/freej2me/HEAD/resources/org/recompile/icon.png",
+      "source": "FreeJ2ME · official application icon",
+      "checkedAt": "2026-10-21T09:03:49.871Z",
+      "overrideSignature": "9fa6c552b420798e"
+    },
+    "flycast": {
+      "path": "./assets/covers/6fed72051a82415f2acb.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/flyinghead/flycast/HEAD/shell/apple/emulator-osx/emulator-osx/Images.xcassets/AppIcon.appiconset/Icon-512.png",
+      "source": "Flycast · official application icon",
+      "checkedAt": "2026-10-21T09:03:49.871Z",
+      "overrideSignature": "c1bd27d944e34669"
+    },
+    "callofdutyblackopszombies": {
+      "path": "./assets/covers/1081ef74f45de5baca81.webp",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/0/0b/Cover_Art_of_Call_of_Duty%2C_Black_Ops_%E2%80%93_Zombies.png",
+      "source": "Wikipedia · Call of Duty: Black Ops – Zombies",
+      "checkedAt": "2026-10-21T09:03:49.871Z",
+      "overrideSignature": "36e588c31232ea3d"
+    },
+    "legobatmandcsuperheroes": {
+      "path": "./assets/covers/753679544b31186cc7c7.webp",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/4/43/Legobatman2.jpg",
+      "source": "Wikipedia · Lego Batman 2: DC Super Heroes",
+      "checkedAt": "2026-10-21T09:03:49.871Z",
+      "overrideSignature": "7dac2503ce3c8429"
+    },
+    "poinpy": {
+      "path": "./assets/covers/fbb5f668742c097d1019.webp",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/1/10/Poinpy_cover.jpg",
+      "source": "Wikipedia · Poinpy",
+      "checkedAt": "2026-10-21T09:03:49.871Z",
+      "overrideSignature": "c8b703bcf0e65696"
+    },
+    "rvgl": {
+      "path": "./assets/covers/3da012b9aa84a885c47f.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/BirdSentinel/rvgl-for-switch/HEAD/rvgl_switch.jpg",
+      "source": "RVGL · Switch port artwork",
+      "checkedAt": "2026-10-21T09:03:49.871Z",
+      "overrideSignature": "460d2f069b183919"
+    },
+    "starcraft64": {
+      "path": "./assets/covers/61980b2d4a08fd873571.webp",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/9/93/StarCraft_box_art.jpg",
+      "source": "Wikipedia · StarCraft (video game)",
+      "checkedAt": "2026-10-21T09:03:49.871Z",
+      "overrideSignature": "1f103b62049d4b18"
+    },
+    "7e3196c11678d6a3": {
+      "path": "./assets/covers/f0fe7f403eb3c5bb4ed0.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/HarbourMasters/Starship/HEAD/nx-logo.jpg",
+      "source": "Starship · Switch port artwork",
+      "checkedAt": "2026-10-21T09:03:49.871Z",
+      "overrideSignature": "9a2a94fd0470e5a6"
+    },
+    "8e9c0fcd1420dae5": {
+      "path": "./assets/covers/946aa49ea951480ef5f1.webp",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/5/52/Star_Fox_SNES.jpg",
+      "source": "Wikipedia · Star Fox (1993 video game)",
+      "checkedAt": "2026-10-21T09:03:49.871Z",
+      "overrideSignature": "d30c508e97af3287"
+    },
+    "commandconquerredalert": {
+      "path": "./assets/covers/49ee7b26c1eec3627bdf.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/capsterx-switch/Vanilla-Conquer/HEAD/icontd.jpg",
+      "source": "Vanilla Conquer · Switch port artwork",
+      "checkedAt": "2026-10-21T09:03:49.871Z",
+      "overrideSignature": "65e2f71e2622b17e"
+    },
+    "heroesofmightmagiciii": {
+      "path": "./assets/covers/36a05c23ca6fe39ae83f.webp",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/en/9/9b/Homm3boxart.jpg",
+      "source": "Wikipedia · Heroes of Might and Magic III",
+      "checkedAt": "2026-10-21T09:03:49.871Z",
+      "overrideSignature": "e39c00cb3e76fc72"
+    },
+    "hurrican": {
+      "path": "./assets/covers/e18160ca143e920e4b75.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/rsn8887/Hurrican/HEAD/Hurrican/switchdata/icon0.jpg",
+      "source": "Hurrican · Switch port artwork",
+      "checkedAt": "2026-10-21T09:03:49.871Z",
+      "overrideSignature": "558d6689af8f1b0a"
+    },
+    "castlevaniarevamped": {
+      "path": "./assets/covers/1a5b449f3e6165de3964.webp",
+      "sourceUrl": "https://github.com/user-attachments/assets/45d72613-d8f7-4922-a78d-533f743aacf0",
+      "source": "Castlevania ReVamped · project README",
+      "checkedAt": "2026-10-21T09:03:49.871Z",
+      "overrideSignature": "23899ccccc03f226"
+    },
+    "nazizombiesportable": {
+      "path": "./assets/covers/fef8660fb1651b855df8.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/nzp-team/nzportable/HEAD/screenshots/0.webp",
+      "source": "NZ: Portable · project screenshot",
+      "checkedAt": "2026-10-21T09:03:49.871Z",
+      "overrideSignature": "0890a089cb2748bc"
+    },
+    "rocksndiamondsmirrormagic": {
+      "path": "./assets/covers/df362c9a1a5e216d3014.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/rsn8887/rocksndiamonds/HEAD/switchdata/rocksndiamonds/icon0.jpg",
+      "source": "Rocks'n'Diamonds · Switch port artwork",
+      "checkedAt": "2026-10-21T09:03:49.871Z",
+      "overrideSignature": "ed153b4029eb714e"
+    },
+    "serioussamthefirstencounterthesecondencounter": {
+      "path": "./assets/covers/2f19967109455ce32059.webp",
+      "sourceUrl": "https://raw.githubusercontent.com/fgsfdsfgs/Serious-Engine/HEAD/NX/ssam_tfe.jpg",
+      "source": "Serious Engine · Switch port artwork",
+      "checkedAt": "2026-10-21T09:03:49.871Z",
+      "overrideSignature": "f1d8f7b950b65ab4"
+    },
+    "terrariamodloader": {
+      "path": "./assets/covers/60e2ca9c6354b8e46fe7.webp",
+      "sourceUrl": "https://cdn.akamai.steamstatic.com/steam/apps/105600/header.jpg",
+      "source": "Steam · app 105600",
+      "checkedAt": "2026-10-21T09:03:49.871Z",
+      "overrideSignature": "3bb0271b784b3783"
+    },
+    "bd30aaf6c09afd15": {
+      "path": "./assets/covers/d947c8f7625fdb0fd309.webp",
+      "sourceUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1262560/header.jpg",
+      "source": "Steam · app 1262560",
+      "checkedAt": "2026-10-21T09:03:49.871Z",
+      "overrideSignature": "33dc9366a4c30149"
+    }
+  },
+  "checkedAt": "2026-10-21T09:03:49.871Z"
+}

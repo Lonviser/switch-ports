@@ -8,6 +8,7 @@
   <title>Switch / Ports — твоя новая библиотека</title>
   <link rel="icon" href="./assets/favicon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="./style.css">
+  <link rel="stylesheet" href="./refinements.css">
   <script type="module" src="./app.js"></script>
 </head>
 <body>
@@ -20,21 +21,15 @@
   <main>
     <section class="hero wrap" aria-labelledby="hero-title">
       <div class="hero-copy">
-        <div class="eyebrow"><span class="live-dot"></span> МАЛЕНЬКАЯ КОНСОЛЬ. БОЛЬШЕ ВОЗМОЖНОСТЕЙ.</div>
-        <h1 id="hero-title">Знакомые игры.<br>Новый <span>формат<svg viewBox="0 0 400 17" aria-hidden="true"><path d="M3 12 Q180 -1 395 7"/></svg></span>.</h1>
-        <p>Открой для себя порты и эмуляторы для Nintendo Switch. Всё сообщество homebrew — в одной удобной библиотеке.</p>
-        <a class="primary-button" href="#catalog">Найти свою игру <span>↗</span></a>
-        <div class="hero-footnote"><span class="mini-stack"><i>↗</i><i>+</i><i>◈</i></span> Сделано сообществом. Открыто для всех.</div>
+        <div class="hero-kicker"><span></span> NINTENDO SWITCH <i>/</i> HOMEBREW LIBRARY</div>
+        <h1 id="hero-title">Твои игры.<br><span>Теперь на Switch.</span></h1>
+        <p>Порты, эмуляторы и новая жизнь любимых игр.<br>Выбирай проект — остальное уже в каталоге.</p>
+        <a class="primary-button" href="#catalog">Открыть библиотеку <span>↓</span></a>
       </div>
-      <div class="hero-art" aria-hidden="true">
-        <div class="orbit orbit-one"></div><div class="orbit orbit-two"></div>
-        <span class="art-label">YOUR NEXT PLAY IS HERE</span>
-        <div class="floating-cover cover-one"><img src="./assets/half-life.jpg" alt=""><span>PC → SWITCH</span></div>
-        <div class="floating-cover cover-two"><img src="./assets/sonic.jpg" alt=""></div>
-        <div class="console"><div class="joycon left"><i class="stick"></i><i class="dpad">✚</i><i class="tiny-button"></i></div><div class="console-screen"><span class="screen-kicker">A NEW WAY TO PLAY</span><span class="screen-title">PRESS<br><b>START.</b></span><span class="screen-bottom">HOMEBREW / UNLIMITED POSSIBILITIES <i>↗</i></span></div><div class="joycon right"><span class="face-buttons">●<br>● &nbsp; ●<br>●</span><i class="stick"></i><i class="tiny-button"></i></div></div>
-        <div class="art-sticker">БОЛЬШЕ<br>ЧЕМ КОНСОЛЬ <span>✳</span></div>
-        <span class="art-star star-one">✳</span><span class="art-star star-two">+</span>
-        <div class="art-caption"><span class="live-dot"></span> COMMUNITY POWERED</div>
+      <div class="hero-library" aria-label="Открыть игру в каталоге">
+        <a class="hero-game" href="?q=Half+Life#catalog"><img src="./assets/half-life-poster.jpg" alt="Half-Life"><div><small>PC CLASSIC</small><strong>Half-Life</strong><span>Открыть проект ↗</span></div></a>
+        <a class="hero-game" href="?q=Sonic+Adventure+2#catalog"><img src="./assets/sonic-poster.jpg" alt="Sonic Adventure 2"><div><small>FAN FAVORITE</small><strong>Sonic Adventure 2</strong><span>Открыть проект ↗</span></div></a>
+        <a class="hero-game" href="?q=Quake#catalog"><img src="./assets/quake-poster.jpg" alt="Quake"><div><small>LEGENDARY FPS</small><strong>Quake</strong><span>Открыть проект ↗</span></div></a>
       </div>
     </section>
 
@@ -62,8 +57,9 @@
 
         <div class="catalog-main">
           <div class="search-row"><label class="search-box"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Название игры, автор или платформа…" aria-label="Поиск проектов"><kbd>/</kbd></label><button class="filter-toggle" id="firmware-filter" aria-pressed="false"><span>☷</span> FW 21+ <i></i></button></div>
-          <div class="catalog-toolbar"><div class="type-tabs" id="type-tabs"><button data-kind="all" class="active">Все</button><button data-kind="port">Порты игр</button><button data-kind="emulator">Эмуляторы</button></div><label class="sort-label"><span class="sr-only">Сортировка</span><select id="sort"><option value="updated">Сначала новые</option><option value="title">По названию: А–Я</option><option value="oldest">Сначала старые</option></select></label></div>
+          <div class="catalog-toolbar"><div class="type-tabs" id="type-tabs"><button data-kind="all" class="active">Все</button><button data-kind="port">Порты игр</button><button data-kind="emulator">Эмуляторы</button></div><label class="sort-label" title="Популярность — число звёзд GitHub у проекта"><span class="sr-only">Сортировка</span><select id="sort"><option value="popular">По популярности</option><option value="updated">Сначала новые</option><option value="title">По названию: А–Я</option><option value="oldest">Сначала старые</option></select></label></div>
           <div class="results-line"><span id="results-count" role="status" aria-live="polite">Загружаем проекты…</span><button id="reset" hidden>Сбросить фильтры ×</button></div>
+          <p class="popularity-note" id="popularity-note"><span>★</span> Популярность — число звёзд проекта на GitHub</p>
           <div class="cards-grid" id="cards" aria-busy="true"><div class="skeleton"></div><div class="skeleton"></div><div class="skeleton"></div></div>
           <div class="empty-state" id="empty-state" hidden><span>⌕</span><h3>Здесь пока пусто</h3><p id="empty-description">Попробуйте другое название или измените фильтры.</p><button class="primary-button" id="empty-reset">Показать все проекты ↗</button></div>
           <div class="pagination"><button id="load-more" class="load-more" hidden>Показать ещё <span>↓</span></button><span id="shown-count"></span></div>
@@ -73,7 +69,7 @@
 
     <section class="community wrap"><div class="community-icon">✳</div><div><div class="eyebrow">БЛАГОДАРЯ СООБЩЕСТВУ</div><h2>У каждой игры есть автор.<br>У каждого порта — энтузиаст.</h2><p>Поддерживайте разработчиков, читайте инструкции и открывайте новые возможности своей консоли.</p></div><a href="https://github.com/robzilla10001/SwitchPorts" target="_blank" rel="noopener noreferrer">Перейти к источнику <span>↗</span></a></section>
   </main>
-  <footer class="footer wrap"><a class="brand" href="./"><span class="brand-mark">s<span>p</span></span><span>switch / ports<span class="brand-dot">●</span></span></a><p>Независимый каталог homebrew. Не связан с Nintendo.<br>Данные: <a href="https://github.com/robzilla10001/SwitchPorts" target="_blank" rel="noopener noreferrer">robzilla10001 / SwitchPorts</a> · Обложки: Steam / правообладатели.</p><a href="https://github.com/Lonviser/switch-ports" target="_blank" rel="noopener noreferrer">Код сайта ↗</a></footer>
+  <footer class="footer wrap"><a class="brand" href="./"><span class="brand-mark">s<span>p</span></span><span>switch / ports<span class="brand-dot">●</span></span></a><p>Независимый каталог homebrew. Не связан с Nintendo.<br>Данные: <a href="https://github.com/robzilla10001/SwitchPorts" target="_blank" rel="noopener noreferrer">robzilla10001 / SwitchPorts</a> · Изображения: разработчики, Wikipedia, Steam.</p><a href="https://github.com/Lonviser/switch-ports" target="_blank" rel="noopener noreferrer">Код сайта ↗</a></footer>
   <dialog id="detail-dialog" aria-labelledby="dialog-title"><button class="dialog-close" aria-label="Закрыть">×</button><div id="dialog-content"></div></dialog>
   <div id="toast" role="status" class="toast"></div>
   <noscript><p class="noscript">Для поиска по каталогу включите JavaScript. <a href="https://github.com/robzilla10001/SwitchPorts">Открыть полный список в источнике →</a></p></noscript>
