@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "source": "https://github.com/robzilla10001/SwitchPorts",
-  "sourceHash": "38eeb7f3059147d8e5f3cd6e7797091ae880df7818e89eccb67c7fd9872c3385",
-  "checkedAt": "2026-10-23T09:21:38.994Z",
-  "sourceChangedAt": "2026-10-23T09:21:38.994Z",
+  "sourceHash": "d48c56571e87bbdf710512d7488782bec7b2ee70cc5245e9a59291f64042a066",
+  "checkedAt": "2026-10-26T10:48:48.590Z",
+  "sourceChangedAt": "2026-10-26T10:48:48.590Z",
   "schedule": "07:17 Europe/Minsk",
   "entries": [
     {
@@ -1969,6 +1969,24 @@
       "changedAt": null
     },
     {
+      "id": "2328003a3553d3a1",
+      "title": "Granny",
+      "category": "Android 64bit",
+      "system": "Android 64bit",
+      "kind": "port",
+      "version": "1.0.0",
+      "updatedAt": "2026-10-23",
+      "dateLabel": "23/10/2026",
+      "url": "https://github.com/xflipperkast/granny_nx",
+      "discussion": null,
+      "firmware": "yes",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": false,
+      "firstSeenAt": "2026-10-26T10:48:48.590Z",
+      "changedAt": null
+    },
+    {
       "id": "08d03b5b1cc15140",
       "title": "Half Life 2",
       "category": "Android 64bit",
@@ -3738,17 +3756,17 @@
       "category": "Nintendo GameCube",
       "system": "Nintendo GameCube",
       "kind": "port",
-      "version": "1.0.0-beta.2",
-      "updatedAt": "2026-10-05",
-      "dateLabel": "05/10/2026",
+      "version": "1.0.1",
+      "updatedAt": "2026-10-25",
+      "dateLabel": "25/10/2026",
       "url": "https://github.com/Alexgg1014/The-Legend-of-Zelda-Twilight-Princess-Alek-s-Ultimate-NX-Edition",
-      "discussion": "https://gbatemp.net/threads/release-twilight-princess-for-switch-dusklight-aleks-ultimate-nx-edition-public-beta-1-0-0-beta-1.685028/",
+      "discussion": "https://gbatemp.net/threads/release-twilight-princess-on-switch-dusklight-aleks-ultimate-nx-edition-1-0-0-deko3d-pc-mods-co-op-cross-save.685740/unread",
       "firmware": "yes",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": null
+      "changedAt": "2026-10-26T10:48:48.590Z"
     },
     {
       "id": "dee3bada8f248057",
@@ -3756,9 +3774,9 @@
       "category": "Nintendo GameCube",
       "system": "Nintendo GameCube",
       "kind": "port",
-      "version": "0.5.0",
-      "updatedAt": "2026-10-19",
-      "dateLabel": "19/10/2026",
+      "version": "1.0.0",
+      "updatedAt": "2026-10-25",
+      "dateLabel": "25/10/2026",
       "url": "https://github.com/centollOS/SwitchWaker",
       "discussion": "https://gbatemp.net/threads/zelda-the-wind-waker-switch-port.685126/",
       "firmware": "yes",
@@ -3766,6 +3784,24 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
+      "changedAt": "2026-10-26T10:48:48.590Z"
+    },
+    {
+      "id": "ff1c08609b909b7b",
+      "title": "Mario Kart: Double Dash!",
+      "category": "Nintendo GameCube",
+      "system": "Nintendo GameCube",
+      "kind": "port",
+      "version": "1.6.1",
+      "updatedAt": "2026-10-25",
+      "dateLabel": "25/10/2026",
+      "url": "https://github.com/digdat0/mkdd-nx",
+      "discussion": "https://gbatemp.net/threads/mario-kart-double-dash-nx-switch-port.685843/",
+      "firmware": "yes",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-10-26T10:48:48.590Z",
       "changedAt": null
     },
     {
@@ -3856,6 +3892,24 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
+      "changedAt": null
+    },
+    {
+      "id": "7c1dd1a6458a7eaf",
+      "title": "Castlevania: Legacy of Darkness",
+      "category": "Nintendo 64",
+      "system": "Nintendo 64",
+      "kind": "port",
+      "version": "1.0.0-RC1",
+      "updatedAt": "2026-09-24",
+      "dateLabel": "24/09/2026",
+      "url": "https://github.com/PalindromicBreadLoaf/LegacyOfDockness",
+      "discussion": null,
+      "firmware": "yes",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-10-26T10:48:48.590Z",
       "changedAt": null
     },
     {
@@ -4234,6 +4288,24 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
+      "changedAt": null
+    },
+    {
+      "id": "2ef490f837e395e5",
+      "title": "Call of Duty - Black Ops II",
+      "category": "PC",
+      "system": "PC",
+      "kind": "port",
+      "version": "beta 2",
+      "updatedAt": "2026-10-26",
+      "dateLabel": "26/10/2026",
+      "url": "https://github.com/HDErick/BO2-Requiem-NX",
+      "discussion": null,
+      "firmware": "yes",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": false,
+      "firstSeenAt": "2026-10-26T10:48:48.590Z",
       "changedAt": null
     },
     {
@@ -5029,6 +5101,24 @@
       "changedAt": null
     },
     {
+      "id": "5127a399cf9eb731",
+      "title": "Silent Hill 4: The Room",
+      "category": "PC",
+      "system": "PC",
+      "kind": "port",
+      "version": "0.0.1",
+      "updatedAt": "2026-10-22",
+      "dateLabel": "22/10/2026",
+      "url": "https://github.com/cutarev/sh4-nx",
+      "discussion": null,
+      "firmware": "yes",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-10-26T10:48:48.590Z",
+      "changedAt": null
+    },
+    {
       "id": "5e90f6ff234cc4c0",
       "title": "Sly Cooper and the Thievius Raccoonus",
       "category": "PC",
@@ -5296,6 +5386,24 @@
       "status": "listed",
       "markedRecent": false,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
+      "changedAt": null
+    },
+    {
+      "id": "7e99c36a4e31fd0b",
+      "title": "Touhou 12: Undefined Fantastic Object",
+      "category": "PC",
+      "system": "PC",
+      "kind": "port",
+      "version": "1.00b-r2",
+      "updatedAt": "2026-10-25",
+      "dateLabel": "25/10/2026",
+      "url": "https://github.com/saekaze/th12-switch/",
+      "discussion": "https://gbatemp.net/threads/touhou-project-on-switch-all-ports-in-one-place.684850/",
+      "firmware": "yes",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-10-26T10:48:48.590Z",
       "changedAt": null
     },
     {
@@ -5695,6 +5803,24 @@
       "changedAt": null
     },
     {
+      "id": "670e7acfa0ac26d7",
+      "title": "Black",
+      "category": "Microsoft Xbox",
+      "system": "Microsoft Xbox",
+      "kind": "port",
+      "version": "0.1.0",
+      "updatedAt": "2026-10-23",
+      "dateLabel": "23/10/2026",
+      "url": "https://github.com/gerisson1996/BLACK-NX-PORT/blob/main/README.en.md",
+      "discussion": "https://gbatemp.net/threads/black-xbox-nx-port.685756/",
+      "firmware": "yes",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-10-26T10:48:48.590Z",
+      "changedAt": null
+    },
+    {
       "id": "d9701da915982adb",
       "title": "Burnout 3: Takedown",
       "category": "Microsoft Xbox",
@@ -5729,6 +5855,42 @@
       "markedRecent": true,
       "firstSeenAt": "2026-10-22T09:25:20.592Z",
       "changedAt": "2026-10-23T09:21:38.994Z"
+    },
+    {
+      "id": "3f4df7432c1c159c",
+      "title": "Conker: Live & Reloaded",
+      "category": "Microsoft Xbox",
+      "system": "Microsoft Xbox",
+      "kind": "port",
+      "version": "0.1.0",
+      "updatedAt": "2026-10-23",
+      "dateLabel": "23/10/2026",
+      "url": "https://github.com/rashevskyv/conker-lr-recomp",
+      "discussion": "https://github.com/rashevskyv/conker-lr-recomp",
+      "firmware": "yes",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-10-26T10:48:48.590Z",
+      "changedAt": null
+    },
+    {
+      "id": "88fb943f0173b475",
+      "title": "Dead or Alive 3",
+      "category": "Microsoft Xbox",
+      "system": "Microsoft Xbox",
+      "kind": "port",
+      "version": "released",
+      "updatedAt": "2026-10-23",
+      "dateLabel": "23/10/2026",
+      "url": "https://github.com/toniisound/doa3-nx",
+      "discussion": "https://gbatemp.net/threads/release-dead-or-alive-3-wip.685748/",
+      "firmware": "yes",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-10-26T10:48:48.590Z",
+      "changedAt": null
     },
     {
       "id": "555d9ebab174d162",
@@ -5934,9 +6096,9 @@
       "category": "Microsoft Xbox 360",
       "system": "Microsoft Xbox 360",
       "kind": "port",
-      "version": "0.2.1",
-      "updatedAt": "2026-10-21",
-      "dateLabel": "21/10/2026",
+      "version": "0.2.3",
+      "updatedAt": "2026-10-23",
+      "dateLabel": "23/10/2026",
       "url": "https://github.com/Wiredlainn-afk/Bakugan-NX",
       "discussion": null,
       "firmware": "yes",
@@ -5944,7 +6106,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-10-22T09:25:20.592Z"
+      "changedAt": "2026-10-26T10:48:48.590Z"
     },
     {
       "id": "d0d146b3416b9b6a",
@@ -6078,7 +6240,7 @@
       "category": "Microsoft Xbox 360",
       "system": "Microsoft Xbox 360",
       "kind": "port",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "updatedAt": "2026-10-22",
       "dateLabel": "22/10/2026",
       "url": "https://github.com/tuancapoo/mgr-nx-deko",
@@ -6088,6 +6250,24 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-23T09:21:38.994Z",
+      "changedAt": "2026-10-26T10:48:48.590Z"
+    },
+    {
+      "id": "ec893f68737b867e",
+      "title": "Monster High: New Ghoul in School",
+      "category": "Microsoft Xbox 360",
+      "system": "Microsoft Xbox 360",
+      "kind": "port",
+      "version": "released",
+      "updatedAt": "2026-10-21",
+      "dateLabel": "21/10/2026",
+      "url": "https://github.com/adumah/mhnwis-nx",
+      "discussion": null,
+      "firmware": "yes",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-10-26T10:48:48.590Z",
       "changedAt": null
     },
     {
@@ -6106,6 +6286,24 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
+      "changedAt": null
+    },
+    {
+      "id": "f32cce366dc77a0b",
+      "title": "Need for Speed: Carbon",
+      "category": "Microsoft Xbox 360",
+      "system": "Microsoft Xbox 360",
+      "kind": "port",
+      "version": "0.3.0",
+      "updatedAt": "2026-10-23",
+      "dateLabel": "23/10/2026",
+      "url": "https://github.com/Kaays/nfscarbon-nx",
+      "discussion": null,
+      "firmware": "yes",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-10-26T10:48:48.590Z",
       "changedAt": null
     },
     {
@@ -6348,9 +6546,9 @@
       "category": "Microsoft Xbox 360",
       "system": "Microsoft Xbox 360",
       "kind": "port",
-      "version": "0.7.5",
-      "updatedAt": "2026-10-20",
-      "dateLabel": "20/10/2026",
+      "version": "0.8.1",
+      "updatedAt": "2026-10-25",
+      "dateLabel": "25/10/2026",
       "url": "https://github.com/Thorhax/usf4-nx",
       "discussion": null,
       "firmware": "yes",
@@ -6358,7 +6556,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": null
+      "changedAt": "2026-10-26T10:48:48.590Z"
     },
     {
       "id": "aaaba2931b1eb37d",
@@ -6380,6 +6578,118 @@
     }
   ],
   "changes": [
+    {
+      "id": "2328003a3553d3a1",
+      "title": "Granny",
+      "kind": "added",
+      "at": "2026-10-26T10:48:48.590Z",
+      "version": "1.0.0"
+    },
+    {
+      "id": "38ecf720608d96ab",
+      "title": "The Legend of Zelda: Twilight Princess",
+      "kind": "updated",
+      "at": "2026-10-26T10:48:48.590Z",
+      "version": "1.0.1"
+    },
+    {
+      "id": "dee3bada8f248057",
+      "title": "The Legend of Zelda: Wind Waker",
+      "kind": "updated",
+      "at": "2026-10-26T10:48:48.590Z",
+      "version": "1.0.0"
+    },
+    {
+      "id": "ff1c08609b909b7b",
+      "title": "Mario Kart: Double Dash!",
+      "kind": "added",
+      "at": "2026-10-26T10:48:48.590Z",
+      "version": "1.6.1"
+    },
+    {
+      "id": "7c1dd1a6458a7eaf",
+      "title": "Castlevania: Legacy of Darkness",
+      "kind": "added",
+      "at": "2026-10-26T10:48:48.590Z",
+      "version": "1.0.0-RC1"
+    },
+    {
+      "id": "2ef490f837e395e5",
+      "title": "Call of Duty - Black Ops II",
+      "kind": "added",
+      "at": "2026-10-26T10:48:48.590Z",
+      "version": "beta 2"
+    },
+    {
+      "id": "5127a399cf9eb731",
+      "title": "Silent Hill 4: The Room",
+      "kind": "added",
+      "at": "2026-10-26T10:48:48.590Z",
+      "version": "0.0.1"
+    },
+    {
+      "id": "7e99c36a4e31fd0b",
+      "title": "Touhou 12: Undefined Fantastic Object",
+      "kind": "added",
+      "at": "2026-10-26T10:48:48.590Z",
+      "version": "1.00b-r2"
+    },
+    {
+      "id": "670e7acfa0ac26d7",
+      "title": "Black",
+      "kind": "added",
+      "at": "2026-10-26T10:48:48.590Z",
+      "version": "0.1.0"
+    },
+    {
+      "id": "3f4df7432c1c159c",
+      "title": "Conker: Live & Reloaded",
+      "kind": "added",
+      "at": "2026-10-26T10:48:48.590Z",
+      "version": "0.1.0"
+    },
+    {
+      "id": "88fb943f0173b475",
+      "title": "Dead or Alive 3",
+      "kind": "added",
+      "at": "2026-10-26T10:48:48.590Z",
+      "version": "released"
+    },
+    {
+      "id": "951eb587be49cdd7",
+      "title": "Bakugan: Battle Brawlers",
+      "kind": "updated",
+      "at": "2026-10-26T10:48:48.590Z",
+      "version": "0.2.3"
+    },
+    {
+      "id": "f7b05a4401292ffa",
+      "title": "Metal Gear Rising: Revengeance",
+      "kind": "updated",
+      "at": "2026-10-26T10:48:48.590Z",
+      "version": "0.2.1"
+    },
+    {
+      "id": "ec893f68737b867e",
+      "title": "Monster High: New Ghoul in School",
+      "kind": "added",
+      "at": "2026-10-26T10:48:48.590Z",
+      "version": "released"
+    },
+    {
+      "id": "f32cce366dc77a0b",
+      "title": "Need for Speed: Carbon",
+      "kind": "added",
+      "at": "2026-10-26T10:48:48.590Z",
+      "version": "0.3.0"
+    },
+    {
+      "id": "62310e7f617ae018",
+      "title": "Ultra Street Fighter IV",
+      "kind": "updated",
+      "at": "2026-10-26T10:48:48.590Z",
+      "version": "0.8.1"
+    },
     {
       "id": "08983920d670d273",
       "title": "Tico",
