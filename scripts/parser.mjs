@@ -23,6 +23,16 @@ export function parseReadme(markdown) {
     if (cells.every(c => /^:?-+:?$/.test(c))) continue;
     if (cells.some(c => /Last Updated\?/i.test(c))) { headers = cells.map(clean); continue; }
     if (!headers.length) continue;
+    const discussionColumn = headers.indexOf('GBATemp Thread?');
+    const firmwareColumn = headers.indexOf('Updated for FW 21+?');
+    // Some upstream rows omit the empty discussion cell before the firmware value.
+    // Only repair that recognizable layout; other column mismatches still fail.
+    if (cells.length === headers.length - 1 && discussionColumn === headers.length - 2 &&
+        firmwareColumn === headers.length - 1 && link(cells[headers.indexOf('Link')] || '') &&
+        /^(?:\d{2}\/\d{2}\/\d{4}|nightly|\?{3}|n\/a)$/i.test(clean(cells[headers.indexOf('Last Updated?')] || '')) &&
+        /^(?:yes|no|\?{3})$/i.test(clean(cells[discussionColumn]))) {
+      cells.splice(discussionColumn, 0, '');
+    }
     if (cells.length !== headers.length) throw new Error(`Unexpected columns in ${category}: ${line}`);
     const get = name => cells[headers.indexOf(name)] || '';
     const rawTitle = get('Game') || get('Title');
