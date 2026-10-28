@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "source": "https://github.com/robzilla10001/SwitchPorts",
-  "sourceHash": "e7a17cd9bfc13a56c6151c4ddd0d4c90a029cf19c54c55a38cd231c3a6e362c9",
-  "checkedAt": "2026-10-27T09:49:22.748Z",
-  "sourceChangedAt": "2026-10-27T09:49:22.748Z",
+  "sourceHash": "edfd4b5510b23f2de3ffa4057b5c05b7f94e01ac5f6a74ba085ace402a79fcd5",
+  "checkedAt": "2026-10-28T10:35:25.917Z",
+  "sourceChangedAt": "2026-10-28T10:35:25.917Z",
   "schedule": "07:17 Europe/Minsk",
   "entries": [
     {
@@ -256,6 +256,24 @@
       "status": "listed",
       "markedRecent": false,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
+      "changedAt": null
+    },
+    {
+      "id": "9d59c8adb61a71d8",
+      "title": "Duckstation",
+      "category": "Emulators",
+      "system": "PSX",
+      "kind": "emulator",
+      "version": "prerelease 2",
+      "updatedAt": "2026-10-27",
+      "dateLabel": "27/10/2026",
+      "url": "https://github.com/JohnJames29/duckstation-nx",
+      "discussion": null,
+      "firmware": "yes",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-10-28T10:35:25.917Z",
       "changedAt": null
     },
     {
@@ -742,6 +760,24 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-27T09:49:22.748Z",
+      "changedAt": null
+    },
+    {
+      "id": "2c392bc3c66403f3",
+      "title": "Modern Combat 4: Zero Hour",
+      "category": "Android 32bit",
+      "system": "Android 32bit",
+      "kind": "port",
+      "version": "1.0.1",
+      "updatedAt": "2026-10-27",
+      "dateLabel": "27/10/2026",
+      "url": "https://github.com/Kaays/mc4_nx",
+      "discussion": null,
+      "firmware": "yes",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-10-28T10:35:25.917Z",
       "changedAt": null
     },
     {
@@ -4273,6 +4309,24 @@
       "changedAt": null
     },
     {
+      "id": "d8c9c3b212e97403",
+      "title": "Age of Empires II: The Age of Kings",
+      "category": "PC",
+      "system": "PC",
+      "kind": "port",
+      "version": "0.1.0 prerelease",
+      "updatedAt": "2026-10-27",
+      "dateLabel": "27/10/2026",
+      "url": "https://github.com/Zaydme/openaok",
+      "discussion": "https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10935642",
+      "firmware": "yes",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-10-28T10:35:25.917Z",
+      "changedAt": null
+    },
+    {
       "id": "2c4a2d9ac4811fb2",
       "title": "Alien vs. Predator: Gold",
       "category": "PC",
@@ -4846,6 +4900,24 @@
       "status": "listed",
       "markedRecent": false,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
+      "changedAt": null
+    },
+    {
+      "id": "3e60a25914f88ea4",
+      "title": "Mega Max W",
+      "category": "PC",
+      "system": "PC",
+      "kind": "port",
+      "version": "0.1.0",
+      "updatedAt": "2026-10-27",
+      "dateLabel": "27/10/2026",
+      "url": "https://github.com/Vroccolli/mega-man-w-switch-homebrew",
+      "discussion": "https://gbatemp.net/threads/megaman-w-fan-game-switch-port.685896/",
+      "firmware": "yes",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-10-28T10:35:25.917Z",
       "changedAt": null
     },
     {
@@ -6361,6 +6433,24 @@
       "changedAt": null
     },
     {
+      "id": "014c09950fd9ed80",
+      "title": "Mortal Kombat Komplete Edition",
+      "category": "Microsoft Xbox 360",
+      "system": "Microsoft Xbox 360",
+      "kind": "port",
+      "version": "1.0.0",
+      "updatedAt": "2026-10-26",
+      "dateLabel": "26/10/2026",
+      "url": "https://github.com/Thorhax/mk9-nx",
+      "discussion": null,
+      "firmware": "yes",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-10-28T10:35:25.917Z",
+      "changedAt": null
+    },
+    {
       "id": "8cb51d70e1e874d9",
       "title": "Mushihimesama Futari",
       "category": "Microsoft Xbox 360",
@@ -6474,9 +6564,9 @@
       "category": "Microsoft Xbox 360",
       "system": "Microsoft Xbox 360",
       "kind": "port",
-      "version": "0.1.2",
-      "updatedAt": "2026-10-21",
-      "dateLabel": "21/10/2026",
+      "version": "0.1.4",
+      "updatedAt": "2026-10-27",
+      "dateLabel": "27/10/2026",
       "url": "https://github.com/JohnUzoka/skate-3-rust-engine",
       "discussion": null,
       "firmware": "yes",
@@ -6484,7 +6574,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-10-22T09:25:20.592Z"
+      "changedAt": "2026-10-28T10:35:25.917Z"
     },
     {
       "id": "71d919da6b20a3b0",
@@ -6668,6 +6758,48 @@
     }
   ],
   "changes": [
+    {
+      "id": "9d59c8adb61a71d8",
+      "title": "Duckstation",
+      "kind": "added",
+      "at": "2026-10-28T10:35:25.917Z",
+      "version": "prerelease 2"
+    },
+    {
+      "id": "2c392bc3c66403f3",
+      "title": "Modern Combat 4: Zero Hour",
+      "kind": "added",
+      "at": "2026-10-28T10:35:25.917Z",
+      "version": "1.0.1"
+    },
+    {
+      "id": "d8c9c3b212e97403",
+      "title": "Age of Empires II: The Age of Kings",
+      "kind": "added",
+      "at": "2026-10-28T10:35:25.917Z",
+      "version": "0.1.0 prerelease"
+    },
+    {
+      "id": "3e60a25914f88ea4",
+      "title": "Mega Max W",
+      "kind": "added",
+      "at": "2026-10-28T10:35:25.917Z",
+      "version": "0.1.0"
+    },
+    {
+      "id": "014c09950fd9ed80",
+      "title": "Mortal Kombat Komplete Edition",
+      "kind": "added",
+      "at": "2026-10-28T10:35:25.917Z",
+      "version": "1.0.0"
+    },
+    {
+      "id": "6dc702111437cd9d",
+      "title": "Skate 3",
+      "kind": "updated",
+      "at": "2026-10-28T10:35:25.917Z",
+      "version": "0.1.4"
+    },
     {
       "id": "981b0614129b1b84",
       "title": "Flycast",
