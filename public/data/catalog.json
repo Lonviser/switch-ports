@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "source": "https://github.com/robzilla10001/SwitchPorts",
-  "sourceHash": "edfd4b5510b23f2de3ffa4057b5c05b7f94e01ac5f6a74ba085ace402a79fcd5",
-  "checkedAt": "2026-10-28T10:35:25.917Z",
-  "sourceChangedAt": "2026-10-28T10:35:25.917Z",
+  "sourceHash": "c750befdf647388243d493aefc54b278efeeebb899118d10feb5f99d1ad8e572",
+  "checkedAt": "2026-10-29T10:54:02.946Z",
+  "sourceChangedAt": "2026-10-29T10:54:02.946Z",
   "schedule": "07:17 Europe/Minsk",
   "entries": [
     {
@@ -750,9 +750,9 @@
       "category": "Android 32bit",
       "system": "Android 32bit",
       "kind": "port",
-      "version": "1.0.0",
-      "updatedAt": "2026-10-26",
-      "dateLabel": "26/10/2026",
+      "version": "1.0.1",
+      "updatedAt": "2026-10-28",
+      "dateLabel": "28/10/2026",
       "url": "https://github.com/Kaays/mc3_nx",
       "discussion": null,
       "firmware": "yes",
@@ -760,7 +760,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-27T09:49:22.748Z",
-      "changedAt": null
+      "changedAt": "2026-10-29T10:54:02.946Z"
     },
     {
       "id": "2c392bc3c66403f3",
@@ -3859,6 +3859,24 @@
       "changedAt": null
     },
     {
+      "id": "aed7bf5bb9b479ed",
+      "title": "Sonic Riders",
+      "category": "Nintendo GameCube",
+      "system": "Nintendo GameCube",
+      "kind": "port",
+      "version": "0.3.2",
+      "updatedAt": "2026-10-26",
+      "dateLabel": "26/10/2026",
+      "url": "https://github.com/teclilla18/sonic-riders-recomp",
+      "discussion": "https://gbatemp.net/threads/release-wip-sonic-riders-native-port-switch-pc-static-recompilation-needs-testers.685760/",
+      "firmware": "yes",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-10-29T10:54:02.946Z",
+      "changedAt": null
+    },
+    {
       "id": "dbf5f631d1f9d454",
       "title": "Super Mario Strikers",
       "category": "Nintendo GameCube",
@@ -4201,6 +4219,24 @@
       "changedAt": null
     },
     {
+      "id": "ece6d81e19acdf77",
+      "title": "Star Wars: Rogue Squadron",
+      "category": "Nintendo 64",
+      "system": "Nintendo 64",
+      "kind": "port",
+      "version": "1.0",
+      "updatedAt": "2026-10-28",
+      "dateLabel": "28/10/2026",
+      "url": "https://github.com/FurryLilManChild/rs64-nx",
+      "discussion": null,
+      "firmware": "yes",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-10-29T10:54:02.946Z",
+      "changedAt": null
+    },
+    {
       "id": "13e50548d68ac5e5",
       "title": "Super Mario 64",
       "category": "Nintendo 64",
@@ -4345,6 +4381,24 @@
       "changedAt": null
     },
     {
+      "id": "cc08d8858b269a5c",
+      "title": "The Binding of Isaac: Repentance+",
+      "category": "PC",
+      "system": "PC",
+      "kind": "port",
+      "version": "unreleased",
+      "updatedAt": "2026-10-25",
+      "dateLabel": "25/10/2026",
+      "url": "https://github.com/antoniotorres02/isaac-switch-native",
+      "discussion": "https://gbatemp.net/threads/binding-of-isaac-repentance-port.685733/",
+      "firmware": "yes",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-10-29T10:54:02.946Z",
+      "changedAt": null
+    },
+    {
       "id": "65dc8a8e8d3d504f",
       "title": "Black & White",
       "category": "PC",
@@ -4378,6 +4432,24 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-26T10:48:48.590Z",
+      "changedAt": null
+    },
+    {
+      "id": "63f3d5d7abbc2ce7",
+      "title": "Call of Duty / United Offensive",
+      "category": "PC",
+      "system": "PC",
+      "kind": "port",
+      "version": "0.3.0 / 0.2.0",
+      "updatedAt": "2026-10-28",
+      "dateLabel": "28/10/2026",
+      "url": "https://github.com/cznn999/cod-nx",
+      "discussion": "https://gbatemp.net/threads/release-call-of-duty-2003-united-offensive-nintendo-switch-native-port.685952/",
+      "firmware": "yes",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-10-29T10:54:02.946Z",
       "changedAt": null
     },
     {
@@ -5227,6 +5299,24 @@
       "changedAt": null
     },
     {
+      "id": "c793bdb5400a07e0",
+      "title": "The Simpsons: Hit and Run",
+      "category": "PC",
+      "system": "PC",
+      "kind": "port",
+      "version": "0.7.0",
+      "updatedAt": "2026-10-28",
+      "dateLabel": "28/10/2026",
+      "url": "https://github.com/Thorhax/The-Simpsons-Hit-and-Run",
+      "discussion": null,
+      "firmware": "yes",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-10-29T10:54:02.946Z",
+      "changedAt": null
+    },
+    {
       "id": "5e90f6ff234cc4c0",
       "title": "Sly Cooper and the Thievius Raccoonus",
       "category": "PC",
@@ -5466,17 +5556,17 @@
       "category": "PC",
       "system": "PC",
       "kind": "port",
-      "version": "1.00a-r5",
-      "updatedAt": "2026-09-30",
-      "dateLabel": "30/09/2026",
+      "version": "1.00a-r6",
+      "updatedAt": "2026-10-27",
+      "dateLabel": "27/10/2026",
       "url": "https://github.com/saekaze/th10-switch",
       "discussion": "https://gbatemp.net/threads/touhou-project-on-switch-all-ports-in-one-place.684850/",
       "firmware": "yes",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": null
+      "changedAt": "2026-10-29T10:54:02.946Z"
     },
     {
       "id": "bfc3d57cfede1a65",
@@ -5695,6 +5785,24 @@
       "changedAt": null
     },
     {
+      "id": "ae205ab4c2a8044a",
+      "title": "Tekken 3",
+      "category": "Sony Playstation",
+      "system": "Sony Playstation",
+      "kind": "port",
+      "version": "1.0.1",
+      "updatedAt": "2026-10-28",
+      "dateLabel": "28/10/2026",
+      "url": "https://github.com/markaurel13/tekken3-nx",
+      "discussion": "https://gbatemp.net/threads/tekken-3-switch-port.685957/",
+      "firmware": "yes",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-10-29T10:54:02.946Z",
+      "changedAt": null
+    },
+    {
       "id": "73ff1a5e0d50b2ee",
       "title": "Dragonball Z: Tenkaichi Budokai 3",
       "category": "Sony Playstation 2",
@@ -5728,6 +5836,24 @@
       "status": "listed",
       "markedRecent": false,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
+      "changedAt": null
+    },
+    {
+      "id": "d3a672a573d0d7a0",
+      "title": "Rampage: Total Destruction",
+      "category": "Sony Playstation 2",
+      "system": "Sony Playstation 2",
+      "kind": "port",
+      "version": "1.2.1",
+      "updatedAt": "2026-10-28",
+      "dateLabel": "28/10/2026",
+      "url": "https://github.com/jjmhalew/RampageRE",
+      "discussion": "https://gbatemp.net/threads/rampage-total-destruction-port-with-optional-content-from-wii.685951/",
+      "firmware": "yes",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-10-29T10:54:02.946Z",
       "changedAt": null
     },
     {
@@ -6019,6 +6145,24 @@
       "changedAt": null
     },
     {
+      "id": "ef6ec2b12f281515",
+      "title": "FIFA Street",
+      "category": "Microsoft Xbox",
+      "system": "Microsoft Xbox",
+      "kind": "port",
+      "version": "0.1.0",
+      "updatedAt": "2026-10-28",
+      "dateLabel": "28/10/2026",
+      "url": "https://github.com/xsaja/street-nx",
+      "discussion": null,
+      "firmware": "yes",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-10-29T10:54:02.946Z",
+      "changedAt": null
+    },
+    {
       "id": "540c15bec6f73ca9",
       "title": "Flatout 2",
       "category": "Microsoft Xbox",
@@ -6163,6 +6307,24 @@
       "changedAt": null
     },
     {
+      "id": "43d50977e961b832",
+      "title": "Nights into Dreams",
+      "category": "Microsoft Xbox",
+      "system": "Microsoft Xbox",
+      "kind": "port",
+      "version": "1.0.0",
+      "updatedAt": "2026-10-28",
+      "dateLabel": "28/10/2026",
+      "url": "https://github.com/ChanseyIsTheBest/nights-nx",
+      "discussion": null,
+      "firmware": "yes",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-10-29T10:54:02.946Z",
+      "changedAt": null
+    },
+    {
       "id": "b45c596c5c49390a",
       "title": "SSX Tricky",
       "category": "Microsoft Xbox",
@@ -6251,6 +6413,42 @@
       "markedRecent": true,
       "firstSeenAt": "2026-10-22T09:25:20.592Z",
       "changedAt": "2026-10-27T09:49:22.748Z"
+    },
+    {
+      "id": "1923699ac13492b5",
+      "title": "Blue Dragon",
+      "category": "Microsoft Xbox 360",
+      "system": "Microsoft Xbox 360",
+      "kind": "port",
+      "version": "1.3.1",
+      "updatedAt": "2026-10-28",
+      "dateLabel": "28/10/2026",
+      "url": "https://github.com/Ad0ky/reblue",
+      "discussion": "https://gbatemp.net/threads/blue-dragon-nintendo-switch-port.685955/",
+      "firmware": "yes",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-10-29T10:54:02.946Z",
+      "changedAt": null
+    },
+    {
+      "id": "9fa8a649bb17b5f2",
+      "title": "Castlevania: Lords of Shadow",
+      "category": "Microsoft Xbox 360",
+      "system": "Microsoft Xbox 360",
+      "kind": "port",
+      "version": "switch-test 1",
+      "updatedAt": "2026-10-26",
+      "dateLabel": "26/10/2026",
+      "url": "https://github.com/FurryLilManChild/LoS1-nx",
+      "discussion": null,
+      "firmware": "yes",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-10-29T10:54:02.946Z",
+      "changedAt": null
     },
     {
       "id": "c6713143af6e2289",
@@ -6361,14 +6559,32 @@
       "changedAt": null
     },
     {
+      "id": "66e9e045c1398e37",
+      "title": "Ketsui: Kizuna Jigoku Tachi Extra",
+      "category": "Microsoft Xbox 360",
+      "system": "Microsoft Xbox 360",
+      "kind": "port",
+      "version": "1.0.0",
+      "updatedAt": "2026-10-28",
+      "dateLabel": "28/10/2026",
+      "url": "https://github.com/ChanseyIsTheBest/ketsui-nx",
+      "discussion": "https://gbatemp.net/threads/ketsui-xbox-360-ver-switch-port.685938/",
+      "firmware": "yes",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-10-29T10:54:02.946Z",
+      "changedAt": null
+    },
+    {
       "id": "2f5c75f7cea7f8e2",
       "title": "Lost Odyssey",
       "category": "Microsoft Xbox 360",
       "system": "Microsoft Xbox 360",
       "kind": "port",
-      "version": "1.0.6",
-      "updatedAt": "2026-10-20",
-      "dateLabel": "20/10/2026",
+      "version": "1.0.6d",
+      "updatedAt": "2026-10-28",
+      "dateLabel": "28/10/2026",
       "url": "https://github.com/Ad0ky/LostOdysseyRecomp",
       "discussion": "https://gbatemp.net/threads/lost-odyssey-nintendo-switch-port.685442/",
       "firmware": "yes",
@@ -6376,7 +6592,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": null
+      "changedAt": "2026-10-29T10:54:02.946Z"
     },
     {
       "id": "c8439b037687aa77",
@@ -6438,9 +6654,9 @@
       "category": "Microsoft Xbox 360",
       "system": "Microsoft Xbox 360",
       "kind": "port",
-      "version": "1.0.0",
-      "updatedAt": "2026-10-26",
-      "dateLabel": "26/10/2026",
+      "version": "1.0.1",
+      "updatedAt": "2026-10-28",
+      "dateLabel": "28/10/2026",
       "url": "https://github.com/Thorhax/mk9-nx",
       "discussion": null,
       "firmware": "yes",
@@ -6448,7 +6664,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-28T10:35:25.917Z",
-      "changedAt": null
+      "changedAt": "2026-10-29T10:54:02.946Z"
     },
     {
       "id": "8cb51d70e1e874d9",
@@ -6690,17 +6906,17 @@
       "category": "Microsoft Xbox 360",
       "system": "Microsoft Xbox 360",
       "kind": "port",
-      "version": "1.0.2",
-      "updatedAt": "2026-10-15",
-      "dateLabel": "15/10/2026",
+      "version": "1.0.3",
+      "updatedAt": "2026-10-28",
+      "dateLabel": "28/10/2026",
       "url": "https://github.com/liartes/torchlight-nx",
       "discussion": null,
       "firmware": "yes",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": null
+      "changedAt": "2026-10-29T10:54:02.946Z"
     },
     {
       "id": "5fb9a8d8f34c2453",
@@ -6739,25 +6955,201 @@
       "changedAt": "2026-10-26T10:48:48.590Z"
     },
     {
+      "id": "83658013b37eff22",
+      "title": "Zuma",
+      "category": "Microsoft Xbox 360",
+      "system": "Microsoft Xbox 360",
+      "kind": "port",
+      "version": "1.0.0",
+      "updatedAt": "2026-10-28",
+      "dateLabel": "28/10/2026",
+      "url": "https://github.com/ChanseyIsTheBest/zuma-nx",
+      "discussion": "https://gbatemp.net/threads/zuma-zumas-revenge-xbox-360-ver-switch-port.685928/",
+      "firmware": "yes",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-10-29T10:54:02.946Z",
+      "changedAt": null
+    },
+    {
+      "id": "e8a22f4799825d8a",
+      "title": "Zuma's Revenge",
+      "category": "Microsoft Xbox 360",
+      "system": "Microsoft Xbox 360",
+      "kind": "port",
+      "version": "1.0.0",
+      "updatedAt": "2026-10-28",
+      "dateLabel": "28/10/2026",
+      "url": "https://github.com/ChanseyIsTheBest/zumasrevenge-nx",
+      "discussion": "https://gbatemp.net/threads/zuma-zumas-revenge-xbox-360-ver-switch-port.685928/",
+      "firmware": "yes",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-10-29T10:54:02.946Z",
+      "changedAt": null
+    },
+    {
       "id": "aaaba2931b1eb37d",
       "title": "The Legend of Zelda: Wind Waker HD",
       "category": "Nintendo Wii U",
       "system": "Nintendo Wii U",
       "kind": "port",
-      "version": "0.4.7",
-      "updatedAt": "2026-10-14",
-      "dateLabel": "14/10/2026",
+      "version": "1.0.0",
+      "updatedAt": "2026-10-28",
+      "dateLabel": "28/10/2026",
       "url": "https://github.com/centollOS/SwitchWakerHD",
       "discussion": "https://gbatemp.net/threads/zelda-the-wind-waker-switch-port.685126/",
       "firmware": "yes",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": null
+      "changedAt": "2026-10-29T10:54:02.946Z"
     }
   ],
   "changes": [
+    {
+      "id": "be71fea4a09b44a1",
+      "title": "Modern Combat 3: Fallen Nation",
+      "kind": "updated",
+      "at": "2026-10-29T10:54:02.946Z",
+      "version": "1.0.1"
+    },
+    {
+      "id": "aed7bf5bb9b479ed",
+      "title": "Sonic Riders",
+      "kind": "added",
+      "at": "2026-10-29T10:54:02.946Z",
+      "version": "0.3.2"
+    },
+    {
+      "id": "ece6d81e19acdf77",
+      "title": "Star Wars: Rogue Squadron",
+      "kind": "added",
+      "at": "2026-10-29T10:54:02.946Z",
+      "version": "1.0"
+    },
+    {
+      "id": "cc08d8858b269a5c",
+      "title": "The Binding of Isaac: Repentance+",
+      "kind": "added",
+      "at": "2026-10-29T10:54:02.946Z",
+      "version": "unreleased"
+    },
+    {
+      "id": "63f3d5d7abbc2ce7",
+      "title": "Call of Duty / United Offensive",
+      "kind": "added",
+      "at": "2026-10-29T10:54:02.946Z",
+      "version": "0.3.0 / 0.2.0"
+    },
+    {
+      "id": "c793bdb5400a07e0",
+      "title": "The Simpsons: Hit and Run",
+      "kind": "added",
+      "at": "2026-10-29T10:54:02.946Z",
+      "version": "0.7.0"
+    },
+    {
+      "id": "85c3dd5e3d92fa42",
+      "title": "Touhou 10: Mountain of Faith",
+      "kind": "updated",
+      "at": "2026-10-29T10:54:02.946Z",
+      "version": "1.00a-r6"
+    },
+    {
+      "id": "ae205ab4c2a8044a",
+      "title": "Tekken 3",
+      "kind": "added",
+      "at": "2026-10-29T10:54:02.946Z",
+      "version": "1.0.1"
+    },
+    {
+      "id": "d3a672a573d0d7a0",
+      "title": "Rampage: Total Destruction",
+      "kind": "added",
+      "at": "2026-10-29T10:54:02.946Z",
+      "version": "1.2.1"
+    },
+    {
+      "id": "ef6ec2b12f281515",
+      "title": "FIFA Street",
+      "kind": "added",
+      "at": "2026-10-29T10:54:02.946Z",
+      "version": "0.1.0"
+    },
+    {
+      "id": "43d50977e961b832",
+      "title": "Nights into Dreams",
+      "kind": "added",
+      "at": "2026-10-29T10:54:02.946Z",
+      "version": "1.0.0"
+    },
+    {
+      "id": "1923699ac13492b5",
+      "title": "Blue Dragon",
+      "kind": "added",
+      "at": "2026-10-29T10:54:02.946Z",
+      "version": "1.3.1"
+    },
+    {
+      "id": "9fa8a649bb17b5f2",
+      "title": "Castlevania: Lords of Shadow",
+      "kind": "added",
+      "at": "2026-10-29T10:54:02.946Z",
+      "version": "switch-test 1"
+    },
+    {
+      "id": "66e9e045c1398e37",
+      "title": "Ketsui: Kizuna Jigoku Tachi Extra",
+      "kind": "added",
+      "at": "2026-10-29T10:54:02.946Z",
+      "version": "1.0.0"
+    },
+    {
+      "id": "2f5c75f7cea7f8e2",
+      "title": "Lost Odyssey",
+      "kind": "updated",
+      "at": "2026-10-29T10:54:02.946Z",
+      "version": "1.0.6d"
+    },
+    {
+      "id": "014c09950fd9ed80",
+      "title": "Mortal Kombat Komplete Edition",
+      "kind": "updated",
+      "at": "2026-10-29T10:54:02.946Z",
+      "version": "1.0.1"
+    },
+    {
+      "id": "14243d7c69b8bf23",
+      "title": "Torchlight",
+      "kind": "updated",
+      "at": "2026-10-29T10:54:02.946Z",
+      "version": "1.0.3"
+    },
+    {
+      "id": "83658013b37eff22",
+      "title": "Zuma",
+      "kind": "added",
+      "at": "2026-10-29T10:54:02.946Z",
+      "version": "1.0.0"
+    },
+    {
+      "id": "e8a22f4799825d8a",
+      "title": "Zuma's Revenge",
+      "kind": "added",
+      "at": "2026-10-29T10:54:02.946Z",
+      "version": "1.0.0"
+    },
+    {
+      "id": "aaaba2931b1eb37d",
+      "title": "The Legend of Zelda: Wind Waker HD",
+      "kind": "updated",
+      "at": "2026-10-29T10:54:02.946Z",
+      "version": "1.0.0"
+    },
     {
       "id": "9d59c8adb61a71d8",
       "title": "Duckstation",
