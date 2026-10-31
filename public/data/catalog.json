@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "source": "https://github.com/robzilla10001/SwitchPorts",
-  "sourceHash": "a12f88f27b2051bd17c8cf0cdb6341eb16bb9c7196fac50e0ede464a47f39206",
-  "checkedAt": "2026-10-30T10:52:16.000Z",
-  "sourceChangedAt": "2026-10-30T10:52:16.000Z",
+  "sourceHash": "83a8d8864cc2d8f6984e6f536634911c6acc6eb776c6a6b90237a06a0c09584b",
+  "checkedAt": "2026-10-31T10:23:46.372Z",
+  "sourceChangedAt": "2026-10-31T10:23:46.372Z",
   "schedule": "07:17 Europe/Minsk",
   "entries": [
     {
@@ -264,9 +264,9 @@
       "category": "Emulators",
       "system": "PSX",
       "kind": "emulator",
-      "version": "prerelease 2",
-      "updatedAt": "2026-10-27",
-      "dateLabel": "27/10/2026",
+      "version": "3.0",
+      "updatedAt": "2026-10-30",
+      "dateLabel": "30/10/2026",
       "url": "https://github.com/JohnJames29/duckstation-nx",
       "discussion": null,
       "firmware": "yes",
@@ -274,7 +274,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-28T10:35:25.917Z",
-      "changedAt": null
+      "changedAt": "2026-10-31T10:23:46.372Z"
     },
     {
       "id": "671dd3f70b2acebc",
@@ -904,6 +904,24 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
+      "changedAt": null
+    },
+    {
+      "id": "b6b488e0afc9b153",
+      "title": "Steven Universe: Attack the Light",
+      "category": "Android 32bit",
+      "system": "Android 32bit",
+      "kind": "port",
+      "version": "0.1.0",
+      "updatedAt": "2026-10-30",
+      "dateLabel": "30/10/2026",
+      "url": "https://github.com/iqbalriz/stevenrpg_nx",
+      "discussion": null,
+      "firmware": "yes",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-10-31T10:23:46.372Z",
       "changedAt": null
     },
     {
@@ -3846,9 +3864,9 @@
       "category": "Nintendo GameCube",
       "system": "Nintendo GameCube",
       "kind": "port",
-      "version": "1.6.1",
-      "updatedAt": "2026-10-25",
-      "dateLabel": "25/10/2026",
+      "version": "1.7.0",
+      "updatedAt": "2026-10-29",
+      "dateLabel": "29/10/2026",
       "url": "https://github.com/digdat0/mkdd-nx",
       "discussion": "https://gbatemp.net/threads/mario-kart-double-dash-nx-switch-port.685843/",
       "firmware": "yes",
@@ -3856,7 +3874,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-26T10:48:48.590Z",
-      "changedAt": null
+      "changedAt": "2026-10-31T10:23:46.372Z"
     },
     {
       "id": "aed7bf5bb9b479ed",
@@ -4381,6 +4399,24 @@
       "changedAt": null
     },
     {
+      "id": "6c10741406615694",
+      "title": "Atomic Bomberman",
+      "category": "PC",
+      "system": "PC",
+      "kind": "port",
+      "version": "1.0.6",
+      "updatedAt": "2026-10-29",
+      "dateLabel": "29/10/2026",
+      "url": "https://github.com/rashevskyv/atomic-bomberman",
+      "discussion": "https://gbatemp.net/threads/atomic-bomberman-for-switch.685994/",
+      "firmware": "yes",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-10-31T10:23:46.372Z",
+      "changedAt": null
+    },
+    {
       "id": "cc08d8858b269a5c",
       "title": "The Binding of Isaac: Repentance+",
       "category": "PC",
@@ -4486,6 +4522,24 @@
       "status": "listed",
       "markedRecent": false,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
+      "changedAt": null
+    },
+    {
+      "id": "321c86a7506b0777",
+      "title": "Cosmology of Kyoto",
+      "category": "PC",
+      "system": "PC",
+      "kind": "port",
+      "version": "1.0.0",
+      "updatedAt": "2026-10-30",
+      "dateLabel": "30/10/2026",
+      "url": "https://github.com/seamusduncmcgrath/CosmologyOfKyoto-Recompiled",
+      "discussion": null,
+      "firmware": "yes",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-10-31T10:23:46.372Z",
       "changedAt": null
     },
     {
@@ -6109,6 +6163,24 @@
       "changedAt": null
     },
     {
+      "id": "836000a829d16efe",
+      "title": "Dead or Alive 2 Ultimate",
+      "category": "Microsoft Xbox",
+      "system": "Microsoft Xbox",
+      "kind": "port",
+      "version": "released",
+      "updatedAt": "2026-10-30",
+      "dateLabel": "30/10/2026",
+      "url": "https://github.com/toniisound/doa2u-nx",
+      "discussion": "https://gbatemp.net/threads/dead-or-alive-2-ultimate-wip.686023/",
+      "firmware": "yes",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-10-31T10:23:46.372Z",
+      "changedAt": null
+    },
+    {
       "id": "88fb943f0173b475",
       "title": "Dead or Alive 3",
       "category": "Microsoft Xbox",
@@ -6379,6 +6451,24 @@
       "changedAt": "2026-10-26T10:48:48.590Z"
     },
     {
+      "id": "845f319974f4d416",
+      "title": "Bangai-O HD: Missile Fury",
+      "category": "Microsoft Xbox 360",
+      "system": "Microsoft Xbox 360",
+      "kind": "port",
+      "version": "1.0.0",
+      "updatedAt": "2026-10-29",
+      "dateLabel": "29/10/2026",
+      "url": "https://github.com/ChanseyIsTheBest/bangaio-nx",
+      "discussion": "https://gbatemp.net/threads/bangai-o-hd-missile-fury-switch-port.686010/",
+      "firmware": "yes",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-10-31T10:23:46.372Z",
+      "changedAt": null
+    },
+    {
       "id": "d0d146b3416b9b6a",
       "title": "BattleBlock Theater",
       "category": "Microsoft Xbox 360",
@@ -6538,6 +6628,24 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-27T09:49:22.748Z",
+      "changedAt": null
+    },
+    {
+      "id": "7aed869f6dd83336",
+      "title": "Guardian Heroes",
+      "category": "Microsoft Xbox 360",
+      "system": "Microsoft Xbox 360",
+      "kind": "port",
+      "version": "0.77",
+      "updatedAt": "2026-10-29",
+      "dateLabel": "29/10/2026",
+      "url": "https://github.com/rashevskyv/guardian-heroes-recomp-public",
+      "discussion": "https://gbatemp.net/threads/guardian-heroes-xbla-xbox-360-for-switch-static-recompilation-port.685995/",
+      "firmware": "yes",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-10-31T10:23:46.372Z",
       "changedAt": null
     },
     {
@@ -6811,6 +6919,42 @@
       "changedAt": null
     },
     {
+      "id": "4c3f9b3fce4a45f1",
+      "title": "Silent Hill 3",
+      "category": "Microsoft Xbox 360",
+      "system": "Microsoft Xbox 360",
+      "kind": "port",
+      "version": "1.0",
+      "updatedAt": "2026-10-30",
+      "dateLabel": "30/10/2026",
+      "url": "https://github.com/gerisson1996/SILENT-HILL-HD-COLLECTION-NX",
+      "discussion": "https://gbatemp.net/threads/release-silent-hill-3-nx-v1-0-native-switch-port-of-silent-hill-3-hd-collection-via-static-recompilation.686039/",
+      "firmware": "yes",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-10-31T10:23:46.372Z",
+      "changedAt": null
+    },
+    {
+      "id": "7b983dc08036d346",
+      "title": "Silent Hill Homecoming",
+      "category": "Microsoft Xbox 360",
+      "system": "Microsoft Xbox 360",
+      "kind": "port",
+      "version": "1.0",
+      "updatedAt": "2026-10-30",
+      "dateLabel": "30/10/2026",
+      "url": "https://github.com/gerisson1996/SHH-NX-PORT",
+      "discussion": "https://gbatemp.net/threads/release-silent-hill-homecoming-nx-v1-0-native-switch-port-of-silent-hill-homecoming-via-static-recompilation.686040/",
+      "firmware": "yes",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-10-31T10:23:46.372Z",
+      "changedAt": null
+    },
+    {
       "id": "6dc702111437cd9d",
       "title": "Skate 3",
       "category": "Microsoft Xbox 360",
@@ -7046,6 +7190,76 @@
     }
   ],
   "changes": [
+    {
+      "id": "9d59c8adb61a71d8",
+      "title": "Duckstation",
+      "kind": "updated",
+      "at": "2026-10-31T10:23:46.372Z",
+      "version": "3.0"
+    },
+    {
+      "id": "b6b488e0afc9b153",
+      "title": "Steven Universe: Attack the Light",
+      "kind": "added",
+      "at": "2026-10-31T10:23:46.372Z",
+      "version": "0.1.0"
+    },
+    {
+      "id": "ff1c08609b909b7b",
+      "title": "Mario Kart: Double Dash!",
+      "kind": "updated",
+      "at": "2026-10-31T10:23:46.372Z",
+      "version": "1.7.0"
+    },
+    {
+      "id": "6c10741406615694",
+      "title": "Atomic Bomberman",
+      "kind": "added",
+      "at": "2026-10-31T10:23:46.372Z",
+      "version": "1.0.6"
+    },
+    {
+      "id": "321c86a7506b0777",
+      "title": "Cosmology of Kyoto",
+      "kind": "added",
+      "at": "2026-10-31T10:23:46.372Z",
+      "version": "1.0.0"
+    },
+    {
+      "id": "836000a829d16efe",
+      "title": "Dead or Alive 2 Ultimate",
+      "kind": "added",
+      "at": "2026-10-31T10:23:46.372Z",
+      "version": "released"
+    },
+    {
+      "id": "845f319974f4d416",
+      "title": "Bangai-O HD: Missile Fury",
+      "kind": "added",
+      "at": "2026-10-31T10:23:46.372Z",
+      "version": "1.0.0"
+    },
+    {
+      "id": "7aed869f6dd83336",
+      "title": "Guardian Heroes",
+      "kind": "added",
+      "at": "2026-10-31T10:23:46.372Z",
+      "version": "0.77"
+    },
+    {
+      "id": "4c3f9b3fce4a45f1",
+      "title": "Silent Hill 3",
+      "kind": "added",
+      "at": "2026-10-31T10:23:46.372Z",
+      "version": "1.0"
+    },
+    {
+      "id": "7b983dc08036d346",
+      "title": "Silent Hill Homecoming",
+      "kind": "added",
+      "at": "2026-10-31T10:23:46.372Z",
+      "version": "1.0"
+    },
     {
       "id": "17ad3a87bc781207",
       "title": "The Legend of Zelda: Oracle of Seasons / Oracle of Ages",
