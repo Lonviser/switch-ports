@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "source": "https://github.com/robzilla10001/SwitchPorts",
-  "sourceHash": "83a8d8864cc2d8f6984e6f536634911c6acc6eb776c6a6b90237a06a0c09584b",
-  "checkedAt": "2026-10-31T10:23:46.372Z",
-  "sourceChangedAt": "2026-10-31T10:23:46.372Z",
+  "sourceHash": "ff3cea251cb7d1b654e4b41d935efbf4115f7a54edcb88859133b10327f204da",
+  "checkedAt": "2026-11-01T11:17:11.115Z",
+  "sourceChangedAt": "2026-11-01T11:17:11.115Z",
   "schedule": "07:17 Europe/Minsk",
   "entries": [
     {
@@ -6325,6 +6325,24 @@
       "changedAt": null
     },
     {
+      "id": "f94001541cf1df68",
+      "title": "MVP Baseball '05",
+      "category": "Microsoft Xbox",
+      "system": "Microsoft Xbox",
+      "kind": "port",
+      "version": "0.2.0",
+      "updatedAt": "2026-10-27",
+      "dateLabel": "27/10/2026",
+      "url": "https://github.com/xsaja/mvp-nx",
+      "discussion": "https://gbatemp.net/threads/mvp-baseball-05-xbox-switch-port.686056/",
+      "firmware": "yes",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-11-01T11:17:11.115Z",
+      "changedAt": null
+    },
+    {
       "id": "7c08602d9caea2c6",
       "title": "Need for Speed: Carbon",
       "category": "Microsoft Xbox",
@@ -7190,6 +7208,13 @@
     }
   ],
   "changes": [
+    {
+      "id": "f94001541cf1df68",
+      "title": "MVP Baseball '05",
+      "kind": "added",
+      "at": "2026-11-01T11:17:11.115Z",
+      "version": "0.2.0"
+    },
     {
       "id": "9d59c8adb61a71d8",
       "title": "Duckstation",
