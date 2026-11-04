@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "source": "https://github.com/robzilla10001/SwitchPorts",
-  "sourceHash": "372f28da7f0c544b91fadbf1afaeea431e60c7d62d82594fcc7559481b39fa8b",
-  "checkedAt": "2026-11-03T11:56:15.580Z",
-  "sourceChangedAt": "2026-11-03T11:56:15.580Z",
+  "sourceHash": "7b937123c5726c3384863ad4c565383010ba29722f87e2787e655443ecdf58af",
+  "checkedAt": "2026-11-04T12:09:05.842Z",
+  "sourceChangedAt": "2026-11-04T12:09:05.842Z",
   "schedule": "07:17 Europe/Minsk",
   "entries": [
     {
@@ -383,24 +383,6 @@
       "markedRecent": false,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
       "changedAt": "2026-11-02T12:25:35.122Z"
-    },
-    {
-      "id": "5be52c048a31bbab",
-      "title": "Wide-SNES-NX",
-      "category": "Emulators",
-      "system": "SNES",
-      "kind": "emulator",
-      "version": "???",
-      "updatedAt": "2026-11-02",
-      "dateLabel": "02/11/2026",
-      "url": "https://gitlab.com/wiredlainn/wide-snes-NX",
-      "discussion": null,
-      "firmware": "unknown",
-      "firmwareUrl": null,
-      "status": "listed",
-      "markedRecent": true,
-      "firstSeenAt": "2026-11-03T11:56:15.580Z",
-      "changedAt": null
     },
     {
       "id": "e4a4b8023fc33ce4",
@@ -3607,6 +3589,24 @@
       "changedAt": "2026-11-03T11:56:15.580Z"
     },
     {
+      "id": "ef740a2deb316b02",
+      "title": "Bloody Roar Extreme",
+      "category": "Microsoft Xbox",
+      "system": "Microsoft Xbox",
+      "kind": "port",
+      "version": "0.1.0",
+      "updatedAt": "2026-11-03",
+      "dateLabel": "03/11/2026",
+      "url": "https://github.com/xsaja/brextreme-nx",
+      "discussion": "https://gbatemp.net/threads/bloody-roar-extreme-xbox-switch-port.686195/",
+      "firmware": "unknown",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-11-04T12:09:05.842Z",
+      "changedAt": null
+    },
+    {
       "id": "d9701da915982adb",
       "title": "Burnout 3: Takedown",
       "category": "Microsoft Xbox",
@@ -3767,6 +3767,24 @@
       "markedRecent": false,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
       "changedAt": "2026-11-02T12:25:35.122Z"
+    },
+    {
+      "id": "f71ffd37aae5ca45",
+      "title": "The Godfather",
+      "category": "Microsoft Xbox",
+      "system": "Microsoft Xbox",
+      "kind": "port",
+      "version": "1.0.0",
+      "updatedAt": "2026-11-02",
+      "dateLabel": "02/11/2026",
+      "url": "https://github.com/CYBERPUNK20/godfather-nx",
+      "discussion": "https://gbatemp.net/threads/the-godfather-switch-port.686185/",
+      "firmware": "unknown",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-11-04T12:09:05.842Z",
+      "changedAt": null
     },
     {
       "id": "5083952a54cf9356",
@@ -4093,6 +4111,24 @@
       "changedAt": null
     },
     {
+      "id": "a530ec3c7119a26c",
+      "title": "Castlevania: Harmony of Despair",
+      "category": "Microsoft Xbox 360",
+      "system": "Microsoft Xbox 360",
+      "kind": "port",
+      "version": "0.292",
+      "updatedAt": "2026-11-03",
+      "dateLabel": "03/11/2026",
+      "url": "https://github.com/rashevskyv/cvhd-recomp",
+      "discussion": "https://gbatemp.net/threads/castlevania-harmony-of-despair-xbla-xbox-360-on-switch-windows-and-linux-static-recompilation.686177/",
+      "firmware": "unknown",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-11-04T12:09:05.842Z",
+      "changedAt": null
+    },
+    {
       "id": "9fa8a649bb17b5f2",
       "title": "Castlevania: Lords of Shadow",
       "category": "Microsoft Xbox 360",
@@ -4145,6 +4181,24 @@
       "markedRecent": false,
       "firstSeenAt": "2026-10-22T09:25:20.592Z",
       "changedAt": "2026-11-02T12:25:35.122Z"
+    },
+    {
+      "id": "e2fa5f6ce074089a",
+      "title": "Dark Souls II: Scholar of the First Sin",
+      "category": "Microsoft Xbox 360",
+      "system": "Microsoft Xbox 360",
+      "kind": "port",
+      "version": "v104",
+      "updatedAt": "2026-10-31",
+      "dateLabel": "31/10/2026",
+      "url": "https://github.com/XDASCATX/DS2_switch",
+      "discussion": null,
+      "firmware": "unknown",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-11-04T12:09:05.842Z",
+      "changedAt": null
     },
     {
       "id": "42efedcfa3a5ba36",
@@ -4307,6 +4361,42 @@
       "markedRecent": true,
       "firstSeenAt": "2026-10-23T09:21:38.994Z",
       "changedAt": "2026-11-03T11:56:15.580Z"
+    },
+    {
+      "id": "a0c0134f06e8b279",
+      "title": "Hexic HD",
+      "category": "Microsoft Xbox 360",
+      "system": "Microsoft Xbox 360",
+      "kind": "port",
+      "version": "1.0.0",
+      "updatedAt": "2026-11-04",
+      "dateLabel": "04/11/2026",
+      "url": "https://github.com/ChanseyIsTheBest/hexichd-nx",
+      "discussion": "https://gbatemp.net/threads/hexic-hd-hexic-2-switch-port.686206/",
+      "firmware": "unknown",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-11-04T12:09:05.842Z",
+      "changedAt": null
+    },
+    {
+      "id": "61314cd5216f24b9",
+      "title": "Hexic 2",
+      "category": "Microsoft Xbox 360",
+      "system": "Microsoft Xbox 360",
+      "kind": "port",
+      "version": "1.0.0",
+      "updatedAt": "2026-11-04",
+      "dateLabel": "04/11/2026",
+      "url": "https://github.com/ChanseyIsTheBest/hexic2-nx",
+      "discussion": "https://gbatemp.net/threads/hexic-hd-hexic-2-switch-port.686206/",
+      "firmware": "unknown",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-11-04T12:09:05.842Z",
+      "changedAt": null
     },
     {
       "id": "66e9e045c1398e37",
@@ -4541,6 +4631,24 @@
       "markedRecent": true,
       "firstSeenAt": "2026-11-02T12:25:35.122Z",
       "changedAt": "2026-11-03T11:56:15.580Z"
+    },
+    {
+      "id": "7d51fcae3b9156db",
+      "title": "PAC-MAN Championship Edition DX",
+      "category": "Microsoft Xbox 360",
+      "system": "Microsoft Xbox 360",
+      "kind": "port",
+      "version": "1.0.0",
+      "updatedAt": "2026-11-02",
+      "dateLabel": "02/11/2026",
+      "url": "https://github.com/ChanseyIsTheBest/pacman-nx/",
+      "discussion": "https://gbatemp.net/threads/pac-man-championship-edition-dx-switch-port.686167/",
+      "firmware": "unknown",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-11-04T12:09:05.842Z",
+      "changedAt": null
     },
     {
       "id": "366302bd81a1020a",
@@ -5819,6 +5927,24 @@
       "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
       "changedAt": "2026-11-03T11:56:15.580Z"
+    },
+    {
+      "id": "afbfbc06fe001313",
+      "title": "Super Mario World",
+      "category": "Super Nintendo Entertainment System",
+      "system": "Super Nintendo Entertainment System",
+      "kind": "port",
+      "version": "1.0.1",
+      "updatedAt": "2026-11-02",
+      "dateLabel": "02/11/2026",
+      "url": "https://gitlab.com/wiredlainn/wide-snes-NX",
+      "discussion": null,
+      "firmware": "unknown",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-11-04T12:09:05.842Z",
+      "changedAt": null
     },
     {
       "id": "a12c65d9791140e8",
@@ -7392,17 +7518,17 @@
       "category": "Sony Playstation",
       "system": "Sony Playstation",
       "kind": "port",
-      "version": "1.0.1",
-      "updatedAt": "2026-10-28",
-      "dateLabel": "28/10/2026",
+      "version": "1.2",
+      "updatedAt": "2026-11-03",
+      "dateLabel": "03/11/2026",
       "url": "https://github.com/markaurel13/tekken3-nx",
-      "discussion": "https://gbatemp.net/threads/tekken-3-switch-port.685957/",
+      "discussion": "https://gbatemp.net/threads/tekken-3-definitive-edition-native-port.686192/",
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-29T10:54:02.946Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-04T12:09:05.842Z"
     },
     {
       "id": "73ff1a5e0d50b2ee",
@@ -7478,6 +7604,69 @@
     }
   ],
   "changes": [
+    {
+      "id": "ef740a2deb316b02",
+      "title": "Bloody Roar Extreme",
+      "kind": "added",
+      "at": "2026-11-04T12:09:05.842Z",
+      "version": "0.1.0"
+    },
+    {
+      "id": "f71ffd37aae5ca45",
+      "title": "The Godfather",
+      "kind": "added",
+      "at": "2026-11-04T12:09:05.842Z",
+      "version": "1.0.0"
+    },
+    {
+      "id": "a530ec3c7119a26c",
+      "title": "Castlevania: Harmony of Despair",
+      "kind": "added",
+      "at": "2026-11-04T12:09:05.842Z",
+      "version": "0.292"
+    },
+    {
+      "id": "e2fa5f6ce074089a",
+      "title": "Dark Souls II: Scholar of the First Sin",
+      "kind": "added",
+      "at": "2026-11-04T12:09:05.842Z",
+      "version": "v104"
+    },
+    {
+      "id": "a0c0134f06e8b279",
+      "title": "Hexic HD",
+      "kind": "added",
+      "at": "2026-11-04T12:09:05.842Z",
+      "version": "1.0.0"
+    },
+    {
+      "id": "61314cd5216f24b9",
+      "title": "Hexic 2",
+      "kind": "added",
+      "at": "2026-11-04T12:09:05.842Z",
+      "version": "1.0.0"
+    },
+    {
+      "id": "7d51fcae3b9156db",
+      "title": "PAC-MAN Championship Edition DX",
+      "kind": "added",
+      "at": "2026-11-04T12:09:05.842Z",
+      "version": "1.0.0"
+    },
+    {
+      "id": "afbfbc06fe001313",
+      "title": "Super Mario World",
+      "kind": "added",
+      "at": "2026-11-04T12:09:05.842Z",
+      "version": "1.0.1"
+    },
+    {
+      "id": "ae205ab4c2a8044a",
+      "title": "Tekken 3",
+      "kind": "updated",
+      "at": "2026-11-04T12:09:05.842Z",
+      "version": "1.2"
+    },
     {
       "id": "981b0614129b1b84",
       "title": "Flycast",
@@ -8814,69 +9003,6 @@
       "kind": "updated",
       "at": "2026-11-02T12:25:35.122Z",
       "version": "1.0.1"
-    },
-    {
-      "id": "fd47bcd51322e556",
-      "title": "How Many Dudes?",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.0"
-    },
-    {
-      "id": "5f6dcb1065370f81",
-      "title": "Infinity Blade",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.0"
-    },
-    {
-      "id": "b6e5e15aeea24050",
-      "title": "Jackie Chan Stuntmaster",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.1"
-    },
-    {
-      "id": "4a2ae7974319938d",
-      "title": "Jetpack Joyride",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.0"
-    },
-    {
-      "id": "77baefc028d061d6",
-      "title": "Killer Bean Unleashed",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.1"
-    },
-    {
-      "id": "a66b1e03f7776382",
-      "title": "Kingdom Hearts Union χ Dark Road",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.1"
-    },
-    {
-      "id": "ba73480b5985b9a5",
-      "title": "Lara Croft Go",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.2"
-    },
-    {
-      "id": "5a0d9028be6ab764",
-      "title": "Layton Brothers Mystery Room",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.1"
-    },
-    {
-      "id": "69966e49bf91abe8",
-      "title": "LEGO Batman Beyond Gotham",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.0"
     }
   ]
 }
