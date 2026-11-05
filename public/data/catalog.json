@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "source": "https://github.com/robzilla10001/SwitchPorts",
-  "sourceHash": "7b937123c5726c3384863ad4c565383010ba29722f87e2787e655443ecdf58af",
-  "checkedAt": "2026-11-04T12:09:05.842Z",
-  "sourceChangedAt": "2026-11-04T12:09:05.842Z",
+  "sourceHash": "750ab6915417d6425a39d97e56715ff57678a7499006591062631999b6c3bcd7",
+  "checkedAt": "2026-11-05T12:22:06.603Z",
+  "sourceChangedAt": "2026-11-05T12:22:06.603Z",
   "schedule": "07:17 Europe/Minsk",
   "entries": [
     {
@@ -41,6 +41,24 @@
       "markedRecent": false,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
       "changedAt": "2026-11-02T12:25:35.122Z"
+    },
+    {
+      "id": "eecd51ead97fc467",
+      "title": "UAE4ALL2 HD",
+      "category": "Emulators",
+      "system": "AMIGA",
+      "kind": "emulator",
+      "version": "1.07",
+      "updatedAt": "2026-09-21",
+      "dateLabel": "21/09/2026",
+      "url": "https://github.com/theheroGAC/UAE4ALL2-HD-SWITCH/",
+      "discussion": "https://gbatemp.net/threads/release-amiga-emulator-uae4all2-for-switch.522539/post-10914616",
+      "firmware": "unknown",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-11-05T12:22:06.603Z",
+      "changedAt": null
     },
     {
       "id": "981b0614129b1b84",
@@ -3625,6 +3643,24 @@
       "changedAt": "2026-11-02T12:25:35.122Z"
     },
     {
+      "id": "35499c15c449b423",
+      "title": "Castlevania: Curse of Darkness",
+      "category": "Microsoft Xbox",
+      "system": "Microsoft Xbox",
+      "kind": "port",
+      "version": "0.5.0",
+      "updatedAt": "2026-10-29",
+      "dateLabel": "29/10/2026",
+      "url": "https://github.com/FurryLilManChild/cod-nx",
+      "discussion": null,
+      "firmware": "unknown",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-11-05T12:22:06.603Z",
+      "changedAt": null
+    },
+    {
       "id": "010e9c67c30d651b",
       "title": "Cold Fear",
       "category": "Microsoft Xbox",
@@ -3929,6 +3965,24 @@
       "markedRecent": false,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
       "changedAt": "2026-11-02T12:25:35.122Z"
+    },
+    {
+      "id": "b208fd608f67cdbd",
+      "title": "Splinter Cell: Double Agent",
+      "category": "Microsoft Xbox",
+      "system": "Microsoft Xbox",
+      "kind": "port",
+      "version": "0.4.9",
+      "updatedAt": "2026-11-04",
+      "dateLabel": "04/11/2026",
+      "url": "https://github.com/itouchdennis/scda-nx",
+      "discussion": null,
+      "firmware": "unknown",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-11-05T12:22:06.603Z",
+      "changedAt": null
     },
     {
       "id": "b45c596c5c49390a",
@@ -4399,6 +4453,24 @@
       "changedAt": null
     },
     {
+      "id": "126029bd307c94eb",
+      "title": "Kameo: Elements of Power",
+      "category": "Microsoft Xbox 360",
+      "system": "Microsoft Xbox 360",
+      "kind": "port",
+      "version": "1.0.0",
+      "updatedAt": "2026-11-04",
+      "dateLabel": "04/11/2026",
+      "url": "https://github.com/ChanseyIsTheBest/kameo-nx",
+      "discussion": "https://gbatemp.net/threads/kameo-elements-of-power-switch-port.686207/",
+      "firmware": "unknown",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-11-05T12:22:06.603Z",
+      "changedAt": null
+    },
+    {
       "id": "66e9e045c1398e37",
       "title": "Ketsui: Kizuna Jigoku Tachi Extra",
       "category": "Microsoft Xbox 360",
@@ -4471,6 +4543,24 @@
       "changedAt": "2026-11-02T12:25:35.122Z"
     },
     {
+      "id": "2f7c8b43f90774bf",
+      "title": "Mass Effect 2",
+      "category": "Microsoft Xbox 360",
+      "system": "Microsoft Xbox 360",
+      "kind": "port",
+      "version": "pre-release",
+      "updatedAt": "2026-11-04",
+      "dateLabel": "04/11/2026",
+      "url": "https://github.com/VibePorter/Lazarus",
+      "discussion": null,
+      "firmware": "unknown",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-11-05T12:22:06.603Z",
+      "changedAt": null
+    },
+    {
       "id": "bf6ceff930326447",
       "title": "Max Payne 3",
       "category": "Microsoft Xbox 360",
@@ -4505,6 +4595,24 @@
       "markedRecent": false,
       "firstSeenAt": "2026-10-23T09:21:38.994Z",
       "changedAt": "2026-11-02T12:25:35.122Z"
+    },
+    {
+      "id": "ffa012c3c5951a5b",
+      "title": "Mini Ninjas",
+      "category": "Microsoft Xbox 360",
+      "system": "Microsoft Xbox 360",
+      "kind": "port",
+      "version": "1.0.7",
+      "updatedAt": "2026-11-05",
+      "dateLabel": "05/11/2026",
+      "url": "https://github.com/infriker/mini-ninjas-nx",
+      "discussion": null,
+      "firmware": "unknown",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-11-05T12:22:06.603Z",
+      "changedAt": null
     },
     {
       "id": "ec893f68737b867e",
@@ -4973,6 +5081,24 @@
       "markedRecent": true,
       "firstSeenAt": "2026-10-29T10:54:02.946Z",
       "changedAt": "2026-11-03T11:56:15.580Z"
+    },
+    {
+      "id": "c6d0f21684b73a88",
+      "title": "Castlevania: Rondo of Blood",
+      "category": "NEC PC Engine (TurboGrafx-16)",
+      "system": "NEC PC Engine (TurboGrafx-16)",
+      "kind": "port",
+      "version": "1.0",
+      "updatedAt": "2026-11-03",
+      "dateLabel": "03/11/2026",
+      "url": "https://github.com/FurryLilManChild/rondo-nx",
+      "discussion": null,
+      "firmware": "unknown",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-11-05T12:22:06.603Z",
+      "changedAt": null
     },
     {
       "id": "9ff0ec737a3b53ca",
@@ -7605,6 +7731,55 @@
   ],
   "changes": [
     {
+      "id": "eecd51ead97fc467",
+      "title": "UAE4ALL2 HD",
+      "kind": "added",
+      "at": "2026-11-05T12:22:06.603Z",
+      "version": "1.07"
+    },
+    {
+      "id": "35499c15c449b423",
+      "title": "Castlevania: Curse of Darkness",
+      "kind": "added",
+      "at": "2026-11-05T12:22:06.603Z",
+      "version": "0.5.0"
+    },
+    {
+      "id": "b208fd608f67cdbd",
+      "title": "Splinter Cell: Double Agent",
+      "kind": "added",
+      "at": "2026-11-05T12:22:06.603Z",
+      "version": "0.4.9"
+    },
+    {
+      "id": "126029bd307c94eb",
+      "title": "Kameo: Elements of Power",
+      "kind": "added",
+      "at": "2026-11-05T12:22:06.603Z",
+      "version": "1.0.0"
+    },
+    {
+      "id": "2f7c8b43f90774bf",
+      "title": "Mass Effect 2",
+      "kind": "added",
+      "at": "2026-11-05T12:22:06.603Z",
+      "version": "pre-release"
+    },
+    {
+      "id": "ffa012c3c5951a5b",
+      "title": "Mini Ninjas",
+      "kind": "added",
+      "at": "2026-11-05T12:22:06.603Z",
+      "version": "1.0.7"
+    },
+    {
+      "id": "c6d0f21684b73a88",
+      "title": "Castlevania: Rondo of Blood",
+      "kind": "added",
+      "at": "2026-11-05T12:22:06.603Z",
+      "version": "1.0"
+    },
+    {
       "id": "ef740a2deb316b02",
       "title": "Bloody Roar Extreme",
       "kind": "added",
@@ -8954,55 +9129,6 @@
       "kind": "updated",
       "at": "2026-11-02T12:25:35.122Z",
       "version": "1.0.3"
-    },
-    {
-      "id": "8e7ea10e84c964f5",
-      "title": "Grand Theft Auto San Andreas",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.4"
-    },
-    {
-      "id": "2328003a3553d3a1",
-      "title": "Granny",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.0"
-    },
-    {
-      "id": "08d03b5b1cc15140",
-      "title": "Half Life 2",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.4"
-    },
-    {
-      "id": "db1352ef00e782dc",
-      "title": "Happy Wheels",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.0"
-    },
-    {
-      "id": "9d279c54b2377f92",
-      "title": "Heart Star",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.0"
-    },
-    {
-      "id": "9fcd9745f2731aed",
-      "title": "Hill Climb Racing",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.1.0"
-    },
-    {
-      "id": "18313318271258be",
-      "title": "Hitman Go",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.1"
     }
   ]
 }
