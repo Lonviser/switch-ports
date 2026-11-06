@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "source": "https://github.com/robzilla10001/SwitchPorts",
-  "sourceHash": "750ab6915417d6425a39d97e56715ff57678a7499006591062631999b6c3bcd7",
-  "checkedAt": "2026-11-05T12:22:06.603Z",
-  "sourceChangedAt": "2026-11-05T12:22:06.603Z",
+  "sourceHash": "eed186ab1d3e1bc49dbc3a2582f1d8e5dcf089bc83d9f8edd9c8717f8f983934",
+  "checkedAt": "2026-11-06T12:07:07.089Z",
+  "sourceChangedAt": "2026-11-06T12:07:07.089Z",
   "schedule": "07:17 Europe/Minsk",
   "entries": [
     {
@@ -2442,17 +2442,17 @@
       "category": "Android 64bit",
       "system": "Android 64bit",
       "kind": "port",
-      "version": "1.00.92",
-      "updatedAt": "2026-09-14",
-      "dateLabel": "14/09/2026",
+      "version": "1.01.0",
+      "updatedAt": "2026-11-03",
+      "dateLabel": "03/11/2026",
       "url": "https://github.com/StevensND/mmxregenesis_nx",
       "discussion": "https://gbatemp.net/threads/mega-man-x-regenesis-nintendo-switch-port.684160/",
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-06T12:07:07.089Z"
     },
     {
       "id": "4ee2f7b942fb5820",
@@ -2957,6 +2957,24 @@
       "markedRecent": false,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
       "changedAt": "2026-11-02T12:25:35.122Z"
+    },
+    {
+      "id": "f2e453394a0db147",
+      "title": "Soda Dungeon 2",
+      "category": "Android 64bit",
+      "system": "Android 64bit",
+      "kind": "port",
+      "version": "0.1.0",
+      "updatedAt": "2026-11-04",
+      "dateLabel": "04/11/2026",
+      "url": "https://github.com/LaLemniscata/sd2-nx",
+      "discussion": null,
+      "firmware": "unknown",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-11-06T12:07:07.089Z",
+      "changedAt": null
     },
     {
       "id": "0b39b6ccba4899bd",
@@ -3769,24 +3787,6 @@
       "changedAt": "2026-11-02T12:25:35.122Z"
     },
     {
-      "id": "cbbec7e1d51159a4",
-      "title": "FIFA Street 2",
-      "category": "Microsoft Xbox",
-      "system": "Microsoft Xbox",
-      "kind": "port",
-      "version": "0.1.1",
-      "updatedAt": "2026-11-02",
-      "dateLabel": "02/11/2026",
-      "url": "https://github.com/laureladastra/fifastreet2-nx/releases",
-      "discussion": null,
-      "firmware": "unknown",
-      "firmwareUrl": null,
-      "status": "listed",
-      "markedRecent": true,
-      "firstSeenAt": "2026-11-03T11:56:15.580Z",
-      "changedAt": null
-    },
-    {
       "id": "540c15bec6f73ca9",
       "title": "Flatout 2",
       "category": "Microsoft Xbox",
@@ -4188,9 +4188,9 @@
       "category": "Microsoft Xbox 360",
       "system": "Microsoft Xbox 360",
       "kind": "port",
-      "version": "switch-test 1",
-      "updatedAt": "2026-10-29",
-      "dateLabel": "29/10/2026",
+      "version": "0.5.0",
+      "updatedAt": "2026-11-03",
+      "dateLabel": "03/11/2026",
       "url": "https://github.com/FurryLilManChild/LoS1-nx",
       "discussion": null,
       "firmware": "unknown",
@@ -4198,7 +4198,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-29T10:54:02.946Z",
-      "changedAt": "2026-11-03T11:56:15.580Z"
+      "changedAt": "2026-11-06T12:07:07.089Z"
     },
     {
       "id": "126801ba73468cb4",
@@ -4417,6 +4417,24 @@
       "changedAt": "2026-11-03T11:56:15.580Z"
     },
     {
+      "id": "30eca5b0ffeda141",
+      "title": "Hard Corps: Uprising",
+      "category": "Microsoft Xbox 360",
+      "system": "Microsoft Xbox 360",
+      "kind": "port",
+      "version": "0.303 pre-release",
+      "updatedAt": "2026-11-05",
+      "dateLabel": "05/11/2026",
+      "url": "https://github.com/rashevskyv/hard-corps-uprising-recompiled",
+      "discussion": "https://gbatemp.net/threads/hard-corps-uprising-xbla-xbox-360-on-switch-windows-and-linux-static-recompilation-port.686230/",
+      "firmware": "unknown",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-11-06T12:07:07.089Z",
+      "changedAt": null
+    },
+    {
       "id": "a0c0134f06e8b279",
       "title": "Hexic HD",
       "category": "Microsoft Xbox 360",
@@ -4512,9 +4530,9 @@
       "category": "Microsoft Xbox 360",
       "system": "Microsoft Xbox 360",
       "kind": "port",
-      "version": "1.0.6d",
-      "updatedAt": "2026-10-28",
-      "dateLabel": "28/10/2026",
+      "version": "1.0.6e",
+      "updatedAt": "2026-11-03",
+      "dateLabel": "03/11/2026",
       "url": "https://github.com/Ad0ky/LostOdysseyRecomp",
       "discussion": "https://gbatemp.net/threads/lost-odyssey-nintendo-switch-port.685442/",
       "firmware": "unknown",
@@ -4522,7 +4540,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-06T12:07:07.089Z"
     },
     {
       "id": "c8439b037687aa77",
@@ -4638,9 +4656,9 @@
       "category": "Microsoft Xbox 360",
       "system": "Microsoft Xbox 360",
       "kind": "port",
-      "version": "1.0.2",
-      "updatedAt": "2026-10-29",
-      "dateLabel": "29/10/2026",
+      "version": "1.0.3",
+      "updatedAt": "2026-11-02",
+      "dateLabel": "02/11/2026",
       "url": "https://github.com/Thorhax/mk9-nx",
       "discussion": null,
       "firmware": "unknown",
@@ -4648,7 +4666,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-28T10:35:25.917Z",
-      "changedAt": "2026-11-03T11:56:15.580Z"
+      "changedAt": "2026-11-06T12:07:07.089Z"
     },
     {
       "id": "8cb51d70e1e874d9",
@@ -5088,9 +5106,9 @@
       "category": "NEC PC Engine (TurboGrafx-16)",
       "system": "NEC PC Engine (TurboGrafx-16)",
       "kind": "port",
-      "version": "1.0",
-      "updatedAt": "2026-11-03",
-      "dateLabel": "03/11/2026",
+      "version": "1.1",
+      "updatedAt": "2026-11-04",
+      "dateLabel": "04/11/2026",
       "url": "https://github.com/FurryLilManChild/rondo-nx",
       "discussion": null,
       "firmware": "unknown",
@@ -5098,7 +5116,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-11-05T12:22:06.603Z",
-      "changedAt": null
+      "changedAt": "2026-11-06T12:07:07.089Z"
     },
     {
       "id": "9ff0ec737a3b53ca",
@@ -5387,6 +5405,24 @@
       "markedRecent": false,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
       "changedAt": "2026-11-02T12:25:35.122Z"
+    },
+    {
+      "id": "5b5b86c081529463",
+      "title": "StarCraft64",
+      "category": "Nintendo 64",
+      "system": "Nintendo 64",
+      "kind": "port",
+      "version": "1.5.0",
+      "updatedAt": "2026-11-04",
+      "dateLabel": "04/11/2026",
+      "url": "https://github.com/Thorhax/StarCraft64-NX",
+      "discussion": null,
+      "firmware": "unknown",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-11-06T12:07:07.089Z",
+      "changedAt": null
     },
     {
       "id": "ece6d81e19acdf77",
@@ -5754,9 +5790,9 @@
       "category": "Nintendo GameCube",
       "system": "Nintendo GameCube",
       "kind": "port",
-      "version": "1.0.3",
-      "updatedAt": "2026-10-29",
-      "dateLabel": "29/10/2026",
+      "version": "1.1.0",
+      "updatedAt": "2026-11-03",
+      "dateLabel": "03/11/2026",
       "url": "https://github.com/Alexgg1014/The-Legend-of-Zelda-Twilight-Princess-Alek-s-Ultimate-NX-Edition",
       "discussion": "https://gbatemp.net/threads/release-twilight-princess-on-switch-dusklight-aleks-ultimate-nx-edition-1-0-0-deko3d-pc-mods-co-op-cross-save.685740/unread",
       "firmware": "unknown",
@@ -5764,7 +5800,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-03T11:56:15.580Z"
+      "changedAt": "2026-11-06T12:07:07.089Z"
     },
     {
       "id": "dee3bada8f248057",
@@ -5808,9 +5844,9 @@
       "category": "Nintendo GameCube",
       "system": "Nintendo GameCube",
       "kind": "port",
-      "version": "1.8.2",
-      "updatedAt": "2026-11-02",
-      "dateLabel": "02/11/2026",
+      "version": "1.8.4",
+      "updatedAt": "2026-11-04",
+      "dateLabel": "04/11/2026",
       "url": "https://github.com/digdat0/mkdd-nx",
       "discussion": "https://gbatemp.net/threads/mario-kart-double-dash-nx-switch-port.685843/",
       "firmware": "unknown",
@@ -5818,7 +5854,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-26T10:48:48.590Z",
-      "changedAt": "2026-11-03T11:56:15.580Z"
+      "changedAt": "2026-11-06T12:07:07.089Z"
     },
     {
       "id": "aed7bf5bb9b479ed",
@@ -6109,42 +6145,6 @@
       "changedAt": "2026-11-02T12:25:35.122Z"
     },
     {
-      "id": "04c272bccd06a07c",
-      "title": "Sonic Adventure",
-      "category": "Sega Dreamcast",
-      "system": "Sega Dreamcast",
-      "kind": "port",
-      "version": "0.5.0",
-      "updatedAt": "2026-11-02",
-      "dateLabel": "02/11/2026",
-      "url": "https://github.com/FurryLilManChild/SA-nx",
-      "discussion": null,
-      "firmware": "unknown",
-      "firmwareUrl": null,
-      "status": "listed",
-      "markedRecent": true,
-      "firstSeenAt": "2026-11-03T11:56:15.580Z",
-      "changedAt": null
-    },
-    {
-      "id": "9e65d865d4f5860a",
-      "title": "Virtua Racing Deluxe (32x)",
-      "category": "Sega Genesis",
-      "system": "Sega Genesis",
-      "kind": "port",
-      "version": "1.0.0",
-      "updatedAt": "2026-10-02",
-      "dateLabel": "02/10/2026",
-      "url": "https://github.com/Thorhax/sega-vr-disasm",
-      "discussion": null,
-      "firmware": "unknown",
-      "firmwareUrl": null,
-      "status": "listed",
-      "markedRecent": false,
-      "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
-    },
-    {
       "id": "9fd2f1c099a04e61",
       "title": "0 A.D.",
       "category": "PC",
@@ -6258,9 +6258,9 @@
       "category": "PC",
       "system": "PC",
       "kind": "port",
-      "version": "beta 2.5",
-      "updatedAt": "2026-10-30",
-      "dateLabel": "30/10/2026",
+      "version": "0.3.0",
+      "updatedAt": "2026-11-03",
+      "dateLabel": "03/11/2026",
       "url": "https://github.com/HDErick/BO2-Requiem-NX",
       "discussion": null,
       "firmware": "unknown",
@@ -6268,7 +6268,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-26T10:48:48.590Z",
-      "changedAt": "2026-11-03T11:56:15.580Z"
+      "changedAt": "2026-11-06T12:07:07.089Z"
     },
     {
       "id": "63f3d5d7abbc2ce7",
@@ -6881,6 +6881,24 @@
       "markedRecent": false,
       "firstSeenAt": "2026-10-22T09:25:20.592Z",
       "changedAt": "2026-11-02T12:25:35.122Z"
+    },
+    {
+      "id": "b7d00072d3c753da",
+      "title": "Minecraft Rust",
+      "category": "PC",
+      "system": "PC",
+      "kind": "port",
+      "version": "0.1.0",
+      "updatedAt": "2026-11-04",
+      "dateLabel": "04/11/2026",
+      "url": "https://github.com/JohnUzoka/horizon-nx",
+      "discussion": null,
+      "firmware": "unknown",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-11-06T12:07:07.089Z",
+      "changedAt": null
     },
     {
       "id": "1023dcae2ba09e8d",
@@ -7585,6 +7603,78 @@
       "changedAt": "2026-11-02T12:25:35.122Z"
     },
     {
+      "id": "04c272bccd06a07c",
+      "title": "Sonic Adventure",
+      "category": "Sega Dreamcast",
+      "system": "Sega Dreamcast",
+      "kind": "port",
+      "version": "0.5.0",
+      "updatedAt": "2026-11-02",
+      "dateLabel": "02/11/2026",
+      "url": "https://github.com/FurryLilManChild/SA-nx",
+      "discussion": null,
+      "firmware": "unknown",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-11-03T11:56:15.580Z",
+      "changedAt": null
+    },
+    {
+      "id": "f52d35f612d1b1f1",
+      "title": "Crazy Taxi",
+      "category": "Sega Dreamcast",
+      "system": "Sega Dreamcast",
+      "kind": "port",
+      "version": "0.5.0",
+      "updatedAt": "2026-11-04",
+      "dateLabel": "04/11/2026",
+      "url": "https://github.com/FurryLilManChild/CTDC-nx",
+      "discussion": null,
+      "firmware": "unknown",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-11-06T12:07:07.089Z",
+      "changedAt": null
+    },
+    {
+      "id": "9e65d865d4f5860a",
+      "title": "Virtua Racing Deluxe (32x)",
+      "category": "Sega Genesis",
+      "system": "Sega Genesis",
+      "kind": "port",
+      "version": "1.0.0",
+      "updatedAt": "2026-10-02",
+      "dateLabel": "02/10/2026",
+      "url": "https://github.com/Thorhax/sega-vr-disasm",
+      "discussion": null,
+      "firmware": "unknown",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": false,
+      "firstSeenAt": "2026-10-21T08:36:47.210Z",
+      "changedAt": "2026-11-02T12:25:35.122Z"
+    },
+    {
+      "id": "6f0c0210fed848b4",
+      "title": "Mickey & Donald Collection",
+      "category": "Sega Genesis",
+      "system": "Sega Genesis",
+      "kind": "port",
+      "version": "pre-release",
+      "updatedAt": "2026-11-05",
+      "dateLabel": "05/11/2026",
+      "url": "https://github.com/simplePsyduck/MickeyAndDonaldCollection-NX",
+      "discussion": null,
+      "firmware": "unknown",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-11-06T12:07:07.089Z",
+      "changedAt": null
+    },
+    {
       "id": "48f3cbdcb215fc6b",
       "title": "Lain",
       "category": "Sony Playstation",
@@ -7730,6 +7820,104 @@
     }
   ],
   "changes": [
+    {
+      "id": "41c0c8ca02690526",
+      "title": "Mega Man X Regenesis",
+      "kind": "updated",
+      "at": "2026-11-06T12:07:07.089Z",
+      "version": "1.01.0"
+    },
+    {
+      "id": "f2e453394a0db147",
+      "title": "Soda Dungeon 2",
+      "kind": "added",
+      "at": "2026-11-06T12:07:07.089Z",
+      "version": "0.1.0"
+    },
+    {
+      "id": "9fa8a649bb17b5f2",
+      "title": "Castlevania: Lords of Shadow",
+      "kind": "updated",
+      "at": "2026-11-06T12:07:07.089Z",
+      "version": "0.5.0"
+    },
+    {
+      "id": "30eca5b0ffeda141",
+      "title": "Hard Corps: Uprising",
+      "kind": "added",
+      "at": "2026-11-06T12:07:07.089Z",
+      "version": "0.303 pre-release"
+    },
+    {
+      "id": "2f5c75f7cea7f8e2",
+      "title": "Lost Odyssey",
+      "kind": "updated",
+      "at": "2026-11-06T12:07:07.089Z",
+      "version": "1.0.6e"
+    },
+    {
+      "id": "014c09950fd9ed80",
+      "title": "Mortal Kombat Komplete Edition",
+      "kind": "updated",
+      "at": "2026-11-06T12:07:07.089Z",
+      "version": "1.0.3"
+    },
+    {
+      "id": "c6d0f21684b73a88",
+      "title": "Castlevania: Rondo of Blood",
+      "kind": "updated",
+      "at": "2026-11-06T12:07:07.089Z",
+      "version": "1.1"
+    },
+    {
+      "id": "5b5b86c081529463",
+      "title": "StarCraft64",
+      "kind": "added",
+      "at": "2026-11-06T12:07:07.089Z",
+      "version": "1.5.0"
+    },
+    {
+      "id": "38ecf720608d96ab",
+      "title": "The Legend of Zelda: Twilight Princess",
+      "kind": "updated",
+      "at": "2026-11-06T12:07:07.089Z",
+      "version": "1.1.0"
+    },
+    {
+      "id": "ff1c08609b909b7b",
+      "title": "Mario Kart: Double Dash!",
+      "kind": "updated",
+      "at": "2026-11-06T12:07:07.089Z",
+      "version": "1.8.4"
+    },
+    {
+      "id": "2ef490f837e395e5",
+      "title": "Call of Duty - Black Ops II",
+      "kind": "updated",
+      "at": "2026-11-06T12:07:07.089Z",
+      "version": "0.3.0"
+    },
+    {
+      "id": "b7d00072d3c753da",
+      "title": "Minecraft Rust",
+      "kind": "added",
+      "at": "2026-11-06T12:07:07.089Z",
+      "version": "0.1.0"
+    },
+    {
+      "id": "f52d35f612d1b1f1",
+      "title": "Crazy Taxi",
+      "kind": "added",
+      "at": "2026-11-06T12:07:07.089Z",
+      "version": "0.5.0"
+    },
+    {
+      "id": "6f0c0210fed848b4",
+      "title": "Mickey & Donald Collection",
+      "kind": "added",
+      "at": "2026-11-06T12:07:07.089Z",
+      "version": "pre-release"
+    },
     {
       "id": "eecd51ead97fc467",
       "title": "UAE4ALL2 HD",
@@ -9031,104 +9219,6 @@
       "kind": "updated",
       "at": "2026-11-02T12:25:35.122Z",
       "version": "1.0.1"
-    },
-    {
-      "id": "3573c4b16d7768a0",
-      "title": "Final Fantasy Dimensions",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.0"
-    },
-    {
-      "id": "07aee6451bab92be",
-      "title": "Final Fantasy Dimension II",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.1"
-    },
-    {
-      "id": "34688b2b7ab123e7",
-      "title": "Final Fantasy III 3D Remake",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.0"
-    },
-    {
-      "id": "33356f8cb1fcafd7",
-      "title": "Final Fantasy IV 3D Remake",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.2"
-    },
-    {
-      "id": "ebba555cf068e6ee",
-      "title": "Final Fantasy IV 3D Remake",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.4"
-    },
-    {
-      "id": "36f31f2678037a92",
-      "title": "Final Fantasy IV The After Years",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.1"
-    },
-    {
-      "id": "8e1b3be2d7413164",
-      "title": "Flappy Bird",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.0"
-    },
-    {
-      "id": "ca879707ed9a6436",
-      "title": "Fruit Ninja Classic +",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.2"
-    },
-    {
-      "id": "2529ce9c61e5efcf",
-      "title": "Galaxy on Fire",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.4"
-    },
-    {
-      "id": "c0a2bb93a58618e0",
-      "title": "Geometry Dash",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.2"
-    },
-    {
-      "id": "43d4386ce5180ef0",
-      "title": "Gizmoduck",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.1.8"
-    },
-    {
-      "id": "75629ec3f33f73b8",
-      "title": "Grand Theft Auto 3",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.4"
-    },
-    {
-      "id": "f4192bc62fc34431",
-      "title": "Grand Theft Auto Chinatown Wars",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.1"
-    },
-    {
-      "id": "8e715720b87f08a0",
-      "title": "Grand Theft Auto Liberty City Stories",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.3"
     }
   ]
 }
