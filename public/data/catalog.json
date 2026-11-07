@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "source": "https://github.com/robzilla10001/SwitchPorts",
-  "sourceHash": "eed186ab1d3e1bc49dbc3a2582f1d8e5dcf089bc83d9f8edd9c8717f8f983934",
-  "checkedAt": "2026-11-06T12:07:07.089Z",
-  "sourceChangedAt": "2026-11-06T12:07:07.089Z",
+  "sourceHash": "593a0775adea384be4ddfa9af7c75a655a813149add422b4f795bad3dba3e4bf",
+  "checkedAt": "2026-11-07T11:04:21.210Z",
+  "sourceChangedAt": "2026-11-07T11:04:21.210Z",
   "schedule": "07:17 Europe/Minsk",
   "entries": [
     {
@@ -2257,7 +2257,7 @@
       "changedAt": "2026-11-02T12:25:35.122Z"
     },
     {
-      "id": "77baefc028d061d6",
+      "id": "049ad32ded742a89",
       "title": "Killer Bean Unleashed",
       "category": "Android 64bit",
       "system": "Android 64bit",
@@ -2265,14 +2265,14 @@
       "version": "1.0.1",
       "updatedAt": "2026-08-18",
       "dateLabel": "18/08/2026",
-      "url": "https://github.com/ChanseyIsTheBest/killerbean_nx/tree/main",
+      "url": "https://github.com/ChanseyIsTheBest/killerbean_nx",
       "discussion": "https://gbatemp.net/threads/killer-bean-unleashed-switch-port.683815/",
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
       "markedRecent": false,
-      "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "firstSeenAt": "2026-11-07T11:04:21.210Z",
+      "changedAt": null
     },
     {
       "id": "a66b1e03f7776382",
@@ -4019,6 +4019,24 @@
       "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
       "changedAt": "2026-11-03T11:56:15.580Z"
+    },
+    {
+      "id": "61251d26c1a0c0da",
+      "title": "Alice: Madness Returns",
+      "category": "Microsoft Xbox 360",
+      "system": "Microsoft Xbox 360",
+      "kind": "port",
+      "version": "0.2-beta",
+      "updatedAt": "2026-11-05",
+      "dateLabel": "05/11/2026",
+      "url": "https://github.com/adumah/alice-nx",
+      "discussion": null,
+      "firmware": "unknown",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-11-07T11:04:21.210Z",
+      "changedAt": null
     },
     {
       "id": "189bd3e87200cb5e",
@@ -7821,6 +7839,20 @@
   ],
   "changes": [
     {
+      "id": "049ad32ded742a89",
+      "title": "Killer Bean Unleashed",
+      "kind": "added",
+      "at": "2026-11-07T11:04:21.210Z",
+      "version": "1.0.1"
+    },
+    {
+      "id": "61251d26c1a0c0da",
+      "title": "Alice: Madness Returns",
+      "kind": "added",
+      "at": "2026-11-07T11:04:21.210Z",
+      "version": "0.2-beta"
+    },
+    {
       "id": "41c0c8ca02690526",
       "title": "Mega Man X Regenesis",
       "kind": "updated",
@@ -9205,20 +9237,6 @@
       "kind": "updated",
       "at": "2026-11-02T12:25:35.122Z",
       "version": "1.1.1.9s1.0.2"
-    },
-    {
-      "id": "cab0ecf9eb895c5c",
-      "title": "The Executive",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.0"
-    },
-    {
-      "id": "10626b9db6fa9bd1",
-      "title": "Far Cry",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.1"
     }
   ]
 }
