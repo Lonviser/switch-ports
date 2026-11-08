@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "source": "https://github.com/robzilla10001/SwitchPorts",
-  "sourceHash": "593a0775adea384be4ddfa9af7c75a655a813149add422b4f795bad3dba3e4bf",
-  "checkedAt": "2026-11-07T11:04:21.210Z",
-  "sourceChangedAt": "2026-11-07T11:04:21.210Z",
+  "sourceHash": "3f0f38ecfa6192d2103baff2f269e17bc830053b82432f3c488c9bf60c68ebb7",
+  "checkedAt": "2026-11-08T11:17:38.971Z",
+  "sourceChangedAt": "2026-11-08T11:17:38.971Z",
   "schedule": "07:17 Europe/Minsk",
   "entries": [
     {
@@ -601,6 +601,24 @@
       "changedAt": "2026-11-02T12:25:35.122Z"
     },
     {
+      "id": "b8bff8c7a5f03829",
+      "title": "Call of Duty: Strike Team",
+      "category": "Android 32bit",
+      "system": "Android 32bit",
+      "kind": "port",
+      "version": "0.1.0",
+      "updatedAt": "2026-11-07",
+      "dateLabel": "07/11/2026",
+      "url": "https://github.com/Zumoly/cod-strike-team-nx",
+      "discussion": null,
+      "firmware": "unknown",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": false,
+      "firstSeenAt": "2026-11-08T11:17:38.971Z",
+      "changedAt": null
+    },
+    {
       "id": "f29c5707ccb0b501",
       "title": "Costume Quest",
       "category": "Android 32bit",
@@ -732,9 +750,9 @@
       "category": "Android 32bit",
       "system": "Android 32bit",
       "kind": "port",
-      "version": "1.1.0",
-      "updatedAt": "2026-10-21",
-      "dateLabel": "21/10/2026",
+      "version": "1.2.0",
+      "updatedAt": "2026-11-06",
+      "dateLabel": "06/11/2026",
       "url": "https://github.com/lemasterxar5/jet-set-radio-nx",
       "discussion": null,
       "firmware": "unknown",
@@ -742,7 +760,7 @@
       "status": "listed",
       "markedRecent": false,
       "firstSeenAt": "2026-10-22T09:25:20.592Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-08T11:17:38.971Z"
     },
     {
       "id": "32fa55b54734a432",
@@ -907,22 +925,22 @@
       "changedAt": "2026-11-02T12:25:35.122Z"
     },
     {
-      "id": "a2817b2a38465a67",
+      "id": "e0bce4764cea7e45",
       "title": "Space Hulk",
       "category": "Android 32bit",
       "system": "Android 32bit",
       "kind": "port",
-      "version": "0.1.4",
-      "updatedAt": "2026-10-20",
-      "dateLabel": "20/10/2026",
-      "url": "https://github.com/liartes/spacehulk-nx",
+      "version": "0.1.5",
+      "updatedAt": "2026-11-06",
+      "dateLabel": "06/11/2026",
+      "url": "https://github.com//spacehulk-nx",
       "discussion": null,
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
-      "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "markedRecent": true,
+      "firstSeenAt": "2026-11-08T11:17:38.971Z",
+      "changedAt": null
     },
     {
       "id": "b6b488e0afc9b153",
@@ -4237,6 +4255,24 @@
       "changedAt": null
     },
     {
+      "id": "13270c0624aedc82",
+      "title": "Condemned 2",
+      "category": "Microsoft Xbox 360",
+      "system": "Microsoft Xbox 360",
+      "kind": "port",
+      "version": "0.2.1",
+      "updatedAt": "2026-11-07",
+      "dateLabel": "07/11/2026",
+      "url": "https://github.com/ipungsx/condemned2BSx360-Port-Switch",
+      "discussion": null,
+      "firmware": "unknown",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-11-08T11:17:38.971Z",
+      "changedAt": null
+    },
+    {
       "id": "c6713143af6e2289",
       "title": "Dante's Inferno",
       "category": "Microsoft Xbox 360",
@@ -4543,14 +4579,32 @@
       "changedAt": null
     },
     {
+      "id": "59f881841d5a3a57",
+      "title": "The King of Fighters 2002 Unlimited Match",
+      "category": "Microsoft Xbox 360",
+      "system": "Microsoft Xbox 360",
+      "kind": "port",
+      "version": "0.1.1",
+      "updatedAt": "2026-11-07",
+      "dateLabel": "07/11/2026",
+      "url": "https://github.com/tbittech/kof2002um-nx",
+      "discussion": null,
+      "firmware": "unknown",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-11-08T11:17:38.971Z",
+      "changedAt": null
+    },
+    {
       "id": "2f5c75f7cea7f8e2",
       "title": "Lost Odyssey",
       "category": "Microsoft Xbox 360",
       "system": "Microsoft Xbox 360",
       "kind": "port",
-      "version": "1.0.6e",
-      "updatedAt": "2026-11-03",
-      "dateLabel": "03/11/2026",
+      "version": "1.1.0",
+      "updatedAt": "2026-11-06",
+      "dateLabel": "06/11/2026",
       "url": "https://github.com/Ad0ky/LostOdysseyRecomp",
       "discussion": "https://gbatemp.net/threads/lost-odyssey-nintendo-switch-port.685442/",
       "firmware": "unknown",
@@ -4558,7 +4612,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-06T12:07:07.089Z"
+      "changedAt": "2026-11-08T11:17:38.971Z"
     },
     {
       "id": "c8439b037687aa77",
@@ -4674,9 +4728,9 @@
       "category": "Microsoft Xbox 360",
       "system": "Microsoft Xbox 360",
       "kind": "port",
-      "version": "1.0.3",
-      "updatedAt": "2026-11-02",
-      "dateLabel": "02/11/2026",
+      "version": "1.0.4",
+      "updatedAt": "2026-11-05",
+      "dateLabel": "05/11/2026",
       "url": "https://github.com/Thorhax/mk9-nx",
       "discussion": null,
       "firmware": "unknown",
@@ -4684,7 +4738,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-28T10:35:25.917Z",
-      "changedAt": "2026-11-06T12:07:07.089Z"
+      "changedAt": "2026-11-08T11:17:38.971Z"
     },
     {
       "id": "8cb51d70e1e874d9",
@@ -5034,9 +5088,9 @@
       "category": "Microsoft Xbox 360",
       "system": "Microsoft Xbox 360",
       "kind": "port",
-      "version": "1.0.4",
-      "updatedAt": "2026-11-01",
-      "dateLabel": "01/11/2026",
+      "version": "1.0.5",
+      "updatedAt": "2026-11-05",
+      "dateLabel": "05/11/2026",
       "url": "https://github.com/liartes/torchlight-nx",
       "discussion": null,
       "firmware": "unknown",
@@ -5044,7 +5098,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-03T11:56:15.580Z"
+      "changedAt": "2026-11-08T11:17:38.971Z"
     },
     {
       "id": "5fb9a8d8f34c2453",
@@ -5135,6 +5189,24 @@
       "markedRecent": true,
       "firstSeenAt": "2026-11-05T12:22:06.603Z",
       "changedAt": "2026-11-06T12:07:07.089Z"
+    },
+    {
+      "id": "5e5ad909a6431e3f",
+      "title": "The Legend of Zelda: Ocarina of Time 3D",
+      "category": "Nintendo 3DS",
+      "system": "Nintendo 3DS",
+      "kind": "port",
+      "version": "0.1.0",
+      "updatedAt": "2026-11-05",
+      "dateLabel": "05/11/2026",
+      "url": "https://github.com/JohnUzoka/TriAevum-Switch",
+      "discussion": null,
+      "firmware": "unknown",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-11-08T11:17:38.971Z",
+      "changedAt": null
     },
     {
       "id": "9ff0ec737a3b53ca",
@@ -5862,9 +5934,9 @@
       "category": "Nintendo GameCube",
       "system": "Nintendo GameCube",
       "kind": "port",
-      "version": "1.8.4",
-      "updatedAt": "2026-11-04",
-      "dateLabel": "04/11/2026",
+      "version": "1.9.0",
+      "updatedAt": "2026-11-06",
+      "dateLabel": "06/11/2026",
       "url": "https://github.com/digdat0/mkdd-nx",
       "discussion": "https://gbatemp.net/threads/mario-kart-double-dash-nx-switch-port.685843/",
       "firmware": "unknown",
@@ -5872,7 +5944,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-26T10:48:48.590Z",
-      "changedAt": "2026-11-06T12:07:07.089Z"
+      "changedAt": "2026-11-08T11:17:38.971Z"
     },
     {
       "id": "aed7bf5bb9b479ed",
@@ -6397,6 +6469,24 @@
       "changedAt": "2026-11-02T12:25:35.122Z"
     },
     {
+      "id": "308aef000076165c",
+      "title": "Deus EX",
+      "category": "PC",
+      "system": "PC",
+      "kind": "port",
+      "version": "0.1.0",
+      "updatedAt": "2026-11-05",
+      "dateLabel": "05/11/2026",
+      "url": "https://github.com/JohnUzoka/dx-rust-nx",
+      "discussion": null,
+      "firmware": "unknown",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-11-08T11:17:38.971Z",
+      "changedAt": null
+    },
+    {
       "id": "fd10a4bd3aa6f9ac",
       "title": "Diablo",
       "category": "PC",
@@ -6865,24 +6955,6 @@
       "changedAt": null
     },
     {
-      "id": "f779963591d73f67",
-      "title": "Nazi Zombies: Portable",
-      "category": "PC",
-      "system": "PC",
-      "kind": "port",
-      "version": "2.0.0",
-      "updatedAt": "2026-10-31",
-      "dateLabel": "31/10/2026",
-      "url": "https://github.com/nzp-team/nzportable/",
-      "discussion": "https://gbatemp.net/threads/nzportable-nazi-zombies-made-with-quake-engine.624375/",
-      "firmware": "unknown",
-      "firmwareUrl": null,
-      "status": "listed",
-      "markedRecent": true,
-      "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-03T11:56:15.580Z"
-    },
-    {
       "id": "63354bb26a3196c9",
       "title": "Minecraft Java 1.12.2",
       "category": "PC",
@@ -6916,6 +6988,42 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-11-06T12:07:07.089Z",
+      "changedAt": null
+    },
+    {
+      "id": "f779963591d73f67",
+      "title": "Nazi Zombies: Portable",
+      "category": "PC",
+      "system": "PC",
+      "kind": "port",
+      "version": "2.0.0",
+      "updatedAt": "2026-10-31",
+      "dateLabel": "31/10/2026",
+      "url": "https://github.com/nzp-team/nzportable/",
+      "discussion": "https://gbatemp.net/threads/nzportable-nazi-zombies-made-with-quake-engine.624375/",
+      "firmware": "unknown",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-10-21T08:36:47.210Z",
+      "changedAt": "2026-11-03T11:56:15.580Z"
+    },
+    {
+      "id": "336002bf710c55a8",
+      "title": "Need for Speed II / III",
+      "category": "PC",
+      "system": "PC",
+      "kind": "port",
+      "version": "1.0.1 pre-release",
+      "updatedAt": "2026-09-17",
+      "dateLabel": "17/09/2026",
+      "url": "https://github.com/PalindromicBreadLoaf/HotPursuitNX",
+      "discussion": null,
+      "firmware": "unknown",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-11-08T11:17:38.971Z",
       "changedAt": null
     },
     {
@@ -7693,6 +7801,24 @@
       "changedAt": null
     },
     {
+      "id": "af05743422b0f180",
+      "title": "Digimon World 3",
+      "category": "Sony Playstation",
+      "system": "Sony Playstation",
+      "kind": "port",
+      "version": "0.9.0-preview 2",
+      "updatedAt": "2026-11-02",
+      "dateLabel": "02/11/2026",
+      "url": "https://github.com/Larbaco/dw3-switch",
+      "discussion": null,
+      "firmware": "unknown",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-11-08T11:17:38.971Z",
+      "changedAt": null
+    },
+    {
       "id": "48f3cbdcb215fc6b",
       "title": "Lain",
       "category": "Sony Playstation",
@@ -7835,9 +7961,125 @@
       "markedRecent": true,
       "firstSeenAt": "2026-11-03T11:56:15.580Z",
       "changedAt": null
+    },
+    {
+      "id": "fcea770b3d8b64c9",
+      "title": "Ben 10: Protector of Earth",
+      "category": "Sony Playstation Portable",
+      "system": "Sony Playstation Portable",
+      "kind": "port",
+      "version": "1.1.4",
+      "updatedAt": "2026-11-05",
+      "dateLabel": "05/11/2026",
+      "url": "https://github.com/LaLemniscata/ben10-nx",
+      "discussion": null,
+      "firmware": "unknown",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-11-08T11:17:38.971Z",
+      "changedAt": null
     }
   ],
   "changes": [
+    {
+      "id": "b8bff8c7a5f03829",
+      "title": "Call of Duty: Strike Team",
+      "kind": "added",
+      "at": "2026-11-08T11:17:38.971Z",
+      "version": "0.1.0"
+    },
+    {
+      "id": "4119c65f13664378",
+      "title": "Jet Set Radio",
+      "kind": "updated",
+      "at": "2026-11-08T11:17:38.971Z",
+      "version": "1.2.0"
+    },
+    {
+      "id": "e0bce4764cea7e45",
+      "title": "Space Hulk",
+      "kind": "added",
+      "at": "2026-11-08T11:17:38.971Z",
+      "version": "0.1.5"
+    },
+    {
+      "id": "13270c0624aedc82",
+      "title": "Condemned 2",
+      "kind": "added",
+      "at": "2026-11-08T11:17:38.971Z",
+      "version": "0.2.1"
+    },
+    {
+      "id": "59f881841d5a3a57",
+      "title": "The King of Fighters 2002 Unlimited Match",
+      "kind": "added",
+      "at": "2026-11-08T11:17:38.971Z",
+      "version": "0.1.1"
+    },
+    {
+      "id": "2f5c75f7cea7f8e2",
+      "title": "Lost Odyssey",
+      "kind": "updated",
+      "at": "2026-11-08T11:17:38.971Z",
+      "version": "1.1.0"
+    },
+    {
+      "id": "014c09950fd9ed80",
+      "title": "Mortal Kombat Komplete Edition",
+      "kind": "updated",
+      "at": "2026-11-08T11:17:38.971Z",
+      "version": "1.0.4"
+    },
+    {
+      "id": "14243d7c69b8bf23",
+      "title": "Torchlight",
+      "kind": "updated",
+      "at": "2026-11-08T11:17:38.971Z",
+      "version": "1.0.5"
+    },
+    {
+      "id": "5e5ad909a6431e3f",
+      "title": "The Legend of Zelda: Ocarina of Time 3D",
+      "kind": "added",
+      "at": "2026-11-08T11:17:38.971Z",
+      "version": "0.1.0"
+    },
+    {
+      "id": "ff1c08609b909b7b",
+      "title": "Mario Kart: Double Dash!",
+      "kind": "updated",
+      "at": "2026-11-08T11:17:38.971Z",
+      "version": "1.9.0"
+    },
+    {
+      "id": "308aef000076165c",
+      "title": "Deus EX",
+      "kind": "added",
+      "at": "2026-11-08T11:17:38.971Z",
+      "version": "0.1.0"
+    },
+    {
+      "id": "336002bf710c55a8",
+      "title": "Need for Speed II / III",
+      "kind": "added",
+      "at": "2026-11-08T11:17:38.971Z",
+      "version": "1.0.1 pre-release"
+    },
+    {
+      "id": "af05743422b0f180",
+      "title": "Digimon World 3",
+      "kind": "added",
+      "at": "2026-11-08T11:17:38.971Z",
+      "version": "0.9.0-preview 2"
+    },
+    {
+      "id": "fcea770b3d8b64c9",
+      "title": "Ben 10: Protector of Earth",
+      "kind": "added",
+      "at": "2026-11-08T11:17:38.971Z",
+      "version": "1.1.4"
+    },
     {
       "id": "049ad32ded742a89",
       "title": "Killer Bean Unleashed",
@@ -9139,104 +9381,6 @@
       "kind": "updated",
       "at": "2026-11-02T12:25:35.122Z",
       "version": "1.0.1"
-    },
-    {
-      "id": "9770a945ca17e93f",
-      "title": "Counter Strike Source",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.0"
-    },
-    {
-      "id": "a55f81083cf8a819",
-      "title": "Crazy Taxi",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.0"
-    },
-    {
-      "id": "2e659a49c239be25",
-      "title": "Cut the Rope",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.1"
-    },
-    {
-      "id": "a9277eff06ac818e",
-      "title": "Cut the Rope 2",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.0"
-    },
-    {
-      "id": "3bf8f4ea0da92e16",
-      "title": "Cut the Rope Experiments",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.0"
-    },
-    {
-      "id": "f7d1c9899c91f94a",
-      "title": "Cut the Rope Magic",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.0"
-    },
-    {
-      "id": "55a9ec8c9383c663",
-      "title": "Cut the Rope Time Travel",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.0"
-    },
-    {
-      "id": "a2d69d374f2c705b",
-      "title": "Data Defense",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.0"
-    },
-    {
-      "id": "b53c3aa963c51039",
-      "title": "Deep 3D: Submarine Odyssey",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.3"
-    },
-    {
-      "id": "c33350c579a9ff9f",
-      "title": "Deus Ex Go",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.2"
-    },
-    {
-      "id": "9d1fd58672a24d91",
-      "title": "Dr. Mario Mania",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.0"
-    },
-    {
-      "id": "0a24d554c3ed299e",
-      "title": "Duke Dashington Remastered",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.0"
-    },
-    {
-      "id": "77af2e46dedff1bf",
-      "title": "Earn 2 Die",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.0"
-    },
-    {
-      "id": "96c6d94b037324c9",
-      "title": "The Elder Scrolls II: Daggerfall Unity",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.1.1.9s1.0.2"
     }
   ]
 }
