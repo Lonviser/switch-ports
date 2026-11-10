@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "source": "https://github.com/robzilla10001/SwitchPorts",
-  "sourceHash": "e4a4fb1724257735abbce033b927661c58e9bfbad392bcc2520939ce138b5639",
-  "checkedAt": "2026-11-09T12:53:03.366Z",
-  "sourceChangedAt": "2026-11-09T12:53:03.366Z",
+  "sourceHash": "4ccda7157de54d1a04696da4a4500388542fa486425348b9a7dc02e7e7631571",
+  "checkedAt": "2026-11-10T12:39:49.301Z",
+  "sourceChangedAt": "2026-11-10T12:39:49.301Z",
   "schedule": "07:17 Europe/Minsk",
   "entries": [
     {
@@ -390,9 +390,9 @@
       "category": "Emulators",
       "system": "Saturn",
       "kind": "emulator",
-      "version": "1.2.0",
-      "updatedAt": "2026-10-01",
-      "dateLabel": "01/10/2026",
+      "version": "1.3.0",
+      "updatedAt": "2026-11-08",
+      "dateLabel": "08/11/2026",
       "url": "https://github.com/Thorhax/yabasanshiro-nx",
       "discussion": null,
       "firmware": "unknown",
@@ -400,7 +400,7 @@
       "status": "listed",
       "markedRecent": false,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-10T12:39:49.301Z"
     },
     {
       "id": "e4a4b8023fc33ce4",
@@ -925,7 +925,7 @@
       "changedAt": "2026-11-02T12:25:35.122Z"
     },
     {
-      "id": "e0bce4764cea7e45",
+      "id": "a2817b2a38465a67",
       "title": "Space Hulk",
       "category": "Android 32bit",
       "system": "Android 32bit",
@@ -933,13 +933,13 @@
       "version": "0.1.5",
       "updatedAt": "2026-11-06",
       "dateLabel": "06/11/2026",
-      "url": "https://github.com//spacehulk-nx",
+      "url": "https://github.com/liartes/spacehulk-nx",
       "discussion": null,
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
       "markedRecent": true,
-      "firstSeenAt": "2026-11-08T11:17:38.971Z",
+      "firstSeenAt": "2026-11-10T12:39:49.301Z",
       "changedAt": null
     },
     {
@@ -3841,6 +3841,24 @@
       "changedAt": "2026-11-02T12:25:35.122Z"
     },
     {
+      "id": "b616131a6487ad3a",
+      "title": "FIFA Street 2",
+      "category": "Microsoft Xbox",
+      "system": "Microsoft Xbox",
+      "kind": "port",
+      "version": "0.1.0",
+      "updatedAt": "2026-11-09",
+      "dateLabel": "09/11/2026",
+      "url": "https://github.com/xsaja/street2-nx",
+      "discussion": null,
+      "firmware": "unknown",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-11-10T12:39:49.301Z",
+      "changedAt": null
+    },
+    {
       "id": "540c15bec6f73ca9",
       "title": "Flatout 2",
       "category": "Microsoft Xbox",
@@ -4764,9 +4782,9 @@
       "category": "Microsoft Xbox 360",
       "system": "Microsoft Xbox 360",
       "kind": "port",
-      "version": "1.0.4",
-      "updatedAt": "2026-11-05",
-      "dateLabel": "05/11/2026",
+      "version": "1.0.6",
+      "updatedAt": "2026-11-08",
+      "dateLabel": "08/11/2026",
       "url": "https://github.com/Thorhax/mk9-nx",
       "discussion": null,
       "firmware": "unknown",
@@ -4774,7 +4792,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-28T10:35:25.917Z",
-      "changedAt": "2026-11-08T11:17:38.971Z"
+      "changedAt": "2026-11-10T12:39:49.301Z"
     },
     {
       "id": "8cb51d70e1e874d9",
@@ -4793,6 +4811,24 @@
       "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
       "changedAt": "2026-11-03T11:56:15.580Z"
+    },
+    {
+      "id": "251aa25e3f6a2f86",
+      "title": "Naruto: Rise of a Ninja",
+      "category": "Microsoft Xbox 360",
+      "system": "Microsoft Xbox 360",
+      "kind": "port",
+      "version": "0.1.5",
+      "updatedAt": "2026-11-08",
+      "dateLabel": "08/11/2026",
+      "url": "https://github.com/malinkin-s/naruto-rise-of-a-ninja-nx",
+      "discussion": null,
+      "firmware": "unknown",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-11-10T12:39:49.301Z",
+      "changedAt": null
     },
     {
       "id": "f32cce366dc77a0b",
@@ -4919,6 +4955,42 @@
       "markedRecent": false,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
       "changedAt": "2026-11-02T12:25:35.122Z"
+    },
+    {
+      "id": "750afe9ebf9fdba3",
+      "title": "Ridge Racer 6",
+      "category": "Microsoft Xbox 360",
+      "system": "Microsoft Xbox 360",
+      "kind": "port",
+      "version": "1.0.0",
+      "updatedAt": "2026-11-09",
+      "dateLabel": "09/11/2026",
+      "url": "https://github.com/ChanseyIsTheBest/rr6-nx",
+      "discussion": null,
+      "firmware": "unknown",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-11-10T12:39:49.301Z",
+      "changedAt": null
+    },
+    {
+      "id": "8caac8ff8d44f8f7",
+      "title": "Scud Race",
+      "category": "Microsoft Xbox 360",
+      "system": "Microsoft Xbox 360",
+      "kind": "port",
+      "version": "1.0.0",
+      "updatedAt": "2026-11-10",
+      "dateLabel": "10/11/2026",
+      "url": "https://github.com/Thorhax/scudrace-nx",
+      "discussion": null,
+      "firmware": "unknown",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-11-10T12:39:49.301Z",
+      "changedAt": null
     },
     {
       "id": "985b4ab77fa84a19",
@@ -5227,14 +5299,32 @@
       "changedAt": "2026-11-06T12:07:07.089Z"
     },
     {
+      "id": "2c387d2e421c4881",
+      "title": "Metroid Prime: Hunters",
+      "category": "Nintendo DS",
+      "system": "Nintendo DS",
+      "kind": "port",
+      "version": "0.5.0",
+      "updatedAt": "2026-11-09",
+      "dateLabel": "09/11/2026",
+      "url": "https://github.com/FurryLilManChild/MPH-nx",
+      "discussion": null,
+      "firmware": "unknown",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-11-10T12:39:49.301Z",
+      "changedAt": null
+    },
+    {
       "id": "5e5ad909a6431e3f",
       "title": "The Legend of Zelda: Ocarina of Time 3D",
       "category": "Nintendo 3DS",
       "system": "Nintendo 3DS",
       "kind": "port",
-      "version": "0.1.0",
-      "updatedAt": "2026-11-05",
-      "dateLabel": "05/11/2026",
+      "version": "0.2.1",
+      "updatedAt": "2026-11-09",
+      "dateLabel": "09/11/2026",
       "url": "https://github.com/JohnUzoka/TriAevum-Switch",
       "discussion": null,
       "firmware": "unknown",
@@ -5242,6 +5332,24 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-11-08T11:17:38.971Z",
+      "changedAt": "2026-11-10T12:39:49.301Z"
+    },
+    {
+      "id": "a10451e408e890b3",
+      "title": "Metroid: Samus Returns",
+      "category": "Nintendo 3DS",
+      "system": "Nintendo 3DS",
+      "kind": "port",
+      "version": "0.5.0",
+      "updatedAt": "2026-11-09",
+      "dateLabel": "09/11/2026",
+      "url": "https://github.com/FurryLilManChild/MSR-nx",
+      "discussion": null,
+      "firmware": "unknown",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-11-10T12:39:49.301Z",
       "changedAt": null
     },
     {
@@ -5515,21 +5623,21 @@
       "changedAt": "2026-11-02T12:25:35.122Z"
     },
     {
-      "id": "1fa5287a4a05b3f6",
+      "id": "e056df1cfa86b88f",
       "title": "Snowboard Kids 2",
       "category": "Nintendo 64",
       "system": "Nintendo 64",
       "kind": "port",
-      "version": "2.0.2",
-      "updatedAt": "2026-10-17",
-      "dateLabel": "17/10/2026",
-      "url": "https://github.com/cdlewis/snowboardkids2-recomp",
+      "version": "1.0.0",
+      "updatedAt": "2026-10-09",
+      "dateLabel": "09/10/2026",
+      "url": "https://github.com/D35P4C1T0/snowboardkids2-recomp-switch",
       "discussion": null,
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
       "markedRecent": true,
-      "firstSeenAt": "2026-11-09T12:53:03.366Z",
+      "firstSeenAt": "2026-11-10T12:39:49.301Z",
       "changedAt": null
     },
     {
@@ -5934,9 +6042,9 @@
       "category": "Nintendo GameCube",
       "system": "Nintendo GameCube",
       "kind": "port",
-      "version": "1.1.0",
-      "updatedAt": "2026-11-03",
-      "dateLabel": "03/11/2026",
+      "version": "1.1.2",
+      "updatedAt": "2026-11-09",
+      "dateLabel": "09/11/2026",
       "url": "https://github.com/Alexgg1014/The-Legend-of-Zelda-Twilight-Princess-Alek-s-Ultimate-NX-Edition",
       "discussion": "https://gbatemp.net/threads/release-twilight-princess-on-switch-dusklight-aleks-ultimate-nx-edition-1-0-0-deko3d-pc-mods-co-op-cross-save.685740/unread",
       "firmware": "unknown",
@@ -5944,7 +6052,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-06T12:07:07.089Z"
+      "changedAt": "2026-11-10T12:39:49.301Z"
     },
     {
       "id": "dee3bada8f248057",
@@ -5999,6 +6107,24 @@
       "markedRecent": true,
       "firstSeenAt": "2026-10-26T10:48:48.590Z",
       "changedAt": "2026-11-08T11:17:38.971Z"
+    },
+    {
+      "id": "c59953a2c936fb3c",
+      "title": "Metroid Prime 2: Echoes",
+      "category": "Nintendo GameCube",
+      "system": "Nintendo GameCube",
+      "kind": "port",
+      "version": "0.5.0",
+      "updatedAt": "2026-11-09",
+      "dateLabel": "09/11/2026",
+      "url": "https://github.com/FurryLilManChild/MP2-nx",
+      "discussion": null,
+      "firmware": "unknown",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-11-10T12:39:49.301Z",
+      "changedAt": null
     },
     {
       "id": "aed7bf5bb9b479ed",
@@ -6420,9 +6546,9 @@
       "category": "PC",
       "system": "PC",
       "kind": "port",
-      "version": "0.3.0",
-      "updatedAt": "2026-11-03",
-      "dateLabel": "03/11/2026",
+      "version": "0.3.3",
+      "updatedAt": "2026-11-09",
+      "dateLabel": "09/11/2026",
       "url": "https://github.com/HDErick/BO2-Requiem-NX",
       "discussion": null,
       "firmware": "unknown",
@@ -6430,7 +6556,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-26T10:48:48.590Z",
-      "changedAt": "2026-11-06T12:07:07.089Z"
+      "changedAt": "2026-11-10T12:39:49.301Z"
     },
     {
       "id": "63f3d5d7abbc2ce7",
@@ -7824,9 +7950,9 @@
       "category": "Sega Dreamcast",
       "system": "Sega Dreamcast",
       "kind": "port",
-      "version": "0.5.0",
-      "updatedAt": "2026-11-02",
-      "dateLabel": "02/11/2026",
+      "version": "0.6.0",
+      "updatedAt": "2026-11-09",
+      "dateLabel": "09/11/2026",
       "url": "https://github.com/FurryLilManChild/SA-nx",
       "discussion": null,
       "firmware": "unknown",
@@ -7834,7 +7960,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-11-03T11:56:15.580Z",
-      "changedAt": null
+      "changedAt": "2026-11-10T12:39:49.301Z"
     },
     {
       "id": "f52d35f612d1b1f1",
@@ -7852,6 +7978,24 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-11-06T12:07:07.089Z",
+      "changedAt": null
+    },
+    {
+      "id": "145b5f92094876a7",
+      "title": "Crazy Taxi 2",
+      "category": "Sega Dreamcast",
+      "system": "Sega Dreamcast",
+      "kind": "port",
+      "version": "0.5.0",
+      "updatedAt": "2026-11-08",
+      "dateLabel": "08/11/2026",
+      "url": "https://github.com/FurryLilManChild/CT2-nx/",
+      "discussion": null,
+      "firmware": "unknown",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-11-10T12:39:49.301Z",
       "changedAt": null
     },
     {
@@ -7968,9 +8112,9 @@
       "category": "Sony Playstation",
       "system": "Sony Playstation",
       "kind": "port",
-      "version": "1.2",
-      "updatedAt": "2026-11-03",
-      "dateLabel": "03/11/2026",
+      "version": "1.3",
+      "updatedAt": "2026-11-08",
+      "dateLabel": "08/11/2026",
       "url": "https://github.com/markaurel13/tekken3-nx",
       "discussion": "https://gbatemp.net/threads/tekken-3-definitive-edition-native-port.686192/",
       "firmware": "unknown",
@@ -7978,7 +8122,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-29T10:54:02.946Z",
-      "changedAt": "2026-11-04T12:09:05.842Z"
+      "changedAt": "2026-11-10T12:39:49.301Z"
     },
     {
       "id": "73ff1a5e0d50b2ee",
@@ -8072,6 +8216,125 @@
     }
   ],
   "changes": [
+    {
+      "id": "78ea0096b02c2df1",
+      "title": "YabaSanshiro",
+      "kind": "updated",
+      "at": "2026-11-10T12:39:49.301Z",
+      "version": "1.3.0"
+    },
+    {
+      "id": "a2817b2a38465a67",
+      "title": "Space Hulk",
+      "kind": "added",
+      "at": "2026-11-10T12:39:49.301Z",
+      "version": "0.1.5"
+    },
+    {
+      "id": "b616131a6487ad3a",
+      "title": "FIFA Street 2",
+      "kind": "added",
+      "at": "2026-11-10T12:39:49.301Z",
+      "version": "0.1.0"
+    },
+    {
+      "id": "014c09950fd9ed80",
+      "title": "Mortal Kombat Komplete Edition",
+      "kind": "updated",
+      "at": "2026-11-10T12:39:49.301Z",
+      "version": "1.0.6"
+    },
+    {
+      "id": "251aa25e3f6a2f86",
+      "title": "Naruto: Rise of a Ninja",
+      "kind": "added",
+      "at": "2026-11-10T12:39:49.301Z",
+      "version": "0.1.5"
+    },
+    {
+      "id": "750afe9ebf9fdba3",
+      "title": "Ridge Racer 6",
+      "kind": "added",
+      "at": "2026-11-10T12:39:49.301Z",
+      "version": "1.0.0"
+    },
+    {
+      "id": "8caac8ff8d44f8f7",
+      "title": "Scud Race",
+      "kind": "added",
+      "at": "2026-11-10T12:39:49.301Z",
+      "version": "1.0.0"
+    },
+    {
+      "id": "2c387d2e421c4881",
+      "title": "Metroid Prime: Hunters",
+      "kind": "added",
+      "at": "2026-11-10T12:39:49.301Z",
+      "version": "0.5.0"
+    },
+    {
+      "id": "5e5ad909a6431e3f",
+      "title": "The Legend of Zelda: Ocarina of Time 3D",
+      "kind": "updated",
+      "at": "2026-11-10T12:39:49.301Z",
+      "version": "0.2.1"
+    },
+    {
+      "id": "a10451e408e890b3",
+      "title": "Metroid: Samus Returns",
+      "kind": "added",
+      "at": "2026-11-10T12:39:49.301Z",
+      "version": "0.5.0"
+    },
+    {
+      "id": "e056df1cfa86b88f",
+      "title": "Snowboard Kids 2",
+      "kind": "added",
+      "at": "2026-11-10T12:39:49.301Z",
+      "version": "1.0.0"
+    },
+    {
+      "id": "38ecf720608d96ab",
+      "title": "The Legend of Zelda: Twilight Princess",
+      "kind": "updated",
+      "at": "2026-11-10T12:39:49.301Z",
+      "version": "1.1.2"
+    },
+    {
+      "id": "c59953a2c936fb3c",
+      "title": "Metroid Prime 2: Echoes",
+      "kind": "added",
+      "at": "2026-11-10T12:39:49.301Z",
+      "version": "0.5.0"
+    },
+    {
+      "id": "2ef490f837e395e5",
+      "title": "Call of Duty - Black Ops II",
+      "kind": "updated",
+      "at": "2026-11-10T12:39:49.301Z",
+      "version": "0.3.3"
+    },
+    {
+      "id": "04c272bccd06a07c",
+      "title": "Sonic Adventure",
+      "kind": "updated",
+      "at": "2026-11-10T12:39:49.301Z",
+      "version": "0.6.0"
+    },
+    {
+      "id": "145b5f92094876a7",
+      "title": "Crazy Taxi 2",
+      "kind": "added",
+      "at": "2026-11-10T12:39:49.301Z",
+      "version": "0.5.0"
+    },
+    {
+      "id": "ae205ab4c2a8044a",
+      "title": "Tekken 3",
+      "kind": "updated",
+      "at": "2026-11-10T12:39:49.301Z",
+      "version": "1.3"
+    },
     {
       "id": "2cc7fb4bff8302f3",
       "title": "Outrunners",
@@ -9352,125 +9615,6 @@
       "kind": "updated",
       "at": "2026-11-02T12:25:35.122Z",
       "version": "1.0.2"
-    },
-    {
-      "id": "1bf98fec6be23074",
-      "title": "Angry Birds 2",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.2"
-    },
-    {
-      "id": "831c2fa0ab73123b",
-      "title": "Angry Birds Epic: All Stars",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.4"
-    },
-    {
-      "id": "2380bbe1a71d8953",
-      "title": "Angry Birds Journey",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.0"
-    },
-    {
-      "id": "839a7611bd9ae47c",
-      "title": "Angry Birds Reloaded",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.0"
-    },
-    {
-      "id": "15b9025528f79293",
-      "title": "Animal Crossing: Pocket Camp",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.1"
-    },
-    {
-      "id": "503e230b3753954f",
-      "title": "Bad Piggies",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.5"
-    },
-    {
-      "id": "680e685c26e8c50b",
-      "title": "Baldi's Basic Classic",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.0"
-    },
-    {
-      "id": "a0d518be9914597e",
-      "title": "Banana Kong",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.0"
-    },
-    {
-      "id": "5b9d3a526931cc3b",
-      "title": "Bloons Adventure Time TD",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.3"
-    },
-    {
-      "id": "4868a11470c6ae9f",
-      "title": "Bloons Pop!",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.0"
-    },
-    {
-      "id": "0da64a55066c98d8",
-      "title": "Bloons Supermonkey 2",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.0"
-    },
-    {
-      "id": "2701f81ed7f82b4c",
-      "title": "Bloons TD 5 Mobile",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.2"
-    },
-    {
-      "id": "b474ef758d05785c",
-      "title": "Bombsquad",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.0"
-    },
-    {
-      "id": "714c2cea1e36a32b",
-      "title": "Bombsquad Explodinary",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.0"
-    },
-    {
-      "id": "432c92240e3ddec3",
-      "title": "Bombsquad: Joyride",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.0"
-    },
-    {
-      "id": "2262940ca6e296fe",
-      "title": "Bouncemasters",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.0"
-    },
-    {
-      "id": "7ef068d4bce48cbc",
-      "title": "Burger Shop 2",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.1"
     }
   ]
 }
