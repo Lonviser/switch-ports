@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "source": "https://github.com/robzilla10001/SwitchPorts",
-  "sourceHash": "4ccda7157de54d1a04696da4a4500388542fa486425348b9a7dc02e7e7631571",
-  "checkedAt": "2026-11-10T12:39:49.301Z",
-  "sourceChangedAt": "2026-11-10T12:39:49.301Z",
+  "sourceHash": "22f8c9661a8d33f2e65dc814c7f56f841ff5a6ede5bd1880dd25e36045bdc908",
+  "checkedAt": "2026-11-11T11:53:03.397Z",
+  "sourceChangedAt": "2026-11-11T11:53:03.397Z",
   "schedule": "07:17 Europe/Minsk",
   "entries": [
     {
@@ -56,7 +56,7 @@
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": true,
+      "markedRecent": false,
       "firstSeenAt": "2026-11-05T12:22:06.603Z",
       "changedAt": null
     },
@@ -66,9 +66,9 @@
       "category": "Emulators",
       "system": "DC",
       "kind": "emulator",
-      "version": "???",
-      "updatedAt": "2026-10-27",
-      "dateLabel": "27/10/2026",
+      "version": "commit 72b8e67",
+      "updatedAt": "2026-11-09",
+      "dateLabel": "09/11/2026",
       "url": "https://flyinghead.github.io/flycast-builds/",
       "discussion": "https://gbatemp.net/threads/flycast-standalone-for-nintendo-switch.593111/",
       "firmware": "unknown",
@@ -76,7 +76,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-03T11:56:15.580Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "6cbe8af56b75f583",
@@ -156,9 +156,9 @@
       "category": "Emulators",
       "system": "MODEL3",
       "kind": "emulator",
-      "version": "1.5.0",
-      "updatedAt": "2026-10-29",
-      "dateLabel": "29/10/2026",
+      "version": "1.5.1",
+      "updatedAt": "2026-11-04",
+      "dateLabel": "04/11/2026",
       "url": "https://github.com/toniisound/supermodel-nx",
       "discussion": "https://gbatemp.net/threads/release-supermodel-nx-sega-model-3-arcade-emulator-for-nintendo-switch.684935/",
       "firmware": "unknown",
@@ -166,7 +166,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-03T11:56:15.580Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "08983920d670d273",
@@ -210,17 +210,17 @@
       "category": "Emulators",
       "system": "NDS",
       "kind": "emulator",
-      "version": "1.2.0",
-      "updatedAt": "2026-10-21",
-      "dateLabel": "21/10/2026",
+      "version": "1.2.1",
+      "updatedAt": "2026-11-02",
+      "dateLabel": "02/11/2026",
       "url": "https://github.com/NaGaa95/DrasticDS_nx",
       "discussion": "https://gbatemp.net/threads/drasticds-emulator-switch-port.683280/",
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "62ab333142af1048",
@@ -228,17 +228,17 @@
       "category": "Emulators",
       "system": "NGC/WII",
       "kind": "emulator",
-      "version": "1.2.0",
-      "updatedAt": "2026-10-16",
-      "dateLabel": "16/10/2026",
+      "version": "1.2.1",
+      "updatedAt": "2026-11-02",
+      "dateLabel": "02/11/2026",
       "url": "https://github.com/NaGaa95/dolphin-nx",
       "discussion": "https://gbatemp.net/threads/dolphin-gc-wii-emulator-switch-port.683359/",
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "9796f2c6993a9965",
@@ -246,9 +246,9 @@
       "category": "Emulators",
       "system": "NGC/WII",
       "kind": "emulator",
-      "version": "1.1.0",
-      "updatedAt": "2026-10-26",
-      "dateLabel": "26/10/2026",
+      "version": "1.1.1",
+      "updatedAt": "2026-11-04",
+      "dateLabel": "04/11/2026",
       "url": "https://github.com/PalindromicBreadLoaf/nezumiiruka",
       "discussion": "https://gbatemp.net/threads/nezumiiruka-new-and-best-dolphin-port.685219/",
       "firmware": "unknown",
@@ -256,7 +256,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-03T11:56:15.580Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "ab17ff801c9f88ed",
@@ -272,7 +272,7 @@
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": true,
+      "markedRecent": false,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
       "changedAt": "2026-11-03T11:56:15.580Z"
     },
@@ -290,7 +290,7 @@
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": true,
+      "markedRecent": false,
       "firstSeenAt": "2026-10-28T10:35:25.917Z",
       "changedAt": "2026-11-02T12:25:35.122Z"
     },
@@ -300,17 +300,17 @@
       "category": "Emulators",
       "system": "PS2",
       "kind": "emulator",
-      "version": "1.4.0",
-      "updatedAt": "2026-10-15",
-      "dateLabel": "15/10/2026",
+      "version": "1.4.1",
+      "updatedAt": "2026-11-02",
+      "dateLabel": "02/11/2026",
       "url": "https://github.com/NaGaa95/NetherSX2_nx",
       "discussion": "https://gbatemp.net/threads/nethersx2-switch-port.683038/",
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "56dcef7e2d26026f",
@@ -354,17 +354,17 @@
       "category": "Emulators",
       "system": "PSP",
       "kind": "emulator",
-      "version": "1.0.0",
-      "updatedAt": "2026-09-17",
-      "dateLabel": "17/09/2026",
+      "version": "1.1.0",
+      "updatedAt": "2026-11-10",
+      "dateLabel": "10/11/2026",
       "url": "https://github.com/NaGaa95/ppsspp-nx",
       "discussion": "https://gbatemp.net/threads/ppsspp-nx.684504/",
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "72f3ab9453e39500",
@@ -394,11 +394,11 @@
       "updatedAt": "2026-11-08",
       "dateLabel": "08/11/2026",
       "url": "https://github.com/Thorhax/yabasanshiro-nx",
-      "discussion": null,
+      "discussion": "https://gbatemp.net/threads/yabasanshiro-nx-sega-saturn-emulator.686378/unread",
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
       "changedAt": "2026-11-10T12:39:49.301Z"
     },
@@ -408,9 +408,9 @@
       "category": "Emulators",
       "system": "VITA",
       "kind": "emulator",
-      "version": "1.4.0",
-      "updatedAt": "2026-11-01",
-      "dateLabel": "01/11/2026",
+      "version": "1.4.1",
+      "updatedAt": "2026-11-02",
+      "dateLabel": "02/11/2026",
       "url": "https://github.com/NaGaa95/Vita3K-nx",
       "discussion": "https://gbatemp.net/threads/vita3k-playstation-vita.684076/",
       "firmware": "unknown",
@@ -418,7 +418,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-03T11:56:15.580Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "17633e069bd278d0",
@@ -444,17 +444,17 @@
       "category": "Emulators",
       "system": "WIIU",
       "kind": "emulator",
-      "version": "1.3.0",
-      "updatedAt": "2026-10-21",
-      "dateLabel": "21/10/2026",
+      "version": "1.3.1",
+      "updatedAt": "2026-11-02",
+      "dateLabel": "02/11/2026",
       "url": "https://github.com/NaGaa95/Cemu-nx",
       "discussion": "https://gbatemp.net/threads/cemu-wii-u-emulator-switch-port.683219/",
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "d7834b51893842b5",
@@ -614,7 +614,7 @@
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-11-08T11:17:38.971Z",
       "changedAt": null
     },
@@ -758,7 +758,7 @@
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-10-22T09:25:20.592Z",
       "changedAt": "2026-11-08T11:17:38.971Z"
     },
@@ -794,7 +794,7 @@
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": true,
+      "markedRecent": false,
       "firstSeenAt": "2026-10-27T09:49:22.748Z",
       "changedAt": "2026-11-02T12:25:35.122Z"
     },
@@ -812,7 +812,7 @@
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": true,
+      "markedRecent": false,
       "firstSeenAt": "2026-10-28T10:35:25.917Z",
       "changedAt": "2026-11-02T12:25:35.122Z"
     },
@@ -822,17 +822,17 @@
       "category": "Android 32bit",
       "system": "Android 32bit",
       "kind": "port",
-      "version": "0.3.0",
-      "updatedAt": "2026-10-19",
-      "dateLabel": "19/10/2026",
+      "version": "0.3.2",
+      "updatedAt": "2026-11-09",
+      "dateLabel": "09/11/2026",
       "url": "https://github.com/SantiBros/NFSMostWanted2012-Android-Switch",
       "discussion": null,
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "c06c14bb1a666aa9",
@@ -956,7 +956,7 @@
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": true,
+      "markedRecent": false,
       "firstSeenAt": "2026-10-31T10:23:46.372Z",
       "changedAt": "2026-11-02T12:25:35.122Z"
     },
@@ -992,7 +992,7 @@
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": true,
+      "markedRecent": false,
       "firstSeenAt": "2026-11-03T11:56:15.580Z",
       "changedAt": null
     },
@@ -1010,7 +1010,7 @@
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": true,
+      "markedRecent": false,
       "firstSeenAt": "2026-11-03T11:56:15.580Z",
       "changedAt": null
     },
@@ -1038,17 +1038,17 @@
       "category": "Android 64bit",
       "system": "Android 64bit",
       "kind": "port",
-      "version": "1.0.3",
-      "updatedAt": "2026-07-14",
-      "dateLabel": "14/07/2026",
+      "version": "1.0.4",
+      "updatedAt": "2026-11-03",
+      "dateLabel": "03/11/2026",
       "url": "https://github.com/NaGaa95/aom_nx",
       "discussion": "https://gbatemp.net/threads/adventures-of-mana-switch-port.682785/",
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "50148385b87732f1",
@@ -1056,17 +1056,17 @@
       "category": "Android 64bit",
       "system": "Android 64bit",
       "kind": "port",
-      "version": "1.0.2",
-      "updatedAt": "2026-09-24",
-      "dateLabel": "24/09/2026",
+      "version": "1.0.1",
+      "updatedAt": "2026-11-03",
+      "dateLabel": "03/11/2026",
       "url": "https://github.com/NaGaa95/abc_nx",
       "discussion": "https://gbatemp.net/threads/after-burner-climax-switch-port.682933/",
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "03d7c0a25c45ac99",
@@ -1092,17 +1092,17 @@
       "category": "Android 64bit",
       "system": "Android 64bit",
       "kind": "port",
-      "version": "1.0.2",
-      "updatedAt": "2026-08-06",
-      "dateLabel": "06/08/2026",
+      "version": "1.0.3",
+      "updatedAt": "2026-11-03",
+      "dateLabel": "03/11/2026",
       "url": "https://github.com/NaGaa95/angrybirds2_nx",
       "discussion": "https://gbatemp.net/threads/angry-birds-2-switch-port.683461/",
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "831c2fa0ab73123b",
@@ -1128,17 +1128,17 @@
       "category": "Android 64bit",
       "system": "Android 64bit",
       "kind": "port",
-      "version": "1.0.0",
-      "updatedAt": "2026-08-06",
-      "dateLabel": "06/08/2026",
+      "version": "1.0.1",
+      "updatedAt": "2026-11-03",
+      "dateLabel": "03/11/2026",
       "url": "https://github.com/NaGaa95/angrybirdsjourney_nx",
       "discussion": null,
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "839a7611bd9ae47c",
@@ -1164,17 +1164,17 @@
       "category": "Android 64bit",
       "system": "Android 64bit",
       "kind": "port",
-      "version": "1.0.1",
-      "updatedAt": "2026-08-09",
-      "dateLabel": "09/08/2026",
+      "version": "1.0.2",
+      "updatedAt": "2026-11-03",
+      "dateLabel": "03/11/2026",
       "url": "https://github.com/NaGaa95/acpc_nx",
       "discussion": "https://gbatemp.net/threads/animal-crossing-pocket-camp-complete-switch-port.683187/",
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "503e230b3753954f",
@@ -1434,17 +1434,17 @@
       "category": "Android 64bit",
       "system": "Android 64bit",
       "kind": "port",
-      "version": "1.0.1",
-      "updatedAt": "2026-07-14",
-      "dateLabel": "14/07/2026",
+      "version": "1.0.2",
+      "updatedAt": "2026-11-03",
+      "dateLabel": "03/11/2026",
       "url": "https://github.com/NaGaa95/coi_nx",
       "discussion": "https://gbatemp.net/threads/castle-of-illusion-switch-port.682811/",
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "da3b8b3ef784c936",
@@ -1452,17 +1452,17 @@
       "category": "Android 64bit",
       "system": "Android 64bit",
       "kind": "port",
-      "version": "1.0.2",
-      "updatedAt": "2026-07-05",
-      "dateLabel": "05/07/2026",
+      "version": "1.0.3",
+      "updatedAt": "2026-11-03",
+      "dateLabel": "03/11/2026",
       "url": "https://github.com/NaGaa95/sotn_nx",
       "discussion": "https://gbatemp.net/threads/castlevania-symphony-of-the-night-switch-port.682763/",
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "96c805bbff92d25e",
@@ -1470,17 +1470,17 @@
       "category": "Android 64bit",
       "system": "Android 64bit",
       "kind": "port",
-      "version": "1.0.1",
-      "updatedAt": "2026-06-28",
-      "dateLabel": "28/06/2026",
+      "version": "1.0.2",
+      "updatedAt": "2026-11-03",
+      "dateLabel": "03/11/2026",
       "url": "https://github.com/NaGaa95/cr3_nx",
       "discussion": "https://gbatemp.net/threads/chaos-rings-iii-switch-port.682597/",
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "cca6094d6252d11e",
@@ -1488,17 +1488,17 @@
       "category": "Android 64bit",
       "system": "Android 64bit",
       "kind": "port",
-      "version": "1.1.0",
-      "updatedAt": "2026-07-13",
-      "dateLabel": "13/07/2026",
+      "version": "1.1.2",
+      "updatedAt": "2026-11-03",
+      "dateLabel": "03/11/2026",
       "url": "https://github.com/NaGaa95/ct_nx",
       "discussion": "https://gbatemp.net/threads/chrono-trigger-switch-port.682630/",
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "bdb78d467968ad8c",
@@ -1542,17 +1542,17 @@
       "category": "Android 64bit",
       "system": "Android 64bit",
       "kind": "port",
-      "version": "1.0.0",
-      "updatedAt": "2026-07-06",
-      "dateLabel": "06/07/2026",
+      "version": "1.0.2",
+      "updatedAt": "2026-11-03",
+      "dateLabel": "03/11/2026",
       "url": "https://github.com/NaGaa95/css_nx",
       "discussion": "https://gbatemp.net/threads/counter-strike-source-switch-port.682944/",
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "a55f81083cf8a819",
@@ -1578,17 +1578,17 @@
       "category": "Android 64bit",
       "system": "Android 64bit",
       "kind": "port",
-      "version": "1.0.1",
-      "updatedAt": "2026-08-06",
-      "dateLabel": "06/08/2026",
+      "version": "1.0.3",
+      "updatedAt": "2026-11-03",
+      "dateLabel": "03/11/2026",
       "url": "https://github.com/NaGaa95/ctr_nx",
       "discussion": null,
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "a9277eff06ac818e",
@@ -1596,17 +1596,17 @@
       "category": "Android 64bit",
       "system": "Android 64bit",
       "kind": "port",
-      "version": "1.0.0",
-      "updatedAt": "2026-08-06",
-      "dateLabel": "06/08/2026",
+      "version": "1.0.2",
+      "updatedAt": "2026-11-03",
+      "dateLabel": "03/11/2026",
       "url": "https://github.com/NaGaa95/ctr2_nx",
       "discussion": null,
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "3bf8f4ea0da92e16",
@@ -1830,17 +1830,17 @@
       "category": "Android 64bit",
       "system": "Android 64bit",
       "kind": "port",
-      "version": "1.0.0",
-      "updatedAt": "2026-06-28",
-      "dateLabel": "28/06/2026",
+      "version": "1.0.1",
+      "updatedAt": "2026-11-03",
+      "dateLabel": "03/11/2026",
       "url": "https://github.com/NaGaa95/ffd_nx",
       "discussion": "https://gbatemp.net/threads/final-fantasy-dimensions-switch-port.682781/",
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "07aee6451bab92be",
@@ -1848,17 +1848,17 @@
       "category": "Android 64bit",
       "system": "Android 64bit",
       "kind": "port",
-      "version": "1.0.1",
-      "updatedAt": "2026-07-15",
-      "dateLabel": "15/07/2026",
+      "version": "1.0.2",
+      "updatedAt": "2026-11-03",
+      "dateLabel": "03/11/2026",
       "url": "https://github.com/NaGaa95/ffd2_nx",
       "discussion": "https://gbatemp.net/threads/final-fantasy-dimensions-ii-switch-port.683067/",
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "34688b2b7ab123e7",
@@ -1866,17 +1866,17 @@
       "category": "Android 64bit",
       "system": "Android 64bit",
       "kind": "port",
-      "version": "1.0.0",
-      "updatedAt": "2026-06-23",
-      "dateLabel": "23/06/2026",
+      "version": "1.0.1",
+      "updatedAt": "2026-11-03",
+      "dateLabel": "03/11/2026",
       "url": "https://github.com/NaGaa95/ff3_3d_nx",
       "discussion": "https://gbatemp.net/threads/final-fantasy-iii-3d-remake-switch-port.682660/",
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "33356f8cb1fcafd7",
@@ -1884,17 +1884,17 @@
       "category": "Android 64bit",
       "system": "Android 64bit",
       "kind": "port",
-      "version": "1.0.2",
-      "updatedAt": "2026-06-29",
-      "dateLabel": "29/06/2026",
+      "version": "1.0.4",
+      "updatedAt": "2026-11-03",
+      "dateLabel": "03/11/2026",
       "url": "https://github.com/NaGaa95/ff4_3d_nx",
       "discussion": "https://gbatemp.net/threads/final-fantasy-iv-3d-remake-switch-port.682557/",
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "ebba555cf068e6ee",
@@ -1920,17 +1920,17 @@
       "category": "Android 64bit",
       "system": "Android 64bit",
       "kind": "port",
-      "version": "1.0.1",
-      "updatedAt": "2026-06-18",
-      "dateLabel": "18/06/2026",
+      "version": "1.0.2",
+      "updatedAt": "2026-11-03",
+      "dateLabel": "03/11/2026",
       "url": "https://github.com/NaGaa95/ff4tay_nx",
       "discussion": "https://gbatemp.net/threads/final-fantasy-iv-the-after-years-switch-port.682541/",
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "8e1b3be2d7413164",
@@ -1992,17 +1992,17 @@
       "category": "Android 64bit",
       "system": "Android 64bit",
       "kind": "port",
-      "version": "1.0.2",
-      "updatedAt": "2026-08-07",
-      "dateLabel": "07/08/2026",
+      "version": "1.0.4",
+      "updatedAt": "2026-11-03",
+      "dateLabel": "03/11/2026",
       "url": "https://github.com/NaGaa95/gdash_nx",
       "discussion": "https://gbatemp.net/threads/geometry-dash-switch-port.682926/",
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "43d4386ce5180ef0",
@@ -2046,17 +2046,17 @@
       "category": "Android 64bit",
       "system": "Android 64bit",
       "kind": "port",
-      "version": "1.0.1",
-      "updatedAt": "2026-06-29",
-      "dateLabel": "29/06/2026",
+      "version": "1.0.2",
+      "updatedAt": "2026-11-03",
+      "dateLabel": "03/11/2026",
       "url": "https://github.com/NaGaa95/gtactw_nx",
       "discussion": "https://gbatemp.net/threads/gta-chinatown-wars-switch-port.682411/",
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "8e715720b87f08a0",
@@ -2064,17 +2064,17 @@
       "category": "Android 64bit",
       "system": "Android 64bit",
       "kind": "port",
-      "version": "1.0.3",
-      "updatedAt": "2026-06-30",
-      "dateLabel": "30/06/2026",
+      "version": "1.0.4",
+      "updatedAt": "2026-11-03",
+      "dateLabel": "03/11/2026",
       "url": "https://github.com/NaGaa95/gtalcs_nx",
       "discussion": "https://gbatemp.net/threads/gta-liberty-city-stories-switch-port.682681/",
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "8e7ea10e84c964f5",
@@ -2082,17 +2082,17 @@
       "category": "Android 64bit",
       "system": "Android 64bit",
       "kind": "port",
-      "version": "1.0.4",
-      "updatedAt": "2026-08-15",
-      "dateLabel": "15/08/2026",
+      "version": "1.0.5",
+      "updatedAt": "2026-11-03",
+      "dateLabel": "03/11/2026",
       "url": "https://github.com/NaGaa95/gtasa_nx",
       "discussion": "https://gbatemp.net/threads/gta-san-andreas-switch-port.683068/",
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "2328003a3553d3a1",
@@ -2118,17 +2118,17 @@
       "category": "Android 64bit",
       "system": "Android 64bit",
       "kind": "port",
-      "version": "1.0.4",
-      "updatedAt": "2026-08-03",
-      "dateLabel": "03/08/2026",
+      "version": "1.0.5",
+      "updatedAt": "2026-11-03",
+      "dateLabel": "03/11/2026",
       "url": "https://github.com/NaGaa95/hl2_nx",
       "discussion": "https://gbatemp.net/threads/half-life-2-source-engine-switch-port.682466/unread",
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "db1352ef00e782dc",
@@ -2262,17 +2262,17 @@
       "category": "Android 64bit",
       "system": "Android 64bit",
       "kind": "port",
-      "version": "1.0.0",
-      "updatedAt": "2026-08-06",
-      "dateLabel": "06/08/2026",
+      "version": "1.0.2",
+      "updatedAt": "2026-11-03",
+      "dateLabel": "03/11/2026",
       "url": "https://github.com/NaGaa95/jetpackjoyride_nx",
       "discussion": null,
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "049ad32ded742a89",
@@ -2298,17 +2298,17 @@
       "category": "Android 64bit",
       "system": "Android 64bit",
       "kind": "port",
-      "version": "1.0.1",
-      "updatedAt": "2026-08-03",
-      "dateLabel": "03/08/2026",
+      "version": "1.0.2",
+      "updatedAt": "2026-11-03",
+      "dateLabel": "03/11/2026",
       "url": "https://github.com/NaGaa95/KHUx_nx",
       "discussion": "https://gbatemp.net/threads/kingdom-hearts-union-ch-dark-road-switch-port.683138/",
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "ba73480b5985b9a5",
@@ -2334,17 +2334,17 @@
       "category": "Android 64bit",
       "system": "Android 64bit",
       "kind": "port",
-      "version": "1.0.1",
-      "updatedAt": "2026-07-15",
-      "dateLabel": "15/07/2026",
+      "version": "1.0.3",
+      "updatedAt": "2026-11-03",
+      "dateLabel": "03/11/2026",
       "url": "https://github.com/NaGaa95/laytonbmr_nx",
       "discussion": "https://gbatemp.net/threads/layton-brothers-mystery-room-switch-port.682988/",
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "69966e49bf91abe8",
@@ -2352,17 +2352,17 @@
       "category": "Android 64bit",
       "system": "Android 64bit",
       "kind": "port",
-      "version": "1.0.0",
-      "updatedAt": "2026-07-01",
-      "dateLabel": "01/07/2026",
+      "version": "1.0.1",
+      "updatedAt": "2026-11-03",
+      "dateLabel": "03/11/2026",
       "url": "https://github.com/NaGaa95/lbbg_nx",
       "discussion": "https://gbatemp.net/threads/lego-batman-3-beyond-gotham-switch-port.682841/",
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "e1d141b063356ca0",
@@ -2370,17 +2370,17 @@
       "category": "Android 64bit",
       "system": "Android 64bit",
       "kind": "port",
-      "version": "1.0.1",
-      "updatedAt": "2026-07-15",
-      "dateLabel": "15/07/2026",
+      "version": "1.0.2",
+      "updatedAt": "2026-11-03",
+      "dateLabel": "03/11/2026",
       "url": "https://github.com/NaGaa95/lnsor_nx",
       "discussion": "https://gbatemp.net/threads/lego-ninjago-shadow-of-ronin-switch-port.682953/",
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "fe57c0521c83c4ae",
@@ -2388,17 +2388,17 @@
       "category": "Android 64bit",
       "system": "Android 64bit",
       "kind": "port",
-      "version": "1.0.3",
-      "updatedAt": "2026-08-09",
-      "dateLabel": "09/08/2026",
+      "version": "1.0.4",
+      "updatedAt": "2026-11-03",
+      "dateLabel": "03/11/2026",
       "url": "https://github.com/NaGaa95/lswtcs_nx",
       "discussion": "https://gbatemp.net/threads/lego-star-wars-the-complete-saga-switch-port.682412/",
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "d13bb15599a83122",
@@ -2406,17 +2406,17 @@
       "category": "Android 64bit",
       "system": "Android 64bit",
       "kind": "port",
-      "version": "1.0.1",
-      "updatedAt": "2026-06-30",
-      "dateLabel": "30/06/2026",
+      "version": "1.0.2",
+      "updatedAt": "2026-11-03",
+      "dateLabel": "03/11/2026",
       "url": "https://github.com/NaGaa95/lswtfa_nx",
       "discussion": "https://gbatemp.net/threads/lego-star-wars-the-force-awakens-switch-port.682692/",
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "34f38ea47504cec5",
@@ -2442,17 +2442,17 @@
       "category": "Android 64bit",
       "system": "Android 64bit",
       "kind": "port",
-      "version": "1.0.1",
-      "updatedAt": "2026-06-10",
-      "dateLabel": "10/06/2026",
+      "version": "1.0.2",
+      "updatedAt": "2026-11-03",
+      "dateLabel": "03/11/2026",
       "url": "https://github.com/NaGaa95/max_nx_v2.1.131",
       "discussion": "https://gbatemp.net/threads/max-payne-mobile-port-loader.583635/",
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "41c0c8ca02690526",
@@ -2838,17 +2838,17 @@
       "category": "Android 64bit",
       "system": "Android 64bit",
       "kind": "port",
-      "version": "1.0.4",
-      "updatedAt": "2026-06-29",
-      "dateLabel": "29/06/2026",
+      "version": "1.0.5",
+      "updatedAt": "2026-11-03",
+      "dateLabel": "03/11/2026",
       "url": "https://github.com/NaGaa95/layton_nx",
       "discussion": "https://gbatemp.net/threads/professor-layton-curious-village-hd-switch-port.682435/",
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "a21026856b18a654",
@@ -2856,17 +2856,17 @@
       "category": "Android 64bit",
       "system": "Android 64bit",
       "kind": "port",
-      "version": "1.0.3",
-      "updatedAt": "2026-06-29",
-      "dateLabel": "29/06/2026",
+      "version": "1.0.4",
+      "updatedAt": "2026-11-03",
+      "dateLabel": "03/11/2026",
       "url": "https://github.com/NaGaa95/layton3_nx",
       "discussion": "https://gbatemp.net/threads/professor-layton-lost-future-hd-switch-port.682462/",
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "b55cdaddf6890a9c",
@@ -2874,17 +2874,17 @@
       "category": "Android 64bit",
       "system": "Android 64bit",
       "kind": "port",
-      "version": "1.0.2",
-      "updatedAt": "2026-06-29",
-      "dateLabel": "29/06/2026",
+      "version": "1.0.3",
+      "updatedAt": "2026-11-03",
+      "dateLabel": "03/11/2026",
       "url": "https://github.com/NaGaa95/layton2_nx",
       "discussion": "https://gbatemp.net/threads/professor-layton-pandoras-box-hd-switch-port.682460/",
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "b377ee5efbae11dc",
@@ -2892,7 +2892,7 @@
       "category": "Android 64bit",
       "system": "Android 64bit",
       "kind": "port",
-      "version": "1.5.1",
+      "version": "1.5.3",
       "updatedAt": "2026-10-31",
       "dateLabel": "31/10/2026",
       "url": "https://github.com/dpadninja/realdrift_nx",
@@ -2902,7 +2902,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-22T09:25:20.592Z",
-      "changedAt": "2026-11-03T11:56:15.580Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "941e2ae3c8df033b",
@@ -3180,17 +3180,17 @@
       "category": "Android 64bit",
       "system": "Android 64bit",
       "kind": "port",
-      "version": "1.0.3",
-      "updatedAt": "2026-08-03",
-      "dateLabel": "03/08/2026",
+      "version": "1.0.4",
+      "updatedAt": "2026-11-03",
+      "dateLabel": "03/11/2026",
       "url": "https://github.com/NaGaa95/subwaysurfers_nx",
       "discussion": "https://gbatemp.net/threads/subway-surfers-switch-port.683440/",
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "715f4ddffefa2397",
@@ -3270,17 +3270,17 @@
       "category": "Android 64bit",
       "system": "Android 64bit",
       "kind": "port",
-      "version": "1.0.1",
-      "updatedAt": "2026-07-14",
-      "dateLabel": "14/07/2026",
+      "version": "1.0.2",
+      "updatedAt": "2026-11-03",
+      "dateLabel": "03/11/2026",
       "url": "https://github.com/NaGaa95/swordigo_nx",
       "discussion": "https://gbatemp.net/threads/ultimate-switch-port-thread.683071/#post-10883678",
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "48a2c850f6f6d6ee",
@@ -3288,17 +3288,17 @@
       "category": "Android 64bit",
       "system": "Android 64bit",
       "kind": "port",
-      "version": "1.0.1",
-      "updatedAt": "2026-08-08",
-      "dateLabel": "08/08/2026",
+      "version": "1.0.2",
+      "updatedAt": "2026-11-03",
+      "dateLabel": "03/11/2026",
       "url": "https://github.com/NaGaa95/tf2_nx",
       "discussion": "https://gbatemp.net/threads/team-fortress-2-switch-port.682734/",
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "73ca1a7649c96696",
@@ -3360,17 +3360,17 @@
       "category": "Android 64bit",
       "system": "Android 64bit",
       "kind": "port",
-      "version": "1.0.1",
-      "updatedAt": "2026-07-15",
-      "dateLabel": "15/07/2026",
+      "version": "1.0.3",
+      "updatedAt": "2026-11-03",
+      "dateLabel": "03/11/2026",
       "url": "https://github.com/NaGaa95/vln_nx",
       "discussion": "https://gbatemp.net/threads/very-little-nightmares-switch-port.682971/unread",
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "eb52c71214d1a62b",
@@ -3437,24 +3437,6 @@
       "dateLabel": "29/07/2026",
       "url": "https://github.com/DI4VOLO-dev/ys1x_nx",
       "discussion": null,
-      "firmware": "unknown",
-      "firmwareUrl": null,
-      "status": "listed",
-      "markedRecent": false,
-      "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
-    },
-    {
-      "id": "a929d8a57b8a4caf",
-      "title": "Zombotron Re-Boot",
-      "category": "Android 64bit",
-      "system": "Android 64bit",
-      "kind": "port",
-      "version": "1.0.2",
-      "updatedAt": "2026-08-16",
-      "dateLabel": "16/08/2026",
-      "url": "https://github.com/StevensND/zombotron_nx",
-      "discussion": "https://gbatemp.net/threads/zombotron-re-boot-nintendo-switch-port.684161/",
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
@@ -3576,9 +3558,9 @@
       "category": "Arcade",
       "system": "Arcade",
       "kind": "port",
-      "version": "1.2.1",
-      "updatedAt": "2026-11-07",
-      "dateLabel": "07/11/2026",
+      "version": "1.2.2",
+      "updatedAt": "2026-11-09",
+      "dateLabel": "09/11/2026",
       "url": "https://github.com/cheviman/outrunners-port",
       "discussion": null,
       "firmware": "unknown",
@@ -3586,7 +3568,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-11-09T12:53:03.366Z",
-      "changedAt": null
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "48a08018f5f6c1c8",
@@ -3630,9 +3612,9 @@
       "category": "Arcade",
       "system": "Arcade",
       "kind": "port",
-      "version": "1.0.5",
-      "updatedAt": "2026-11-07",
-      "dateLabel": "07/11/2026",
+      "version": "1.0.6",
+      "updatedAt": "2026-11-09",
+      "dateLabel": "09/11/2026",
       "url": "https://github.com/cheviman/tmnt-port",
       "discussion": null,
       "firmware": "unknown",
@@ -3640,7 +3622,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-11-09T12:53:03.366Z",
-      "changedAt": null
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "8403e3b095845c9a",
@@ -3674,7 +3656,7 @@
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": true,
+      "markedRecent": false,
       "firstSeenAt": "2026-10-26T10:48:48.590Z",
       "changedAt": "2026-11-03T11:56:15.580Z"
     },
@@ -3728,7 +3710,7 @@
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": true,
+      "markedRecent": false,
       "firstSeenAt": "2026-11-05T12:22:06.603Z",
       "changedAt": null
     },
@@ -3756,9 +3738,9 @@
       "category": "Microsoft Xbox",
       "system": "Microsoft Xbox",
       "kind": "port",
-      "version": "0.55.0",
-      "updatedAt": "2026-11-01",
-      "dateLabel": "01/11/2026",
+      "version": "0.57.0",
+      "updatedAt": "2026-11-07",
+      "dateLabel": "07/11/2026",
       "url": "https://github.com/rashevskyv/conker-lr-recomp",
       "discussion": "https://github.com/rashevskyv/conker-lr-recomp",
       "firmware": "unknown",
@@ -3766,7 +3748,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-26T10:48:48.590Z",
-      "changedAt": "2026-11-03T11:56:15.580Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "836000a829d16efe",
@@ -3775,8 +3757,8 @@
       "system": "Microsoft Xbox",
       "kind": "port",
       "version": "released",
-      "updatedAt": "2026-10-30",
-      "dateLabel": "30/10/2026",
+      "updatedAt": "2026-11-05",
+      "dateLabel": "05/11/2026",
       "url": "https://github.com/toniisound/doa2u-nx",
       "discussion": "https://gbatemp.net/threads/dead-or-alive-2-ultimate-wip.686023/",
       "firmware": "unknown",
@@ -3784,7 +3766,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-31T10:23:46.372Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "88fb943f0173b475",
@@ -3800,7 +3782,7 @@
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": true,
+      "markedRecent": false,
       "firstSeenAt": "2026-10-26T10:48:48.590Z",
       "changedAt": "2026-11-03T11:56:15.580Z"
     },
@@ -3836,7 +3818,7 @@
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": true,
+      "markedRecent": false,
       "firstSeenAt": "2026-10-29T10:54:02.946Z",
       "changedAt": "2026-11-02T12:25:35.122Z"
     },
@@ -3882,9 +3864,9 @@
       "category": "Microsoft Xbox",
       "system": "Microsoft Xbox",
       "kind": "port",
-      "version": "1.0.0",
-      "updatedAt": "2026-11-02",
-      "dateLabel": "02/11/2026",
+      "version": "1.0.1",
+      "updatedAt": "2026-11-06",
+      "dateLabel": "06/11/2026",
       "url": "https://github.com/CYBERPUNK20/godfather-nx",
       "discussion": "https://gbatemp.net/threads/the-godfather-switch-port.686185/",
       "firmware": "unknown",
@@ -3892,7 +3874,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-11-04T12:09:05.842Z",
-      "changedAt": null
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "5083952a54cf9356",
@@ -3900,9 +3882,9 @@
       "category": "Microsoft Xbox",
       "system": "Microsoft Xbox",
       "kind": "port",
-      "version": "Build 132",
-      "updatedAt": "2026-11-02",
-      "dateLabel": "02/11/2026",
+      "version": "Build 141",
+      "updatedAt": "2026-11-09",
+      "dateLabel": "09/11/2026",
       "url": "https://github.com/thelinkin3000/halo-ce-universal",
       "discussion": "https://gbatemp.net/threads/halo-ce-for-switch.684926/#post-10917594",
       "firmware": "unknown",
@@ -3910,7 +3892,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-03T11:56:15.580Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "7ebe86a42406f663",
@@ -3936,9 +3918,9 @@
       "category": "Microsoft Xbox",
       "system": "Microsoft Xbox",
       "kind": "port",
-      "version": "0.5.0",
-      "updatedAt": "2026-10-30",
-      "dateLabel": "30/10/2026",
+      "version": "1.1.0",
+      "updatedAt": "2026-11-05",
+      "dateLabel": "05/11/2026",
       "url": "https://github.com/laureladastra/mcdub3-nx",
       "discussion": "https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10929991",
       "firmware": "unknown",
@@ -3946,7 +3928,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-22T09:25:20.592Z",
-      "changedAt": "2026-11-03T11:56:15.580Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "148afe9bc604c4db",
@@ -3954,9 +3936,9 @@
       "category": "Microsoft Xbox",
       "system": "Microsoft Xbox",
       "kind": "port",
-      "version": "0.3.1",
-      "updatedAt": "2026-10-27",
-      "dateLabel": "27/10/2026",
+      "version": "0.4.1",
+      "updatedAt": "2026-11-10",
+      "dateLabel": "10/11/2026",
       "url": "https://github.com/Thorhax/ShaolinMonks-NX",
       "discussion": null,
       "firmware": "unknown",
@@ -3964,7 +3946,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-27T09:49:22.748Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "f94001541cf1df68",
@@ -3980,7 +3962,7 @@
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": true,
+      "markedRecent": false,
       "firstSeenAt": "2026-11-01T11:17:11.115Z",
       "changedAt": "2026-11-02T12:25:35.122Z"
     },
@@ -4134,9 +4116,9 @@
       "category": "Microsoft Xbox 360",
       "system": "Microsoft Xbox 360",
       "kind": "port",
-      "version": "1.0.0",
-      "updatedAt": "2026-10-29",
-      "dateLabel": "29/10/2026",
+      "version": "1.0.1",
+      "updatedAt": "2026-11-04",
+      "dateLabel": "04/11/2026",
       "url": "https://github.com/ChanseyIsTheBest/bangaio-nx",
       "discussion": "https://gbatemp.net/threads/bangai-o-hd-missile-fury-switch-port.686010/",
       "firmware": "unknown",
@@ -4144,7 +4126,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-31T10:23:46.372Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "da2225a1c9ebd887",
@@ -4152,9 +4134,9 @@
       "category": "Microsoft Xbox 360",
       "system": "Microsoft Xbox 360",
       "kind": "port",
-      "version": "1.0.1",
-      "updatedAt": "2026-11-01",
-      "dateLabel": "01/11/2026",
+      "version": "1.0.2",
+      "updatedAt": "2026-11-04",
+      "dateLabel": "04/11/2026",
       "url": "https://github.com/ChanseyIsTheBest/renut-nx",
       "discussion": "https://gbatemp.net/threads/banjo-kazooie-nuts-bolts-renut-switch-port.686095/",
       "firmware": "unknown",
@@ -4162,7 +4144,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-11-03T11:56:15.580Z",
-      "changedAt": null
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "d0d146b3416b9b6a",
@@ -4188,9 +4170,9 @@
       "category": "Microsoft Xbox 360",
       "system": "Microsoft Xbox 360",
       "kind": "port",
-      "version": "1.0.0",
-      "updatedAt": "2026-11-01",
-      "dateLabel": "01/11/2026",
+      "version": "1.0.1",
+      "updatedAt": "2026-11-04",
+      "dateLabel": "04/11/2026",
       "url": "https://github.com/ChanseyIsTheBest/katamari-nx",
       "discussion": "https://gbatemp.net/threads/beautiful-katamari-switch-port.686128/",
       "firmware": "unknown",
@@ -4198,7 +4180,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-11-03T11:56:15.580Z",
-      "changedAt": null
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "9ee332e0d0e422dc",
@@ -4232,7 +4214,7 @@
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": true,
+      "markedRecent": false,
       "firstSeenAt": "2026-10-29T10:54:02.946Z",
       "changedAt": "2026-11-02T12:25:35.122Z"
     },
@@ -4242,9 +4224,9 @@
       "category": "Microsoft Xbox 360",
       "system": "Microsoft Xbox 360",
       "kind": "port",
-      "version": "Release 1",
-      "updatedAt": "2026-10-31",
-      "dateLabel": "31/10/2026",
+      "version": "1.1.0",
+      "updatedAt": "2026-11-03",
+      "dateLabel": "03/11/2026",
       "url": "https://github.com/AlvaroEPena/bo2-360-nx",
       "discussion": "https://gbatemp.net/threads/black-ops-ii-switch-port.686105/",
       "firmware": "unknown",
@@ -4252,7 +4234,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-11-03T11:56:15.580Z",
-      "changedAt": null
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "a530ec3c7119a26c",
@@ -4260,9 +4242,9 @@
       "category": "Microsoft Xbox 360",
       "system": "Microsoft Xbox 360",
       "kind": "port",
-      "version": "0.292",
-      "updatedAt": "2026-11-03",
-      "dateLabel": "03/11/2026",
+      "version": "0.311",
+      "updatedAt": "2026-11-06",
+      "dateLabel": "06/11/2026",
       "url": "https://github.com/rashevskyv/cvhd-recomp",
       "discussion": "https://gbatemp.net/threads/castlevania-harmony-of-despair-xbla-xbox-360-on-switch-windows-and-linux-static-recompilation.686177/",
       "firmware": "unknown",
@@ -4270,7 +4252,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-11-04T12:09:05.842Z",
-      "changedAt": null
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "9fa8a649bb17b5f2",
@@ -4332,17 +4314,17 @@
       "category": "Microsoft Xbox 360",
       "system": "Microsoft Xbox 360",
       "kind": "port",
-      "version": "1.1.0 (TU2)",
-      "updatedAt": "2026-10-23",
-      "dateLabel": "23/10/2026",
+      "version": "released",
+      "updatedAt": "2026-11-06",
+      "dateLabel": "06/11/2026",
       "url": "https://github.com/VasilkovND/dantes-inferno-nx",
       "discussion": "https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10929994",
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-10-22T09:25:20.592Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "e2fa5f6ce074089a",
@@ -4350,9 +4332,9 @@
       "category": "Microsoft Xbox 360",
       "system": "Microsoft Xbox 360",
       "kind": "port",
-      "version": "v104",
-      "updatedAt": "2026-10-31",
-      "dateLabel": "31/10/2026",
+      "version": "v121",
+      "updatedAt": "2026-11-06",
+      "dateLabel": "06/11/2026",
       "url": "https://github.com/XDASCATX/DS2_switch",
       "discussion": null,
       "firmware": "unknown",
@@ -4360,7 +4342,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-11-04T12:09:05.842Z",
-      "changedAt": null
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "42efedcfa3a5ba36",
@@ -4376,7 +4358,7 @@
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": true,
+      "markedRecent": false,
       "firstSeenAt": "2026-11-03T11:56:15.580Z",
       "changedAt": null
     },
@@ -4394,7 +4376,7 @@
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": true,
+      "markedRecent": false,
       "firstSeenAt": "2026-10-22T09:25:20.592Z",
       "changedAt": "2026-11-03T11:56:15.580Z"
     },
@@ -4412,7 +4394,7 @@
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": true,
+      "markedRecent": false,
       "firstSeenAt": "2026-11-03T11:56:15.580Z",
       "changedAt": null
     },
@@ -4430,7 +4412,7 @@
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": true,
+      "markedRecent": false,
       "firstSeenAt": "2026-10-27T09:49:22.748Z",
       "changedAt": "2026-11-02T12:25:35.122Z"
     },
@@ -4448,7 +4430,7 @@
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": true,
+      "markedRecent": false,
       "firstSeenAt": "2026-10-27T09:49:22.748Z",
       "changedAt": "2026-11-02T12:25:35.122Z"
     },
@@ -4458,17 +4440,17 @@
       "category": "Microsoft Xbox 360",
       "system": "Microsoft Xbox 360",
       "kind": "port",
-      "version": "1.0.0",
-      "updatedAt": "2026-10-23",
-      "dateLabel": "23/10/2026",
+      "version": "1.1.0",
+      "updatedAt": "2026-11-07",
+      "dateLabel": "07/11/2026",
       "url": "https://github.com/VasilkovND/gears2-nx",
       "discussion": "https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10934260",
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-10-27T09:49:22.748Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "676200dd0ebc1aee",
@@ -4484,7 +4466,7 @@
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": true,
+      "markedRecent": false,
       "firstSeenAt": "2026-11-03T11:56:15.580Z",
       "changedAt": null
     },
@@ -4494,9 +4476,9 @@
       "category": "Microsoft Xbox 360",
       "system": "Microsoft Xbox 360",
       "kind": "port",
-      "version": "0.77",
-      "updatedAt": "2026-10-29",
-      "dateLabel": "29/10/2026",
+      "version": "0.79",
+      "updatedAt": "2026-11-03",
+      "dateLabel": "03/11/2026",
       "url": "https://github.com/rashevskyv/guardian-heroes-recomp-public",
       "discussion": "https://gbatemp.net/threads/guardian-heroes-xbla-xbox-360-for-switch-static-recompilation-port.685995/",
       "firmware": "unknown",
@@ -4504,7 +4486,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-31T10:23:46.372Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "859d596cec7e16ae",
@@ -4520,7 +4502,7 @@
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": true,
+      "markedRecent": false,
       "firstSeenAt": "2026-10-23T09:21:38.994Z",
       "changedAt": "2026-11-03T11:56:15.580Z"
     },
@@ -4566,7 +4548,7 @@
       "category": "Microsoft Xbox 360",
       "system": "Microsoft Xbox 360",
       "kind": "port",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "updatedAt": "2026-11-04",
       "dateLabel": "04/11/2026",
       "url": "https://github.com/ChanseyIsTheBest/hexic2-nx",
@@ -4576,7 +4558,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-11-04T12:09:05.842Z",
-      "changedAt": null
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "126029bd307c94eb",
@@ -4584,7 +4566,7 @@
       "category": "Microsoft Xbox 360",
       "system": "Microsoft Xbox 360",
       "kind": "port",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "updatedAt": "2026-11-04",
       "dateLabel": "04/11/2026",
       "url": "https://github.com/ChanseyIsTheBest/kameo-nx",
@@ -4594,7 +4576,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-11-05T12:22:06.603Z",
-      "changedAt": null
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "66e9e045c1398e37",
@@ -4610,7 +4592,7 @@
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": true,
+      "markedRecent": false,
       "firstSeenAt": "2026-10-29T10:54:02.946Z",
       "changedAt": "2026-11-02T12:25:35.122Z"
     },
@@ -4620,9 +4602,9 @@
       "category": "Microsoft Xbox 360",
       "system": "Microsoft Xbox 360",
       "kind": "port",
-      "version": "1.0.0",
-      "updatedAt": "2026-10-30",
-      "dateLabel": "30/10/2026",
+      "version": "1.0.1",
+      "updatedAt": "2026-11-04",
+      "dateLabel": "04/11/2026",
       "url": "https://github.com/ChanseyIsTheBest/keflings-nx",
       "discussion": null,
       "firmware": "unknown",
@@ -4630,7 +4612,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-11-03T11:56:15.580Z",
-      "changedAt": null
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "59f881841d5a3a57",
@@ -4693,8 +4675,8 @@
       "system": "Microsoft Xbox 360",
       "kind": "port",
       "version": "pre-release",
-      "updatedAt": "2026-11-04",
-      "dateLabel": "04/11/2026",
+      "updatedAt": "2026-11-06",
+      "dateLabel": "06/11/2026",
       "url": "https://github.com/VibePorter/Lazarus",
       "discussion": null,
       "firmware": "unknown",
@@ -4702,7 +4684,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-11-05T12:22:06.603Z",
-      "changedAt": null
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "bf6ceff930326447",
@@ -4711,8 +4693,8 @@
       "system": "Microsoft Xbox 360",
       "kind": "port",
       "version": "released",
-      "updatedAt": "2026-10-29",
-      "dateLabel": "29/10/2026",
+      "updatedAt": "2026-11-06",
+      "dateLabel": "06/11/2026",
       "url": "https://github.com/VasilkovND/mp3-nx",
       "discussion": null,
       "firmware": "unknown",
@@ -4720,7 +4702,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-30T10:52:16.000Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "f7b05a4401292ffa",
@@ -4746,7 +4728,7 @@
       "category": "Microsoft Xbox 360",
       "system": "Microsoft Xbox 360",
       "kind": "port",
-      "version": "1.0.7",
+      "version": "1.0.8",
       "updatedAt": "2026-11-05",
       "dateLabel": "05/11/2026",
       "url": "https://github.com/infriker/mini-ninjas-nx",
@@ -4756,7 +4738,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-11-05T12:22:06.603Z",
-      "changedAt": null
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "ec893f68737b867e",
@@ -4808,7 +4790,7 @@
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": true,
+      "markedRecent": false,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
       "changedAt": "2026-11-03T11:56:15.580Z"
     },
@@ -4836,9 +4818,9 @@
       "category": "Microsoft Xbox 360",
       "system": "Microsoft Xbox 360",
       "kind": "port",
-      "version": "0.4.0",
-      "updatedAt": "2026-11-08",
-      "dateLabel": "08/11/2026",
+      "version": "0.4.7",
+      "updatedAt": "2026-11-10",
+      "dateLabel": "10/11/2026",
       "url": "https://github.com/Kaays/nfscarbon-nx",
       "discussion": null,
       "firmware": "unknown",
@@ -4846,7 +4828,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-26T10:48:48.590Z",
-      "changedAt": "2026-11-09T12:53:03.366Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "948a88dd940fea07",
@@ -4862,7 +4844,7 @@
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": true,
+      "markedRecent": false,
       "firstSeenAt": "2026-10-30T10:52:16.000Z",
       "changedAt": "2026-11-03T11:56:15.580Z"
     },
@@ -4890,9 +4872,9 @@
       "category": "Microsoft Xbox 360",
       "system": "Microsoft Xbox 360",
       "kind": "port",
-      "version": "1.0.1",
-      "updatedAt": "2026-10-29",
-      "dateLabel": "29/10/2026",
+      "version": "1.0.2",
+      "updatedAt": "2026-11-03",
+      "dateLabel": "03/11/2026",
       "url": "https://github.com/ChanseyIsTheBest/nights-nx",
       "discussion": null,
       "firmware": "unknown",
@@ -4900,7 +4882,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-11-02T12:25:35.122Z",
-      "changedAt": "2026-11-03T11:56:15.580Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "7d51fcae3b9156db",
@@ -4957,14 +4939,32 @@
       "changedAt": "2026-11-02T12:25:35.122Z"
     },
     {
+      "id": "41c7d05a29d68961",
+      "title": "Pure",
+      "category": "Microsoft Xbox 360",
+      "system": "Microsoft Xbox 360",
+      "kind": "port",
+      "version": "0.10",
+      "updatedAt": "2026-11-10",
+      "dateLabel": "10/11/2026",
+      "url": "https://github.com/cznn999/pure-nx",
+      "discussion": "https://gbatemp.net/threads/release-pure-2008-xbox-360-nintendo-switch-native-port.686407/",
+      "firmware": "unknown",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-11-11T11:53:03.397Z",
+      "changedAt": null
+    },
+    {
       "id": "750afe9ebf9fdba3",
       "title": "Ridge Racer 6",
       "category": "Microsoft Xbox 360",
       "system": "Microsoft Xbox 360",
       "kind": "port",
-      "version": "1.0.0",
-      "updatedAt": "2026-11-09",
-      "dateLabel": "09/11/2026",
+      "version": "1.0.1",
+      "updatedAt": "2026-11-10",
+      "dateLabel": "10/11/2026",
       "url": "https://github.com/ChanseyIsTheBest/rr6-nx",
       "discussion": null,
       "firmware": "unknown",
@@ -4972,7 +4972,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-11-10T12:39:49.301Z",
-      "changedAt": null
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "8caac8ff8d44f8f7",
@@ -4998,9 +4998,9 @@
       "category": "Microsoft Xbox 360",
       "system": "Microsoft Xbox 360",
       "kind": "port",
-      "version": "1.0.0",
-      "updatedAt": "2026-10-31",
-      "dateLabel": "31/10/2026",
+      "version": "1.0.1",
+      "updatedAt": "2026-11-04",
+      "dateLabel": "04/11/2026",
       "url": "https://github.com/zhtipu/shank1-nx",
       "discussion": "https://gbatemp.net/threads/shank-1-and-2-switch-ports.686104/",
       "firmware": "unknown",
@@ -5008,7 +5008,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-11-03T11:56:15.580Z",
-      "changedAt": null
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "090f3b3ba160a16d",
@@ -5024,7 +5024,7 @@
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": true,
+      "markedRecent": false,
       "firstSeenAt": "2026-11-03T11:56:15.580Z",
       "changedAt": null
     },
@@ -5060,7 +5060,7 @@
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": true,
+      "markedRecent": false,
       "firstSeenAt": "2026-10-31T10:23:46.372Z",
       "changedAt": "2026-11-02T12:25:35.122Z"
     },
@@ -5078,9 +5078,27 @@
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": true,
+      "markedRecent": false,
       "firstSeenAt": "2026-10-31T10:23:46.372Z",
       "changedAt": "2026-11-02T12:25:35.122Z"
+    },
+    {
+      "id": "5cdbabe6232a2572",
+      "title": "Singularity",
+      "category": "Microsoft Xbox 360",
+      "system": "Microsoft Xbox 360",
+      "kind": "port",
+      "version": "pre-release",
+      "updatedAt": "2026-11-09",
+      "dateLabel": "09/11/2026",
+      "url": "https://github.com/panalexeu/singularity-nx",
+      "discussion": null,
+      "firmware": "unknown",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-11-11T11:53:03.397Z",
+      "changedAt": null
     },
     {
       "id": "6dc702111437cd9d",
@@ -5096,7 +5114,7 @@
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": true,
+      "markedRecent": false,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
       "changedAt": "2026-11-03T11:56:15.580Z"
     },
@@ -5106,9 +5124,9 @@
       "category": "Microsoft Xbox 360",
       "system": "Microsoft Xbox 360",
       "kind": "port",
-      "version": "1.0.4",
-      "updatedAt": "2026-10-28",
-      "dateLabel": "28/10/2026",
+      "version": "1.0.6",
+      "updatedAt": "2026-11-04",
+      "dateLabel": "04/11/2026",
       "url": "https://github.com/ChanseyIsTheBest/sa2-nx",
       "discussion": "https://gbatemp.net/threads/sonic-adventure-2-xbox-360-ver-switch-port.685092/",
       "firmware": "unknown",
@@ -5116,7 +5134,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-03T11:56:15.580Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "191fd10407644c38",
@@ -5222,7 +5240,7 @@
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": true,
+      "markedRecent": false,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
       "changedAt": "2026-11-03T11:56:15.580Z"
     },
@@ -5258,7 +5276,7 @@
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": true,
+      "markedRecent": false,
       "firstSeenAt": "2026-10-29T10:54:02.946Z",
       "changedAt": "2026-11-03T11:56:15.580Z"
     },
@@ -5276,7 +5294,7 @@
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": true,
+      "markedRecent": false,
       "firstSeenAt": "2026-10-29T10:54:02.946Z",
       "changedAt": "2026-11-03T11:56:15.580Z"
     },
@@ -5322,7 +5340,7 @@
       "category": "Nintendo 3DS",
       "system": "Nintendo 3DS",
       "kind": "port",
-      "version": "0.2.1",
+      "version": "0.2.2",
       "updatedAt": "2026-11-09",
       "dateLabel": "09/11/2026",
       "url": "https://github.com/JohnUzoka/TriAevum-Switch",
@@ -5332,7 +5350,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-11-08T11:17:38.971Z",
-      "changedAt": "2026-11-10T12:39:49.301Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "a10451e408e890b3",
@@ -5340,9 +5358,9 @@
       "category": "Nintendo 3DS",
       "system": "Nintendo 3DS",
       "kind": "port",
-      "version": "0.5.0",
-      "updatedAt": "2026-11-09",
-      "dateLabel": "09/11/2026",
+      "version": "0.6.0",
+      "updatedAt": "2026-11-10",
+      "dateLabel": "10/11/2026",
       "url": "https://github.com/FurryLilManChild/MSR-nx",
       "discussion": null,
       "firmware": "unknown",
@@ -5350,7 +5368,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-11-10T12:39:49.301Z",
-      "changedAt": null
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "9ff0ec737a3b53ca",
@@ -5528,7 +5546,7 @@
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": true,
+      "markedRecent": false,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
       "changedAt": "2026-11-03T11:56:15.580Z"
     },
@@ -5636,7 +5654,7 @@
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": true,
+      "markedRecent": false,
       "firstSeenAt": "2026-11-10T12:39:49.301Z",
       "changedAt": null
     },
@@ -5646,17 +5664,17 @@
       "category": "Nintendo 64",
       "system": "Nintendo 64",
       "kind": "port",
-      "version": "1.3",
-      "updatedAt": "2026-10-18",
-      "dateLabel": "18/10/2026",
+      "version": "1.5.0",
+      "updatedAt": "2026-11-04",
+      "dateLabel": "04/11/2026",
       "url": "https://github.com/gabryboy12-ai/StarCraft64-NX",
       "discussion": null,
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "5b5b86c081529463",
@@ -5672,7 +5690,7 @@
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": true,
+      "markedRecent": false,
       "firstSeenAt": "2026-11-06T12:07:07.089Z",
       "changedAt": null
     },
@@ -5690,7 +5708,7 @@
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": true,
+      "markedRecent": false,
       "firstSeenAt": "2026-10-29T10:54:02.946Z",
       "changedAt": "2026-11-02T12:25:35.122Z"
     },
@@ -5790,9 +5808,9 @@
       "category": "Nintendo Gameboy",
       "system": "Nintendo Gameboy",
       "kind": "port",
-      "version": "0.3.99",
-      "updatedAt": "2026-10-31",
-      "dateLabel": "31/10/2026",
+      "version": "0.4.2",
+      "updatedAt": "2026-11-07",
+      "dateLabel": "07/11/2026",
       "url": "https://github.com/bryanthaboi/gen1recomp",
       "discussion": null,
       "firmware": "unknown",
@@ -5800,7 +5818,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-03T11:56:15.580Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "9f30ea36135e18e0",
@@ -5808,9 +5826,9 @@
       "category": "Nintendo Gameboy",
       "system": "Nintendo Gameboy",
       "kind": "port",
-      "version": "0.8.47",
-      "updatedAt": "2026-10-26",
-      "dateLabel": "26/10/2026",
+      "version": "0.8.57",
+      "updatedAt": "2026-11-08",
+      "dateLabel": "08/11/2026",
       "url": "https://github.com/UNDERdecoded/Gen2Recomped",
       "discussion": null,
       "firmware": "unknown",
@@ -5818,7 +5836,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-03T11:56:15.580Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "821719a270dff898",
@@ -5870,7 +5888,7 @@
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": true,
+      "markedRecent": false,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
       "changedAt": "2026-11-03T11:56:15.580Z"
     },
@@ -5881,8 +5899,8 @@
       "system": "Nintendo Gameboy Advance",
       "kind": "port",
       "version": "v2",
-      "updatedAt": "2026-10-30",
-      "dateLabel": "30/10/2026",
+      "updatedAt": "2026-11-08",
+      "dateLabel": "08/11/2026",
       "url": "https://github.com/mamesj/pokemon-fulldex/releases/tag/all-games-v2",
       "discussion": null,
       "firmware": "unknown",
@@ -5890,7 +5908,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-11-03T11:56:15.580Z",
-      "changedAt": null
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "0e7a5faae96cbb64",
@@ -5978,7 +5996,7 @@
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": true,
+      "markedRecent": false,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
       "changedAt": "2026-11-02T12:25:35.122Z"
     },
@@ -5996,7 +6014,7 @@
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": true,
+      "markedRecent": false,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
       "changedAt": "2026-11-03T11:56:15.580Z"
     },
@@ -6042,7 +6060,7 @@
       "category": "Nintendo GameCube",
       "system": "Nintendo GameCube",
       "kind": "port",
-      "version": "1.1.2",
+      "version": "1.1.3",
       "updatedAt": "2026-11-09",
       "dateLabel": "09/11/2026",
       "url": "https://github.com/Alexgg1014/The-Legend-of-Zelda-Twilight-Princess-Alek-s-Ultimate-NX-Edition",
@@ -6052,7 +6070,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-10T12:39:49.301Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "dee3bada8f248057",
@@ -6068,7 +6086,7 @@
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": true,
+      "markedRecent": false,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
       "changedAt": "2026-11-03T11:56:15.580Z"
     },
@@ -6086,7 +6104,7 @@
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": true,
+      "markedRecent": false,
       "firstSeenAt": "2026-11-03T11:56:15.580Z",
       "changedAt": null
     },
@@ -6096,9 +6114,9 @@
       "category": "Nintendo GameCube",
       "system": "Nintendo GameCube",
       "kind": "port",
-      "version": "1.9.0",
-      "updatedAt": "2026-11-06",
-      "dateLabel": "06/11/2026",
+      "version": "1.9.1",
+      "updatedAt": "2026-11-07",
+      "dateLabel": "07/11/2026",
       "url": "https://github.com/digdat0/mkdd-nx",
       "discussion": "https://gbatemp.net/threads/mario-kart-double-dash-nx-switch-port.685843/",
       "firmware": "unknown",
@@ -6106,7 +6124,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-26T10:48:48.590Z",
-      "changedAt": "2026-11-08T11:17:38.971Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "c59953a2c936fb3c",
@@ -6132,9 +6150,9 @@
       "category": "Nintendo GameCube",
       "system": "Nintendo GameCube",
       "kind": "port",
-      "version": "0.3.4",
-      "updatedAt": "2026-10-29",
-      "dateLabel": "29/10/2026",
+      "version": "0.7.4",
+      "updatedAt": "2026-11-10",
+      "dateLabel": "10/11/2026",
       "url": "https://github.com/teclilla18/sonic-riders-recomp",
       "discussion": "https://gbatemp.net/threads/release-wip-sonic-riders-native-port-switch-pc-static-recompilation-needs-testers.685760/",
       "firmware": "unknown",
@@ -6142,7 +6160,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-29T10:54:02.946Z",
-      "changedAt": "2026-11-03T11:56:15.580Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "dbf5f631d1f9d454",
@@ -6150,9 +6168,9 @@
       "category": "Nintendo GameCube",
       "system": "Nintendo GameCube",
       "kind": "port",
-      "version": "1.9.8 test build",
-      "updatedAt": "2026-10-29",
-      "dateLabel": "29/10/2026",
+      "version": "2.0.0",
+      "updatedAt": "2026-11-09",
+      "dateLabel": "09/11/2026",
       "url": "https://github.com/new-coke/strikers",
       "discussion": "https://gbatemp.net/threads/strikers-a-native-port-of-super-mario-strikers-is-testing-a-switch-port.684553/",
       "firmware": "unknown",
@@ -6160,7 +6178,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-03T11:56:15.580Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "bda6a597e1687742",
@@ -6356,7 +6374,7 @@
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": true,
+      "markedRecent": false,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
       "changedAt": "2026-11-03T11:56:15.580Z"
     },
@@ -6402,9 +6420,9 @@
       "category": "Nintendo Wii",
       "system": "Nintendo Wii",
       "kind": "port",
-      "version": "0.1.0-beta",
-      "updatedAt": "2026-10-29",
-      "dateLabel": "29/10/2026",
+      "version": "0.4.0-beta",
+      "updatedAt": "2026-11-08",
+      "dateLabel": "08/11/2026",
       "url": "https://github.com/KawaiiBunga/KartPadNX",
       "discussion": null,
       "firmware": "unknown",
@@ -6412,7 +6430,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-11-03T11:56:15.580Z",
-      "changedAt": null
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "aaaba2931b1eb37d",
@@ -6420,9 +6438,9 @@
       "category": "Nintendo Wii U",
       "system": "Nintendo Wii U",
       "kind": "port",
-      "version": "1.0.0",
-      "updatedAt": "2026-10-28",
-      "dateLabel": "28/10/2026",
+      "version": "1.2.2",
+      "updatedAt": "2026-11-07",
+      "dateLabel": "07/11/2026",
       "url": "https://github.com/centollOS/SwitchWakerHD",
       "discussion": "https://gbatemp.net/threads/zelda-the-wind-waker-switch-port.685126/",
       "firmware": "unknown",
@@ -6430,7 +6448,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "9fd2f1c099a04e61",
@@ -6456,9 +6474,9 @@
       "category": "PC",
       "system": "PC",
       "kind": "port",
-      "version": "0.6.5 prerelease",
-      "updatedAt": "2026-11-02",
-      "dateLabel": "02/11/2026",
+      "version": "0.7.0 prerelease",
+      "updatedAt": "2026-11-07",
+      "dateLabel": "07/11/2026",
       "url": "https://github.com/Zaydme/openaok",
       "discussion": "https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10935642",
       "firmware": "unknown",
@@ -6466,7 +6484,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-28T10:35:25.917Z",
-      "changedAt": "2026-11-03T11:56:15.580Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "2c4a2d9ac4811fb2",
@@ -6500,7 +6518,7 @@
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": true,
+      "markedRecent": false,
       "firstSeenAt": "2026-10-31T10:23:46.372Z",
       "changedAt": "2026-11-03T11:56:15.580Z"
     },
@@ -6518,7 +6536,7 @@
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": true,
+      "markedRecent": false,
       "firstSeenAt": "2026-10-29T10:54:02.946Z",
       "changedAt": "2026-11-03T11:56:15.580Z"
     },
@@ -6536,7 +6554,7 @@
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": true,
+      "markedRecent": false,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
       "changedAt": "2026-11-03T11:56:15.580Z"
     },
@@ -6547,8 +6565,8 @@
       "system": "PC",
       "kind": "port",
       "version": "0.3.3",
-      "updatedAt": "2026-11-09",
-      "dateLabel": "09/11/2026",
+      "updatedAt": "2026-11-08",
+      "dateLabel": "08/11/2026",
       "url": "https://github.com/HDErick/BO2-Requiem-NX",
       "discussion": null,
       "firmware": "unknown",
@@ -6556,7 +6574,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-26T10:48:48.590Z",
-      "changedAt": "2026-11-10T12:39:49.301Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "63f3d5d7abbc2ce7",
@@ -6572,7 +6590,7 @@
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": true,
+      "markedRecent": false,
       "firstSeenAt": "2026-10-29T10:54:02.946Z",
       "changedAt": "2026-11-03T11:56:15.580Z"
     },
@@ -6590,7 +6608,7 @@
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": true,
+      "markedRecent": false,
       "firstSeenAt": "2026-11-09T12:53:03.366Z",
       "changedAt": null
     },
@@ -6644,7 +6662,7 @@
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": true,
+      "markedRecent": false,
       "firstSeenAt": "2026-10-31T10:23:46.372Z",
       "changedAt": "2026-11-02T12:25:35.122Z"
     },
@@ -6775,24 +6793,6 @@
       "changedAt": "2026-11-02T12:25:35.122Z"
     },
     {
-      "id": "eb3c94f62bf9b333",
-      "title": "♻️ Dune II",
-      "category": "PC",
-      "system": "PC",
-      "kind": "port",
-      "version": "0.98.4",
-      "updatedAt": "2025-11-09",
-      "dateLabel": "09/11/2025",
-      "url": "https://github.com/carstene1ns/dunelegacy/tree/switch-port",
-      "discussion": "https://gbatemp.net/threads/dune-legacy-dune-ii-remake.676917/",
-      "firmware": "unknown",
-      "firmwareUrl": null,
-      "status": "listed",
-      "markedRecent": false,
-      "firstSeenAt": "2026-11-03T11:56:15.580Z",
-      "changedAt": null
-    },
-    {
       "id": "8da0e42b6d93d244",
       "title": "Elder Scrolls III Morrowind",
       "category": "PC",
@@ -6878,7 +6878,7 @@
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": true,
+      "markedRecent": false,
       "firstSeenAt": "2026-10-27T09:49:22.748Z",
       "changedAt": "2026-11-03T11:56:15.580Z"
     },
@@ -6906,9 +6906,9 @@
       "category": "PC",
       "system": "PC",
       "kind": "port",
-      "version": "4230",
-      "updatedAt": "2026-10-30",
-      "dateLabel": "30/10/2026",
+      "version": "4237",
+      "updatedAt": "2026-11-05",
+      "dateLabel": "05/11/2026",
       "url": "https://github.com/FWGS/xash3d-fwgs/",
       "discussion": "https://gbatemp.net/threads/xash3d-half-life-custom-goldsrc-engine-for-switch.522848/",
       "firmware": "unknown",
@@ -6916,7 +6916,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-03T11:56:15.580Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "58ca906a75b3e1cb",
@@ -6924,17 +6924,17 @@
       "category": "PC",
       "system": "PC",
       "kind": "port",
-      "version": "1.1.17",
-      "updatedAt": "2026-06-30",
-      "dateLabel": "30/06/2026",
+      "version": "1.1.18",
+      "updatedAt": "2026-11-08",
+      "dateLabel": "08/11/2026",
       "url": "https://github.com/ihhub/fheroes2/",
       "discussion": null,
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "43ad2712b2c96d52",
@@ -7140,17 +7140,17 @@
       "category": "PC",
       "system": "PC",
       "kind": "port",
-      "version": "0.83 R3",
-      "updatedAt": "2026-06-29",
-      "dateLabel": "29/06/2026",
+      "version": "0.83.0.4",
+      "updatedAt": "2026-11-03",
+      "dateLabel": "03/11/2026",
       "url": "https://github.com/NaGaa95/openmohaa_nx/",
       "discussion": null,
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "84527311d6b619cf",
@@ -7166,7 +7166,7 @@
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": true,
+      "markedRecent": false,
       "firstSeenAt": "2026-11-03T11:56:15.580Z",
       "changedAt": null
     },
@@ -7213,8 +7213,8 @@
       "system": "PC",
       "kind": "port",
       "version": "2.0.0",
-      "updatedAt": "2026-10-31",
-      "dateLabel": "31/10/2026",
+      "updatedAt": "2026-11-08",
+      "dateLabel": "08/11/2026",
       "url": "https://github.com/nzp-team/nzportable/",
       "discussion": "https://gbatemp.net/threads/nzportable-nazi-zombies-made-with-quake-engine.624375/",
       "firmware": "unknown",
@@ -7222,7 +7222,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-03T11:56:15.580Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "336002bf710c55a8",
@@ -7238,7 +7238,7 @@
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": true,
+      "markedRecent": false,
       "firstSeenAt": "2026-11-08T11:17:38.971Z",
       "changedAt": null
     },
@@ -7302,9 +7302,9 @@
       "category": "PC",
       "system": "PC",
       "kind": "port",
-      "version": "1.1.8",
-      "updatedAt": "2026-11-01",
-      "dateLabel": "01/11/2026",
+      "version": "1.1.9",
+      "updatedAt": "2026-11-09",
+      "dateLabel": "09/11/2026",
       "url": "https://github.com/Petit-Prince-dev/PokeMMO-NX",
       "discussion": "https://gbatemp.net/threads/pokemmo-is-now-running-natively-on-the-nintendo-switch.685027/",
       "firmware": "unknown",
@@ -7312,25 +7312,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-03T11:56:15.580Z"
-    },
-    {
-      "id": "fa1f5a99e381da59",
-      "title": "Prey",
-      "category": "PC",
-      "system": "PC",
-      "kind": "port",
-      "version": "0.1.0",
-      "updatedAt": "2026-09-30",
-      "dateLabel": "30/09/2026",
-      "url": "https://github.com/hazevauks/openPREYswitch",
-      "discussion": null,
-      "firmware": "unknown",
-      "firmwareUrl": null,
-      "status": "listed",
-      "markedRecent": false,
-      "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "9c081e5cd6a6b74e",
@@ -7346,7 +7328,7 @@
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": true,
+      "markedRecent": false,
       "firstSeenAt": "2026-10-22T09:25:20.592Z",
       "changedAt": "2026-11-03T11:56:15.580Z"
     },
@@ -7446,17 +7428,17 @@
       "category": "PC",
       "system": "PC",
       "kind": "port",
-      "version": "1.02",
-      "updatedAt": "2026-10-21",
-      "dateLabel": "21/10/2026",
+      "version": "1.03",
+      "updatedAt": "2026-11-09",
+      "dateLabel": "09/11/2026",
       "url": "https://github.com/cutarev/sh2-nx",
       "discussion": "https://gbatemp.net/threads/ultimate-switch-port-thread.683071/post-10921957",
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "bf336dd85daf23f9",
@@ -7526,7 +7508,7 @@
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": true,
+      "markedRecent": false,
       "firstSeenAt": "2026-10-29T10:54:02.946Z",
       "changedAt": "2026-11-02T12:25:35.122Z"
     },
@@ -7536,17 +7518,17 @@
       "category": "PC",
       "system": "PC",
       "kind": "port",
-      "version": "0.5.0",
-      "updatedAt": "2026-10-21",
-      "dateLabel": "21/10/2026",
+      "version": "0.5.0-v2",
+      "updatedAt": "2026-11-03",
+      "dateLabel": "03/11/2026",
       "url": "https://github.com/NaGaa95/ProjectCane",
       "discussion": "https://gbatemp.net/threads/sly-cooper-projectcane-switch-port.685266/",
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": false,
+      "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "5173cc550d89ed20",
@@ -7645,8 +7627,8 @@
       "system": "PC",
       "kind": "port",
       "version": "released",
-      "updatedAt": "2026-11-01",
-      "dateLabel": "01/11/2026",
+      "updatedAt": "2026-11-05",
+      "dateLabel": "05/11/2026",
       "url": "https://github.com/JohnUzoka/terrabuilder-nx",
       "discussion": null,
       "firmware": "unknown",
@@ -7654,7 +7636,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-03T11:56:15.580Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "6f6de46f1810ee44",
@@ -7778,7 +7760,7 @@
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": true,
+      "markedRecent": false,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
       "changedAt": "2026-11-02T12:25:35.122Z"
     },
@@ -8059,8 +8041,8 @@
       "system": "Sony Playstation",
       "kind": "port",
       "version": "0.4.4-nx.7",
-      "updatedAt": "2026-11-07",
-      "dateLabel": "07/11/2026",
+      "updatedAt": "2026-11-06",
+      "dateLabel": "06/11/2026",
       "url": "https://github.com/amydevs/lainNX",
       "discussion": "https://gbatemp.net/threads/release-lain-ps1-switch-port-port-of-laintsx-for-nintendo-switch-using-nx-js.682875/",
       "firmware": "unknown",
@@ -8068,7 +8050,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-09T12:53:03.366Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
     },
     {
       "id": "2b6635788dbef286",
@@ -8138,7 +8120,7 @@
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": true,
+      "markedRecent": false,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
       "changedAt": "2026-11-03T11:56:15.580Z"
     },
@@ -8156,7 +8138,7 @@
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
-      "markedRecent": true,
+      "markedRecent": false,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
       "changedAt": "2026-11-03T11:56:15.580Z"
     },
@@ -8166,9 +8148,9 @@
       "category": "Sony Playstation 2",
       "system": "Sony Playstation 2",
       "kind": "port",
-      "version": "1.2.1",
-      "updatedAt": "2026-10-28",
-      "dateLabel": "28/10/2026",
+      "version": "1.2.6",
+      "updatedAt": "2026-11-08",
+      "dateLabel": "08/11/2026",
       "url": "https://github.com/jjmhalew/RampageRE",
       "discussion": "https://gbatemp.net/threads/rampage-total-destruction-port-with-optional-content-from-wii.685951/",
       "firmware": "unknown",
@@ -8176,7 +8158,25 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-29T10:54:02.946Z",
-      "changedAt": "2026-11-02T12:25:35.122Z"
+      "changedAt": "2026-11-11T11:53:03.397Z"
+    },
+    {
+      "id": "c598dee33eead7cc",
+      "title": "Sly Cooper",
+      "category": "Sony Playstation 2",
+      "system": "Sony Playstation 2",
+      "kind": "port",
+      "version": "0.1.44",
+      "updatedAt": "2026-11-10",
+      "dateLabel": "10/11/2026",
+      "url": "https://github.com/FridiNaTor1/SafeHouse",
+      "discussion": null,
+      "firmware": "unknown",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-11-11T11:53:03.397Z",
+      "changedAt": null
     },
     {
       "id": "d427ad6c2a02d14f",
@@ -8216,6 +8216,727 @@
     }
   ],
   "changes": [
+    {
+      "id": "981b0614129b1b84",
+      "title": "Flycast",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "commit 72b8e67"
+    },
+    {
+      "id": "f9a6815fc76f16b7",
+      "title": "Supermodel-NX",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.5.1"
+    },
+    {
+      "id": "6445a6f5d031bebf",
+      "title": "DrasticDS",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.2.1"
+    },
+    {
+      "id": "62ab333142af1048",
+      "title": "Dolphin",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.2.1"
+    },
+    {
+      "id": "9796f2c6993a9965",
+      "title": "Nezumiiruka",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.1.1"
+    },
+    {
+      "id": "671dd3f70b2acebc",
+      "title": "NetherSX2",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.4.1"
+    },
+    {
+      "id": "14a868b72412c4a3",
+      "title": "PPSSPP-NX",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.1.0"
+    },
+    {
+      "id": "e4a4b8023fc33ce4",
+      "title": "Vita3K",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.4.1"
+    },
+    {
+      "id": "8992eb0a3eb33ab9",
+      "title": "Cemu",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.3.1"
+    },
+    {
+      "id": "bd30aaf6c09afd15",
+      "title": "Need for Speed: Most Wanted",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "0.3.2"
+    },
+    {
+      "id": "0742c4eabcf58ad1",
+      "title": "Adventures of Mana",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.0.4"
+    },
+    {
+      "id": "50148385b87732f1",
+      "title": "After Burner Climax",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.0.1"
+    },
+    {
+      "id": "1bf98fec6be23074",
+      "title": "Angry Birds 2",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.0.3"
+    },
+    {
+      "id": "2380bbe1a71d8953",
+      "title": "Angry Birds Journey",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.0.1"
+    },
+    {
+      "id": "15b9025528f79293",
+      "title": "Animal Crossing: Pocket Camp",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.0.2"
+    },
+    {
+      "id": "7f06612d4068ceb7",
+      "title": "Castle of Illusion",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.0.2"
+    },
+    {
+      "id": "da3b8b3ef784c936",
+      "title": "Castlevania Symphony of the Night",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.0.3"
+    },
+    {
+      "id": "96c805bbff92d25e",
+      "title": "Chaos Rings III",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.0.2"
+    },
+    {
+      "id": "cca6094d6252d11e",
+      "title": "Chrono Trigger",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.1.2"
+    },
+    {
+      "id": "9770a945ca17e93f",
+      "title": "Counter Strike Source",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.0.2"
+    },
+    {
+      "id": "2e659a49c239be25",
+      "title": "Cut the Rope",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.0.3"
+    },
+    {
+      "id": "a9277eff06ac818e",
+      "title": "Cut the Rope 2",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.0.2"
+    },
+    {
+      "id": "3573c4b16d7768a0",
+      "title": "Final Fantasy Dimensions",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.0.1"
+    },
+    {
+      "id": "07aee6451bab92be",
+      "title": "Final Fantasy Dimension II",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.0.2"
+    },
+    {
+      "id": "34688b2b7ab123e7",
+      "title": "Final Fantasy III 3D Remake",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.0.1"
+    },
+    {
+      "id": "33356f8cb1fcafd7",
+      "title": "Final Fantasy IV 3D Remake",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.0.4"
+    },
+    {
+      "id": "36f31f2678037a92",
+      "title": "Final Fantasy IV The After Years",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.0.2"
+    },
+    {
+      "id": "c0a2bb93a58618e0",
+      "title": "Geometry Dash",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.0.4"
+    },
+    {
+      "id": "f4192bc62fc34431",
+      "title": "Grand Theft Auto Chinatown Wars",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.0.2"
+    },
+    {
+      "id": "8e715720b87f08a0",
+      "title": "Grand Theft Auto Liberty City Stories",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.0.4"
+    },
+    {
+      "id": "8e7ea10e84c964f5",
+      "title": "Grand Theft Auto San Andreas",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.0.5"
+    },
+    {
+      "id": "08d03b5b1cc15140",
+      "title": "Half Life 2",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.0.5"
+    },
+    {
+      "id": "4a2ae7974319938d",
+      "title": "Jetpack Joyride",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.0.2"
+    },
+    {
+      "id": "a66b1e03f7776382",
+      "title": "Kingdom Hearts Union χ Dark Road",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.0.2"
+    },
+    {
+      "id": "5a0d9028be6ab764",
+      "title": "Layton Brothers Mystery Room",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.0.3"
+    },
+    {
+      "id": "69966e49bf91abe8",
+      "title": "LEGO Batman Beyond Gotham",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.0.1"
+    },
+    {
+      "id": "e1d141b063356ca0",
+      "title": "LEGO Ninjago Shadow of Ronin",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.0.2"
+    },
+    {
+      "id": "fe57c0521c83c4ae",
+      "title": "LEGO Star Wars The Complete Saga",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.0.4"
+    },
+    {
+      "id": "d13bb15599a83122",
+      "title": "LEGO Star Wars The Force Awakens",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.0.2"
+    },
+    {
+      "id": "4e1e24b4964cb2d0",
+      "title": "Max Payne",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.0.2"
+    },
+    {
+      "id": "098b73bfbd51963e",
+      "title": "Professor Layton Curious Village HD",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.0.5"
+    },
+    {
+      "id": "a21026856b18a654",
+      "title": "Professor Layton Lost Hope HD",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.0.4"
+    },
+    {
+      "id": "b55cdaddf6890a9c",
+      "title": "Professor Layton Pandora's Box HD",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.0.3"
+    },
+    {
+      "id": "b377ee5efbae11dc",
+      "title": "Real Drift Car Racing",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.5.3"
+    },
+    {
+      "id": "0b12495e51f8d608",
+      "title": "Subway Surfers",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.0.4"
+    },
+    {
+      "id": "62a6c7195e0f27c8",
+      "title": "Swordigo",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.0.2"
+    },
+    {
+      "id": "48a2c850f6f6d6ee",
+      "title": "Team Fortress 2 ReClassic",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.0.2"
+    },
+    {
+      "id": "3994d257b0be21eb",
+      "title": "Very Little Nightmares",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.0.3"
+    },
+    {
+      "id": "2cc7fb4bff8302f3",
+      "title": "Outrunners",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.2.2"
+    },
+    {
+      "id": "14de0694d3fd7876",
+      "title": "Teenage Mutant Ninja Turtles",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.0.6"
+    },
+    {
+      "id": "3f4df7432c1c159c",
+      "title": "Conker: Live & Reloaded",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "0.57.0"
+    },
+    {
+      "id": "836000a829d16efe",
+      "title": "Dead or Alive 2 Ultimate",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "released"
+    },
+    {
+      "id": "f71ffd37aae5ca45",
+      "title": "The Godfather",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.0.1"
+    },
+    {
+      "id": "5083952a54cf9356",
+      "title": "Halo: Combat Evolved",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "Build 141"
+    },
+    {
+      "id": "ad758dd7170fc5ce",
+      "title": "Midnight Club 3: Dub Edition",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.1.0"
+    },
+    {
+      "id": "148afe9bc604c4db",
+      "title": "Mortal Kombat: Shaolin Monks",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "0.4.1"
+    },
+    {
+      "id": "845f319974f4d416",
+      "title": "Bangai-O HD: Missile Fury",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.0.1"
+    },
+    {
+      "id": "da2225a1c9ebd887",
+      "title": "Banjo-Kazooie: Nuts & Bolts",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.0.2"
+    },
+    {
+      "id": "45d7b9e8c1031a65",
+      "title": "Beautiful Katamari",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.0.1"
+    },
+    {
+      "id": "65bfb00dbc4c1862",
+      "title": "Call of Duty: Black Ops II",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.1.0"
+    },
+    {
+      "id": "a530ec3c7119a26c",
+      "title": "Castlevania: Harmony of Despair",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "0.311"
+    },
+    {
+      "id": "c6713143af6e2289",
+      "title": "Dante's Inferno",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "released"
+    },
+    {
+      "id": "e2fa5f6ce074089a",
+      "title": "Dark Souls II: Scholar of the First Sin",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "v121"
+    },
+    {
+      "id": "8715efd02791bfcc",
+      "title": "Gears of War 2",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.1.0"
+    },
+    {
+      "id": "7aed869f6dd83336",
+      "title": "Guardian Heroes",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "0.79"
+    },
+    {
+      "id": "61314cd5216f24b9",
+      "title": "Hexic 2",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.0.1"
+    },
+    {
+      "id": "126029bd307c94eb",
+      "title": "Kameo: Elements of Power",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.0.1"
+    },
+    {
+      "id": "f5becbf2689cb84d",
+      "title": "A Kingdom for Keflings",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.0.1"
+    },
+    {
+      "id": "2f7c8b43f90774bf",
+      "title": "Mass Effect 2",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "pre-release"
+    },
+    {
+      "id": "bf6ceff930326447",
+      "title": "Max Payne 3",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "released"
+    },
+    {
+      "id": "ffa012c3c5951a5b",
+      "title": "Mini Ninjas",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.0.8"
+    },
+    {
+      "id": "f32cce366dc77a0b",
+      "title": "Need for Speed: Carbon",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "0.4.7"
+    },
+    {
+      "id": "0ecd9010107cdb48",
+      "title": "Nights into Dreams",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.0.2"
+    },
+    {
+      "id": "41c7d05a29d68961",
+      "title": "Pure",
+      "kind": "added",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "0.10"
+    },
+    {
+      "id": "750afe9ebf9fdba3",
+      "title": "Ridge Racer 6",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.0.1"
+    },
+    {
+      "id": "985b4ab77fa84a19",
+      "title": "Shank",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.0.1"
+    },
+    {
+      "id": "5cdbabe6232a2572",
+      "title": "Singularity",
+      "kind": "added",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "pre-release"
+    },
+    {
+      "id": "71d919da6b20a3b0",
+      "title": "Sonic Adventure 2",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.0.6"
+    },
+    {
+      "id": "5e5ad909a6431e3f",
+      "title": "The Legend of Zelda: Ocarina of Time 3D",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "0.2.2"
+    },
+    {
+      "id": "a10451e408e890b3",
+      "title": "Metroid: Samus Returns",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "0.6.0"
+    },
+    {
+      "id": "2ef05a4bf6c31612",
+      "title": "StarCraft64",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.5.0"
+    },
+    {
+      "id": "452fd609cc4b9295",
+      "title": "Pokemon Gen 1",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "0.4.2"
+    },
+    {
+      "id": "9f30ea36135e18e0",
+      "title": "Pokemon Gen 2",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "0.8.57"
+    },
+    {
+      "id": "24105f8278ea34aa",
+      "title": "Pokemon: FullDex",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "v2"
+    },
+    {
+      "id": "38ecf720608d96ab",
+      "title": "The Legend of Zelda: Twilight Princess",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.1.3"
+    },
+    {
+      "id": "ff1c08609b909b7b",
+      "title": "Mario Kart: Double Dash!",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.9.1"
+    },
+    {
+      "id": "aed7bf5bb9b479ed",
+      "title": "Sonic Riders",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "0.7.4"
+    },
+    {
+      "id": "dbf5f631d1f9d454",
+      "title": "Super Mario Strikers",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "2.0.0"
+    },
+    {
+      "id": "a12c65d9791140e8",
+      "title": "Mario Kart Wii",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "0.4.0-beta"
+    },
+    {
+      "id": "aaaba2931b1eb37d",
+      "title": "The Legend of Zelda: Wind Waker HD",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.2.2"
+    },
+    {
+      "id": "d8c9c3b212e97403",
+      "title": "Age of Empires II: The Age of Kings",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "0.7.0 prerelease"
+    },
+    {
+      "id": "2ef490f837e395e5",
+      "title": "Call of Duty - Black Ops II",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "0.3.3"
+    },
+    {
+      "id": "12d807c3387c055f",
+      "title": "Half Life",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "4237"
+    },
+    {
+      "id": "58ca906a75b3e1cb",
+      "title": "Heroes of Might & Magic II",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.1.18"
+    },
+    {
+      "id": "8fa4b90c17674b5e",
+      "title": "Medal of Honor: Allied Assault",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "0.83.0.4"
+    },
+    {
+      "id": "f779963591d73f67",
+      "title": "Nazi Zombies: Portable",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "2.0.0"
+    },
+    {
+      "id": "2e295b7b4314b10c",
+      "title": "PokeMMO",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.1.9"
+    },
+    {
+      "id": "97e93887fdcae8ee",
+      "title": "Silent Hill 2",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.03"
+    },
+    {
+      "id": "5e90f6ff234cc4c0",
+      "title": "Sly Cooper and the Thievius Raccoonus",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "0.5.0-v2"
+    },
+    {
+      "id": "727806cb08507c3f",
+      "title": "Terraria (+ Mod Loader)",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "released"
+    },
+    {
+      "id": "48f3cbdcb215fc6b",
+      "title": "Lain",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "0.4.4-nx.7"
+    },
+    {
+      "id": "d3a672a573d0d7a0",
+      "title": "Rampage: Total Destruction",
+      "kind": "updated",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "1.2.6"
+    },
+    {
+      "id": "c598dee33eead7cc",
+      "title": "Sly Cooper",
+      "kind": "added",
+      "at": "2026-11-11T11:53:03.397Z",
+      "version": "0.1.44"
+    },
     {
       "id": "78ea0096b02c2df1",
       "title": "YabaSanshiro",
@@ -8894,727 +9615,6 @@
       "kind": "added",
       "at": "2026-11-03T11:56:15.580Z",
       "version": "v35"
-    },
-    {
-      "id": "859d596cec7e16ae",
-      "title": "Guwange",
-      "kind": "updated",
-      "at": "2026-11-03T11:56:15.580Z",
-      "version": "1.0.1"
-    },
-    {
-      "id": "f5becbf2689cb84d",
-      "title": "A Kingdom for Keflings",
-      "kind": "added",
-      "at": "2026-11-03T11:56:15.580Z",
-      "version": "1.0.0"
-    },
-    {
-      "id": "014c09950fd9ed80",
-      "title": "Mortal Kombat Komplete Edition",
-      "kind": "updated",
-      "at": "2026-11-03T11:56:15.580Z",
-      "version": "1.0.2"
-    },
-    {
-      "id": "8cb51d70e1e874d9",
-      "title": "Mushihimesama Futari",
-      "kind": "updated",
-      "at": "2026-11-03T11:56:15.580Z",
-      "version": "1.0.4"
-    },
-    {
-      "id": "948a88dd940fea07",
-      "title": "Need for Speed: Carbon",
-      "kind": "updated",
-      "at": "2026-11-03T11:56:15.580Z",
-      "version": "1.1.0"
-    },
-    {
-      "id": "0ecd9010107cdb48",
-      "title": "Nights into Dreams",
-      "kind": "updated",
-      "at": "2026-11-03T11:56:15.580Z",
-      "version": "1.0.1"
-    },
-    {
-      "id": "985b4ab77fa84a19",
-      "title": "Shank",
-      "kind": "added",
-      "at": "2026-11-03T11:56:15.580Z",
-      "version": "1.0.0"
-    },
-    {
-      "id": "090f3b3ba160a16d",
-      "title": "Shank 2",
-      "kind": "added",
-      "at": "2026-11-03T11:56:15.580Z",
-      "version": "1.0.0"
-    },
-    {
-      "id": "6dc702111437cd9d",
-      "title": "Skate 3",
-      "kind": "updated",
-      "at": "2026-11-03T11:56:15.580Z",
-      "version": "0.1.5"
-    },
-    {
-      "id": "71d919da6b20a3b0",
-      "title": "Sonic Adventure 2",
-      "kind": "updated",
-      "at": "2026-11-03T11:56:15.580Z",
-      "version": "1.0.4"
-    },
-    {
-      "id": "14243d7c69b8bf23",
-      "title": "Torchlight",
-      "kind": "updated",
-      "at": "2026-11-03T11:56:15.580Z",
-      "version": "1.0.4"
-    },
-    {
-      "id": "5fb9a8d8f34c2453",
-      "title": "Torchlight",
-      "kind": "updated",
-      "at": "2026-11-03T11:56:15.580Z",
-      "version": "1.1.0"
-    },
-    {
-      "id": "83658013b37eff22",
-      "title": "Zuma",
-      "kind": "updated",
-      "at": "2026-11-03T11:56:15.580Z",
-      "version": "1.0.1"
-    },
-    {
-      "id": "e8a22f4799825d8a",
-      "title": "Zuma's Revenge",
-      "kind": "updated",
-      "at": "2026-11-03T11:56:15.580Z",
-      "version": "1.0.1"
-    },
-    {
-      "id": "625f28ec70305bfd",
-      "title": "The Legened of Zelda: Ocarina of Time",
-      "kind": "updated",
-      "at": "2026-11-03T11:56:15.580Z",
-      "version": "9.3.1-nx2"
-    },
-    {
-      "id": "452fd609cc4b9295",
-      "title": "Pokemon Gen 1",
-      "kind": "updated",
-      "at": "2026-11-03T11:56:15.580Z",
-      "version": "0.3.99"
-    },
-    {
-      "id": "9f30ea36135e18e0",
-      "title": "Pokemon Gen 2",
-      "kind": "updated",
-      "at": "2026-11-03T11:56:15.580Z",
-      "version": "0.8.47"
-    },
-    {
-      "id": "dae16e10ad310c24",
-      "title": "Metroid: Zero Mission",
-      "kind": "updated",
-      "at": "2026-11-03T11:56:15.580Z",
-      "version": "1.3"
-    },
-    {
-      "id": "24105f8278ea34aa",
-      "title": "Pokemon: FullDex",
-      "kind": "added",
-      "at": "2026-11-03T11:56:15.580Z",
-      "version": "v2"
-    },
-    {
-      "id": "2d5146b1b81051b9",
-      "title": "Animal Crossing",
-      "kind": "updated",
-      "at": "2026-11-03T11:56:15.580Z",
-      "version": "1.0.1"
-    },
-    {
-      "id": "38ecf720608d96ab",
-      "title": "The Legend of Zelda: Twilight Princess",
-      "kind": "updated",
-      "at": "2026-11-03T11:56:15.580Z",
-      "version": "1.0.3"
-    },
-    {
-      "id": "dee3bada8f248057",
-      "title": "The Legend of Zelda: Wind Waker",
-      "kind": "updated",
-      "at": "2026-11-03T11:56:15.580Z",
-      "version": "1.0.2"
-    },
-    {
-      "id": "c7fc47bcd8551c98",
-      "title": "Luigi's Mansion",
-      "kind": "added",
-      "at": "2026-11-03T11:56:15.580Z",
-      "version": "1.0.1"
-    },
-    {
-      "id": "ff1c08609b909b7b",
-      "title": "Mario Kart: Double Dash!",
-      "kind": "updated",
-      "at": "2026-11-03T11:56:15.580Z",
-      "version": "1.8.2"
-    },
-    {
-      "id": "aed7bf5bb9b479ed",
-      "title": "Sonic Riders",
-      "kind": "updated",
-      "at": "2026-11-03T11:56:15.580Z",
-      "version": "0.3.4"
-    },
-    {
-      "id": "dbf5f631d1f9d454",
-      "title": "Super Mario Strikers",
-      "kind": "updated",
-      "at": "2026-11-03T11:56:15.580Z",
-      "version": "1.9.8 test build"
-    },
-    {
-      "id": "8e9c0fcd1420dae5",
-      "title": "Starfox",
-      "kind": "updated",
-      "at": "2026-11-03T11:56:15.580Z",
-      "version": "0.0.8.8.3"
-    },
-    {
-      "id": "a12c65d9791140e8",
-      "title": "Mario Kart Wii",
-      "kind": "added",
-      "at": "2026-11-03T11:56:15.580Z",
-      "version": "0.1.0-beta"
-    },
-    {
-      "id": "04c272bccd06a07c",
-      "title": "Sonic Adventure",
-      "kind": "added",
-      "at": "2026-11-03T11:56:15.580Z",
-      "version": "0.5.0"
-    },
-    {
-      "id": "d8c9c3b212e97403",
-      "title": "Age of Empires II: The Age of Kings",
-      "kind": "updated",
-      "at": "2026-11-03T11:56:15.580Z",
-      "version": "0.6.5 prerelease"
-    },
-    {
-      "id": "6c10741406615694",
-      "title": "Atomic Bomberman",
-      "kind": "updated",
-      "at": "2026-11-03T11:56:15.580Z",
-      "version": "1.0.8"
-    },
-    {
-      "id": "cc08d8858b269a5c",
-      "title": "The Binding of Isaac: Repentance+",
-      "kind": "updated",
-      "at": "2026-11-03T11:56:15.580Z",
-      "version": "unreleased"
-    },
-    {
-      "id": "65dc8a8e8d3d504f",
-      "title": "Black & White",
-      "kind": "updated",
-      "at": "2026-11-03T11:56:15.580Z",
-      "version": "0.4.0"
-    },
-    {
-      "id": "2ef490f837e395e5",
-      "title": "Call of Duty - Black Ops II",
-      "kind": "updated",
-      "at": "2026-11-03T11:56:15.580Z",
-      "version": "beta 2.5"
-    },
-    {
-      "id": "63f3d5d7abbc2ce7",
-      "title": "Call of Duty / United Offensive",
-      "kind": "updated",
-      "at": "2026-11-03T11:56:15.580Z",
-      "version": "0.4.0 / 0.3.0"
-    },
-    {
-      "id": "0a8108262de28fea",
-      "title": "🚫 Commander Keen",
-      "kind": "added",
-      "at": "2026-11-03T11:56:15.580Z",
-      "version": "3.6.0"
-    },
-    {
-      "id": "eb3c94f62bf9b333",
-      "title": "♻️ Dune II",
-      "kind": "added",
-      "at": "2026-11-03T11:56:15.580Z",
-      "version": "0.98.4"
-    },
-    {
-      "id": "f94c8b0872320f92",
-      "title": "Fallout: New Vegas",
-      "kind": "updated",
-      "at": "2026-11-03T11:56:15.580Z",
-      "version": "unreleased"
-    },
-    {
-      "id": "12d807c3387c055f",
-      "title": "Half Life",
-      "kind": "updated",
-      "at": "2026-11-03T11:56:15.580Z",
-      "version": "4230"
-    },
-    {
-      "id": "84527311d6b619cf",
-      "title": "Mega Man W",
-      "kind": "added",
-      "at": "2026-11-03T11:56:15.580Z",
-      "version": "0.1.0"
-    },
-    {
-      "id": "f779963591d73f67",
-      "title": "Nazi Zombies: Portable",
-      "kind": "updated",
-      "at": "2026-11-03T11:56:15.580Z",
-      "version": "2.0.0"
-    },
-    {
-      "id": "2e295b7b4314b10c",
-      "title": "PokeMMO",
-      "kind": "updated",
-      "at": "2026-11-03T11:56:15.580Z",
-      "version": "1.1.8"
-    },
-    {
-      "id": "9c081e5cd6a6b74e",
-      "title": "Project Zomboid",
-      "kind": "updated",
-      "at": "2026-11-03T11:56:15.580Z",
-      "version": "0.5"
-    },
-    {
-      "id": "727806cb08507c3f",
-      "title": "Terraria (+ Mod Loader)",
-      "kind": "updated",
-      "at": "2026-11-03T11:56:15.580Z",
-      "version": "released"
-    },
-    {
-      "id": "73ff1a5e0d50b2ee",
-      "title": "Dragonball Z: Tenkaichi Budokai 3",
-      "kind": "updated",
-      "at": "2026-11-03T11:56:15.580Z",
-      "version": "1.7.2"
-    },
-    {
-      "id": "6b543054b5d17fc7",
-      "title": "Jak and Daxter Trilogy",
-      "kind": "updated",
-      "at": "2026-11-03T11:56:15.580Z",
-      "version": "1.0"
-    },
-    {
-      "id": "d427ad6c2a02d14f",
-      "title": "P.T. (Silent Hills)",
-      "kind": "added",
-      "at": "2026-11-03T11:56:15.580Z",
-      "version": "1.0.0"
-    },
-    {
-      "id": "419a250403c1c1cc",
-      "title": "Dekopon",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "2.2.2"
-    },
-    {
-      "id": "9d1485b3ad8896ef",
-      "title": "Raika Azahar",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "2.5.0"
-    },
-    {
-      "id": "981b0614129b1b84",
-      "title": "Flycast",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "???"
-    },
-    {
-      "id": "6cbe8af56b75f583",
-      "title": "FreeJ2ME",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "Proto"
-    },
-    {
-      "id": "9ca4701caddf70f3",
-      "title": "Yokoi",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.4"
-    },
-    {
-      "id": "40086b5f993d2a61",
-      "title": "Kirikiroid2-NX",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.1"
-    },
-    {
-      "id": "72eedd2c85cfe44f",
-      "title": "Model2 NX",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0"
-    },
-    {
-      "id": "f9a6815fc76f16b7",
-      "title": "Supermodel-NX",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.4.0"
-    },
-    {
-      "id": "08983920d670d273",
-      "title": "Tico",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "0.8.0"
-    },
-    {
-      "id": "e144f3ef11e36b75",
-      "title": "RetroArch",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "nightly"
-    },
-    {
-      "id": "6445a6f5d031bebf",
-      "title": "DrasticDS",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.2.0"
-    },
-    {
-      "id": "62ab333142af1048",
-      "title": "Dolphin",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.2.0"
-    },
-    {
-      "id": "9796f2c6993a9965",
-      "title": "Nezumiiruka",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.0"
-    },
-    {
-      "id": "ab17ff801c9f88ed",
-      "title": "Duckstation",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "PR 2"
-    },
-    {
-      "id": "9d59c8adb61a71d8",
-      "title": "Duckstation",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "3.0"
-    },
-    {
-      "id": "671dd3f70b2acebc",
-      "title": "NetherSX2",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.4.0"
-    },
-    {
-      "id": "56dcef7e2d26026f",
-      "title": "ARMSX2",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "3.0.0"
-    },
-    {
-      "id": "6cf5af83e498ccb1",
-      "title": "PPSSPP",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "0.7.0"
-    },
-    {
-      "id": "14a868b72412c4a3",
-      "title": "PPSSPP-NX",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.0"
-    },
-    {
-      "id": "72f3ab9453e39500",
-      "title": "System22-nx",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "0.1 beta"
-    },
-    {
-      "id": "78ea0096b02c2df1",
-      "title": "YabaSanshiro",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.2.0"
-    },
-    {
-      "id": "e4a4b8023fc33ce4",
-      "title": "Vita3K",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.3.1"
-    },
-    {
-      "id": "17633e069bd278d0",
-      "title": "D.Smile NX",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.2.0"
-    },
-    {
-      "id": "8992eb0a3eb33ab9",
-      "title": "Cemu",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.3.0"
-    },
-    {
-      "id": "d7834b51893842b5",
-      "title": "Autorun",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "test-build-4"
-    },
-    {
-      "id": "7e8fc9d7c791e249",
-      "title": "Amazing Spider-Man 2",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.0"
-    },
-    {
-      "id": "e2fc9af6d947b40c",
-      "title": "Angry Birds Forever",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.0"
-    },
-    {
-      "id": "aaf1d31415f81aea",
-      "title": "Angry Birds Space HD",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.2"
-    },
-    {
-      "id": "05fe5bf5f4ef608d",
-      "title": "Angry Birds: Star Wars 2",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.2"
-    },
-    {
-      "id": "21648a0da410b92a",
-      "title": "Asphalt 8: Airborne Retry",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.3"
-    },
-    {
-      "id": "cea1f50b150df250",
-      "title": "Assassin's Creed: Altair's Chronicles HD",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "0.1.1"
-    },
-    {
-      "id": "90cb8c2e701b0a36",
-      "title": "Call of Duty - Black Ops: Zombies",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.0"
-    },
-    {
-      "id": "f29c5707ccb0b501",
-      "title": "Costume Quest",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "0.1.0"
-    },
-    {
-      "id": "be645d761445ad5b",
-      "title": "Dan The Man",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "0.2.0"
-    },
-    {
-      "id": "cd2816e49723353f",
-      "title": "Dark Knight Rises",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.1.0"
-    },
-    {
-      "id": "555ac4563f5eb59f",
-      "title": "Dead Space: Sabotage",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "0.1.5"
-    },
-    {
-      "id": "083498481d1df81b",
-      "title": "Ducktales: Remastered",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.3.0"
-    },
-    {
-      "id": "7525363819bd7d5f",
-      "title": "Disney Crossy Road",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.2"
-    },
-    {
-      "id": "db0e4fe552977b01",
-      "title": "Flappy Birds Family",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.2"
-    },
-    {
-      "id": "4119c65f13664378",
-      "title": "Jet Set Radio",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.1.0"
-    },
-    {
-      "id": "32fa55b54734a432",
-      "title": "Labyrinth 2",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.2"
-    },
-    {
-      "id": "be71fea4a09b44a1",
-      "title": "Modern Combat 3: Fallen Nation",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.1"
-    },
-    {
-      "id": "2c392bc3c66403f3",
-      "title": "Modern Combat 4: Zero Hour",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.1"
-    },
-    {
-      "id": "bd30aaf6c09afd15",
-      "title": "Need for Speed: Most Wanted",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "0.3.0"
-    },
-    {
-      "id": "c06c14bb1a666aa9",
-      "title": "N.O.V.A. 3: Near Orbit Vanguard Alliance",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.1"
-    },
-    {
-      "id": "b1e33ee6e7703207",
-      "title": "Plants vs. Zombies Touch",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.2"
-    },
-    {
-      "id": "5457a8a735846021",
-      "title": "Rayman: Jungle Run",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "0.1.1"
-    },
-    {
-      "id": "da7b3de44aeff32f",
-      "title": "Rayman: Fiesta Run",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "0.1.0"
-    },
-    {
-      "id": "eba902ce4046a1bb",
-      "title": "Smash Hit",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "0.1.3"
-    },
-    {
-      "id": "a2817b2a38465a67",
-      "title": "Space Hulk",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "0.1.4"
-    },
-    {
-      "id": "b6b488e0afc9b153",
-      "title": "Steven Universe: Attack the Light",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "0.1.0"
-    },
-    {
-      "id": "1a84e746c9b5aa30",
-      "title": "Sonic & Sega All Stars Racing",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.3"
-    },
-    {
-      "id": "f372fde14e402c4c",
-      "title": "Ultimate Spider-man: Total Mayhem",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.0"
-    },
-    {
-      "id": "0742c4eabcf58ad1",
-      "title": "Adventures of Mana",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.3"
-    },
-    {
-      "id": "50148385b87732f1",
-      "title": "After Burner Climax",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.2"
-    },
-    {
-      "id": "03d7c0a25c45ac99",
-      "title": "Angry Birds Classic",
-      "kind": "updated",
-      "at": "2026-11-02T12:25:35.122Z",
-      "version": "1.0.2"
     }
   ]
 }
