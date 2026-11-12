@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "source": "https://github.com/robzilla10001/SwitchPorts",
-  "sourceHash": "22f8c9661a8d33f2e65dc814c7f56f841ff5a6ede5bd1880dd25e36045bdc908",
-  "checkedAt": "2026-11-11T11:53:03.397Z",
-  "sourceChangedAt": "2026-11-11T11:53:03.397Z",
+  "sourceHash": "40cae82f99d48e0ec071fe539ee38e6713de03481ab4c7876961ae24beb70fab",
+  "checkedAt": "2026-11-12T12:43:39.649Z",
+  "sourceChangedAt": "2026-11-12T12:43:39.649Z",
   "schedule": "07:17 Europe/Minsk",
   "entries": [
     {
@@ -390,9 +390,9 @@
       "category": "Emulators",
       "system": "Saturn",
       "kind": "emulator",
-      "version": "1.3.0",
-      "updatedAt": "2026-11-08",
-      "dateLabel": "08/11/2026",
+      "version": "1.3.1",
+      "updatedAt": "2026-11-11",
+      "dateLabel": "11/11/2026",
       "url": "https://github.com/Thorhax/yabasanshiro-nx",
       "discussion": "https://gbatemp.net/threads/yabasanshiro-nx-sega-saturn-emulator.686378/unread",
       "firmware": "unknown",
@@ -400,7 +400,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-21T08:36:47.210Z",
-      "changedAt": "2026-11-10T12:39:49.301Z"
+      "changedAt": "2026-11-12T12:43:39.649Z"
     },
     {
       "id": "e4a4b8023fc33ce4",
@@ -4021,6 +4021,24 @@
       "changedAt": "2026-11-02T12:25:35.122Z"
     },
     {
+      "id": "d42d17b935e0f6e8",
+      "title": "Splinter Cell: Chaos Theory",
+      "category": "Microsoft Xbox",
+      "system": "Microsoft Xbox",
+      "kind": "port",
+      "version": "0.3.0",
+      "updatedAt": "2026-11-11",
+      "dateLabel": "11/11/2026",
+      "url": "https://github.com/itouchdennis/scct-nx",
+      "discussion": null,
+      "firmware": "unknown",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-11-12T12:43:39.649Z",
+      "changedAt": null
+    },
+    {
       "id": "b208fd608f67cdbd",
       "title": "Splinter Cell: Double Agent",
       "category": "Microsoft Xbox",
@@ -4399,6 +4417,24 @@
       "changedAt": null
     },
     {
+      "id": "b8fa02cf52b30f3e",
+      "title": "Dishonored",
+      "category": "Microsoft Xbox 360",
+      "system": "Microsoft Xbox 360",
+      "kind": "port",
+      "version": "0.20",
+      "updatedAt": "2026-11-11",
+      "dateLabel": "11/11/2026",
+      "url": "https://github.com/cznn999/dishonored-nx",
+      "discussion": "https://gbatemp.net/threads/release-dishonored-2012-xbox-360-nintendo-switch-native-port.686432/",
+      "firmware": "unknown",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-11-12T12:43:39.649Z",
+      "changedAt": null
+    },
+    {
       "id": "ee097c8f44942592",
       "title": "Feeding Frenzy",
       "category": "Microsoft Xbox 360",
@@ -4633,6 +4669,24 @@
       "changedAt": null
     },
     {
+      "id": "8a9c2d355aa18f43",
+      "title": "LEGO Batman: The Videogame",
+      "category": "Microsoft Xbox 360",
+      "system": "Microsoft Xbox 360",
+      "kind": "port",
+      "version": "0.1.1",
+      "updatedAt": "2026-11-11",
+      "dateLabel": "11/11/2026",
+      "url": "https://github.com/surblazer/legobatman-recomp",
+      "discussion": null,
+      "firmware": "unknown",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "firstSeenAt": "2026-11-12T12:43:39.649Z",
+      "changedAt": null
+    },
+    {
       "id": "2f5c75f7cea7f8e2",
       "title": "Lost Odyssey",
       "category": "Microsoft Xbox 360",
@@ -4818,9 +4872,9 @@
       "category": "Microsoft Xbox 360",
       "system": "Microsoft Xbox 360",
       "kind": "port",
-      "version": "0.4.7",
-      "updatedAt": "2026-11-10",
-      "dateLabel": "10/11/2026",
+      "version": "0.5.0",
+      "updatedAt": "2026-11-12",
+      "dateLabel": "12/11/2026",
       "url": "https://github.com/Kaays/nfscarbon-nx",
       "discussion": null,
       "firmware": "unknown",
@@ -4828,7 +4882,7 @@
       "status": "listed",
       "markedRecent": true,
       "firstSeenAt": "2026-10-26T10:48:48.590Z",
-      "changedAt": "2026-11-11T11:53:03.397Z"
+      "changedAt": "2026-11-12T12:43:39.649Z"
     },
     {
       "id": "948a88dd940fea07",
@@ -8008,7 +8062,7 @@
       "updatedAt": "2026-11-05",
       "dateLabel": "05/11/2026",
       "url": "https://github.com/simplePsyduck/MickeyAndDonaldCollection-NX",
-      "discussion": null,
+      "discussion": "https://gbatemp.net/threads/mickey-donald-collection-castle-of-illusion-quackshot-world-of-illusion.686415/",
       "firmware": "unknown",
       "firmwareUrl": null,
       "status": "listed",
@@ -8216,6 +8270,41 @@
     }
   ],
   "changes": [
+    {
+      "id": "78ea0096b02c2df1",
+      "title": "YabaSanshiro",
+      "kind": "updated",
+      "at": "2026-11-12T12:43:39.649Z",
+      "version": "1.3.1"
+    },
+    {
+      "id": "d42d17b935e0f6e8",
+      "title": "Splinter Cell: Chaos Theory",
+      "kind": "added",
+      "at": "2026-11-12T12:43:39.649Z",
+      "version": "0.3.0"
+    },
+    {
+      "id": "b8fa02cf52b30f3e",
+      "title": "Dishonored",
+      "kind": "added",
+      "at": "2026-11-12T12:43:39.649Z",
+      "version": "0.20"
+    },
+    {
+      "id": "8a9c2d355aa18f43",
+      "title": "LEGO Batman: The Videogame",
+      "kind": "added",
+      "at": "2026-11-12T12:43:39.649Z",
+      "version": "0.1.1"
+    },
+    {
+      "id": "f32cce366dc77a0b",
+      "title": "Need for Speed: Carbon",
+      "kind": "updated",
+      "at": "2026-11-12T12:43:39.649Z",
+      "version": "0.5.0"
+    },
     {
       "id": "981b0614129b1b84",
       "title": "Flycast",
@@ -9580,41 +9669,6 @@
       "kind": "updated",
       "at": "2026-11-03T11:56:15.580Z",
       "version": "switch-test 1"
-    },
-    {
-      "id": "126801ba73468cb4",
-      "title": "Condemned: Criminal Origins",
-      "kind": "added",
-      "at": "2026-11-03T11:56:15.580Z",
-      "version": "0.2.0"
-    },
-    {
-      "id": "42efedcfa3a5ba36",
-      "title": "Dead Space 1",
-      "kind": "added",
-      "at": "2026-11-03T11:56:15.580Z",
-      "version": "1.0.0 (TU2)"
-    },
-    {
-      "id": "204170abf8be0acc",
-      "title": "Dead Space 2",
-      "kind": "updated",
-      "at": "2026-11-03T11:56:15.580Z",
-      "version": "1.3.0 (TU2)"
-    },
-    {
-      "id": "46c89bba21375cbf",
-      "title": "Dead Space 3",
-      "kind": "added",
-      "at": "2026-11-03T11:56:15.580Z",
-      "version": "1.0.1 (TU2)"
-    },
-    {
-      "id": "676200dd0ebc1aee",
-      "title": "Grand Theft Auto IV",
-      "kind": "added",
-      "at": "2026-11-03T11:56:15.580Z",
-      "version": "v35"
     }
   ]
 }
