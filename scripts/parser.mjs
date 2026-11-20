@@ -4,6 +4,15 @@ export const SOURCE = 'https://github.com/robzilla10001/SwitchPorts';
 export const RAW_SOURCE = 'https://raw.githubusercontent.com/robzilla10001/SwitchPorts/main/README.md';
 const clean = text => text.replace(/<[^>]*>/g, '').replace(/[*`]/g, '').replace(/\[([^\]]+)\]\([^)]+\)/g, '$1').replace(/[🟢🟠🔴]/gu, '').replace(/\s+/g, ' ').trim();
 const link = text => text.match(/\[[^\]]*\]\((https?:\/\/[^\s)]+)\)/)?.[1] || null;
+const readinessByIcon = new Map([
+  ['⬛', 'does-not-boot'],
+  ['🟥', 'title-screen'],
+  ['🟧', 'unplayable'],
+  ['🟨', 'playable'],
+  ['🟩', 'completable'],
+  ['✳', 'feature-complete']
+]);
+const readiness = text => readinessByIcon.get(clean(text).replace(/\uFE0F/g, '')) ?? null;
 const date = text => {
   const m = clean(text).match(/^(\d{2})\/(\d{2})\/(\d{4})$/);
   if (!m) return null;
@@ -25,13 +34,19 @@ export function parseReadme(markdown) {
     if (!headers.length) continue;
     const discussionColumn = headers.indexOf('GBATemp Thread?');
     const firmwareColumn = headers.indexOf('Updated for FW 21+?');
-    // Some upstream rows omit the empty discussion cell before the firmware value.
-    // Only repair that recognizable layout; other column mismatches still fail.
+    const statusColumn = headers.indexOf('Status?');
     if (cells.length === headers.length - 1 && discussionColumn === headers.length - 2 &&
-        firmwareColumn === headers.length - 1 && link(cells[headers.indexOf('Link')] || '') &&
-        /^(?:\d{2}\/\d{2}\/\d{4}|nightly|\?{3}|n\/a)$/i.test(clean(cells[headers.indexOf('Last Updated?')] || '')) &&
-        /^(?:yes|no|\?{3})$/i.test(clean(cells[discussionColumn]))) {
-      cells.splice(discussionColumn, 0, '');
+        link(cells[headers.indexOf('Link')] || '')) {
+      const lastCell = cells[discussionColumn];
+      if (firmwareColumn === headers.length - 1 &&
+          /^(?:\d{2}\/\d{2}\/\d{4}|nightly|\?{3}|n\/a)$/i.test(clean(cells[headers.indexOf('Last Updated?')] || '')) &&
+          /^(?:yes|no|\?{3})$/i.test(clean(lastCell))) {
+        cells.splice(discussionColumn, 0, '');
+      } else if (statusColumn === headers.length - 1) {
+        if (readiness(lastCell)) cells.splice(discussionColumn, 0, '');
+        // Markdown permits an omitted empty final cell.
+        else if (!lastCell || link(lastCell)) cells.push('');
+      }
     }
     if (cells.length !== headers.length) throw new Error(`Unexpected columns in ${category}: ${line}`);
     const get = name => cells[headers.indexOf(name)] || '';
@@ -45,7 +60,9 @@ export function parseReadme(markdown) {
     const status = rawTitle.includes('🟠') ? 'archived' : rawTitle.includes('🔴') ? 'inactive' : 'listed';
     const fw = get('Updated for FW 21+?');
     const id = createHash('sha256').update(`${category}|${title}|${url}`).digest('hex').slice(0, 16);
-    entries.push({ id, title, category, system, kind: category === 'Emulators' ? 'emulator' : 'port', version: clean(get('Version')), updatedAt: date(get('Last Updated?')), dateLabel: clean(get('Last Updated?')), url, discussion: link(get('GBATemp Thread?')), firmware: /\byes\b/i.test(clean(fw)) ? 'yes' : /\bno\b/i.test(clean(fw)) ? 'no' : 'unknown', firmwareUrl: link(fw), status, markedRecent: rawTitle.includes('🟢') });
+    const entry = { id, title, category, system, kind: category === 'Emulators' ? 'emulator' : 'port', version: clean(get('Version')), updatedAt: date(get('Last Updated?')), dateLabel: clean(get('Last Updated?')), url, discussion: link(get('GBATemp Thread?')), firmware: /\byes\b/i.test(clean(fw)) ? 'yes' : /\bno\b/i.test(clean(fw)) ? 'no' : 'unknown', firmwareUrl: link(fw), status, markedRecent: rawTitle.includes('🟢') };
+    if (statusColumn >= 0) entry.readiness = readiness(cells[statusColumn]);
+    entries.push(entry);
   }
   const unique = [...new Map(entries.map(e => [e.id, e])).values()];
   if (unique.length !== entries.length) throw new Error('Duplicate project rows in source');

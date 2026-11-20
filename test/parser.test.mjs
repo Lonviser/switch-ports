@@ -2,6 +2,7 @@ import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { parseReadme } from '../scripts/parser.mjs';
 const header = '| Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |\n| --- | --- | --- | --- | --- | --- |';
+const statusHeader = header.replace('Updated for FW 21+?', 'Status?');
 test('preserves alternate ports, dates, source statuses and firmware links', () => {
   const rows = parseReadme(`### PC\n${header}\n| 🟠 Game A | *1.2* | 20/10/2026 | [dev](https://github.com/a/b/tree/switch) | | [Yes](https://github.com/a/fw) |\n| | 2.0 | ??? | [fork](https://github.com/c/d) | | No |\n| 🔴 Old | n/a | 31/02/2026 | [web](https://example.com) | | ??? |`);
   assert.equal(rows.length, 3); assert.equal(rows[0].status, 'archived'); assert.equal(rows[0].updatedAt, '2026-10-20'); assert.equal(rows[0].firmwareUrl, 'https://github.com/a/fw');
@@ -50,4 +51,26 @@ test('still rejects ambiguous short rows, missing required cells and extra colum
   ]) {
     assert.throws(() => parseReadme(`### PC\n${header}\n${row}`), /columns/);
   }
+});
+
+test('imports rows with an empty trailing readiness cell and no closing pipe', () => {
+  const row = '| 🟢 Midnight Club Los Angeles | 0.3.0-c177 | 12/11/2026 | [Wivi2013/mcla-nx](https://github.com/Wivi2013/mcla-nx) |  |  ';
+  const [entry] = parseReadme(`### Microsoft Xbox 360\n${statusHeader}\n${row}`);
+  assert.deepEqual([entry], parseReadme(`### Microsoft Xbox 360\n${statusHeader}\n${row}|`));
+  assert.equal(entry.title, 'Midnight Club Los Angeles');
+  assert.equal(entry.updatedAt, '2026-11-12');
+  assert.equal(entry.discussion, null);
+  assert.equal(entry.readiness, null);
+  assert.equal(entry.firmware, 'unknown');
+});
+
+test('imports the six readiness levels separately from archive and firmware status', () => {
+  const icons = ['⬛️', '🟥', '🟧', '🟨', '🟩', '✳️'];
+  const rows = icons.map((icon, i) => `| 🟠 Game ${i} | 1.0 | ??? | [dev](https://example.com/${i}) | [Thread](https://example.com/thread) | ${icon} |`);
+  const short = '| Another game | 1.0 | ??? | [dev](https://example.com/game) | 🟨 |';
+  const entries = parseReadme(`### PC\n${statusHeader}\n${[...rows, short].join('\n')}`);
+  assert.deepEqual(entries.map(e => e.readiness), ['does-not-boot', 'title-screen', 'unplayable', 'playable', 'completable', 'feature-complete', 'playable']);
+  assert.ok(entries.slice(0, 6).every(e => e.status === 'archived' && e.firmware === 'unknown' && e.discussion === 'https://example.com/thread'));
+  assert.equal(entries.at(-1).discussion, null);
+  assert.throws(() => parseReadme(`### PC\n${statusHeader}\n| Game | 1 | ??? | none | 🟨 |`), /columns/);
 });

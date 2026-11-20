@@ -24,6 +24,14 @@ const formatDate = value => value ? new Intl.DateTimeFormat('ru-RU', { day:'nume
 const author = entry => { const u = new URL(entry.url); return u.hostname === 'github.com' || u.hostname === 'gitlab.com' ? u.pathname.split('/')[1] : u.hostname; };
 const platform = entry => entry.kind === 'emulator' ? entry.system : labels[entry.category] || entry.category;
 const firmwareLabel = entry => ({ yes:'Подтверждена источником', no:'В источнике: нет', unknown:'Нет данных' }[entry.firmware]);
+const readinessLabels = {
+  'does-not-boot': 'Не запускается',
+  'title-screen': 'Доходит до главного экрана',
+  unplayable: 'Запускается, играть невозможно',
+  playable: 'Можно играть',
+  completable: 'Можно пройти',
+  'feature-complete': 'Все основные функции готовы'
+};
 const statusInfo = entry => entry.status === 'archived' ? ['archived','Архивный проект'] : entry.status === 'inactive' ? ['inactive','Нет активности¹'] : isRecent(entry) ? ['recent','Обновлён недавно'] : ['listed','В каталоге'];
 function art(entry) {
   const image = enrichment.images[entry.id] || enrichment.images[imageKey(entry.title)];
@@ -77,7 +85,10 @@ function showDialog(content) { trigger = document.activeElement; $('#dialog-cont
 function showDetails(id) {
   const e = catalog.entries.find(e => e.id === id); if (!e) return;
   const [status,label] = statusInfo(e);
-  showDialog(`<div class="dialog-cover">${art(e)}</div><div class="dialog-category">${escape(platform(e))} → NINTENDO SWITCH</div><h2 id="dialog-title" class="dialog-title">${escape(e.title)}</h2><p class="dialog-description">${e.kind === 'emulator' ? 'Эмулятор' : 'Порт игры'} от ${escape(author(e))}. Данные и версия приведены по каталогу SwitchPorts. Инструкции по установке и доступные сборки — на странице автора.</p><dl class="detail-grid"><div><dt>ВЕРСИЯ В КАТАЛОГЕ</dt><dd>${escape(e.version || 'Не указана')}</dd></div><div><dt>ДАТА ИЗ ИСТОЧНИКА</dt><dd>${e.updatedAt ? formatDate(e.updatedAt) : escape(e.dateLabel || 'Не указана')}</dd></div><div><dt>СОВМЕСТИМОСТЬ С FW 21+</dt><dd>${firmwareLabel(e)}</dd></div><div><dt>СТАТУС</dt><dd class="status ${status}">${label}</dd></div></dl><div class="dialog-actions">${external(e.url,'Страница проекта','primary-button')}${e.discussion ? external(e.discussion,'Обсуждение') : ''}${e.firmwareUrl ? external(e.firmwareUrl,'Сборка FW 21+') : ''}</div><p class="dialog-note">Для запуска может потребоваться консоль с поддержкой homebrew и файлы вашей копии игры. Наличие в каталоге не гарантирует совместимость с вашей системой. ${e.status === 'inactive' ? '¹ Источник помечает этот проект как неактивный; статус перенесён без независимой проверки.' : ''} Проверено по источнику: ${formatDate(catalog.checkedAt)}.</p>`);
+  const compatibility = Object.hasOwn(e, 'readiness')
+    ? `<div><dt>ГОТОВНОСТЬ ПО ДАННЫМ ИСТОЧНИКА</dt><dd>${readinessLabels[e.readiness] ?? 'Нет данных'}</dd></div>`
+    : `<div><dt>СОВМЕСТИМОСТЬ С FW 21+</dt><dd>${firmwareLabel(e)}</dd></div>`;
+  showDialog(`<div class="dialog-cover">${art(e)}</div><div class="dialog-category">${escape(platform(e))} → NINTENDO SWITCH</div><h2 id="dialog-title" class="dialog-title">${escape(e.title)}</h2><p class="dialog-description">${e.kind === 'emulator' ? 'Эмулятор' : 'Порт игры'} от ${escape(author(e))}. Данные и версия приведены по каталогу SwitchPorts. Инструкции по установке и доступные сборки — на странице автора.</p><dl class="detail-grid"><div><dt>ВЕРСИЯ В КАТАЛОГЕ</dt><dd>${escape(e.version || 'Не указана')}</dd></div><div><dt>ДАТА ИЗ ИСТОЧНИКА</dt><dd>${e.updatedAt ? formatDate(e.updatedAt) : escape(e.dateLabel || 'Не указана')}</dd></div>${compatibility}<div><dt>СТАТУС</dt><dd class="status ${status}">${label}</dd></div></dl><div class="dialog-actions">${external(e.url,'Страница проекта','primary-button')}${e.discussion ? external(e.discussion,'Обсуждение') : ''}${e.firmwareUrl ? external(e.firmwareUrl,'Сборка FW 21+') : ''}</div><p class="dialog-note">Для запуска может потребоваться консоль с поддержкой homebrew и файлы вашей копии игры. Наличие в каталоге не гарантирует совместимость с вашей системой. ${e.status === 'inactive' ? '¹ Источник помечает этот проект как неактивный; статус перенесён без независимой проверки.' : ''} Проверено по источнику: ${formatDate(catalog.checkedAt)}.</p>`);
   const image=enrichment.images[e.id] || enrichment.images[imageKey(e.title)];
   if(image) $('#dialog-content .dialog-cover').insertAdjacentHTML('afterend',`<p class="dialog-image-credit">Изображение: ${external(image.sourceUrl,escape(image.source),'')}</p>`);
   $('#dialog-content .detail-grid').insertAdjacentHTML('beforeend',`<div><dt>ПОПУЛЯРНОСТЬ НА GITHUB</dt><dd>★ ${e.stars===null ? 'Нет данных' : e.stars.toLocaleString('ru-RU')+' звёзд'}</dd></div>`);
@@ -85,7 +96,7 @@ function showDetails(id) {
 function showInfo() {
   if (!catalog) return;
   const checked = new Intl.DateTimeFormat('ru-RU',{dateStyle:'long',timeStyle:'short',timeZone:'Europe/Minsk'}).format(new Date(catalog.checkedAt));
-  showDialog(`<div class="dialog-category">ОТКРЫТАЯ БИБЛИОТЕКА HOMEBREW</div><h2 id="dialog-title" class="dialog-title">Как работает каталог</h2><p class="dialog-description">Каждое утро, около <b>07:17 по Минску</b>, GitHub Actions забирает актуальный список robzilla10001/SwitchPorts, проверяет данные и публикует новую версию сайта. Запуск может задержаться на стороне GitHub.</p><p class="dialog-description">Последняя успешная проверка: <b>${checked} (Минск)</b>. В каталоге ${catalog.entries.length} проектов. При ошибке обновления сохраняется предыдущая опубликованная версия.</p><p class="dialog-description">Версии, даты, статус архива и совместимость с FW 21+ взяты из источника. «Обновлён недавно» означает дату за последние 7 дней. Дата синхронизации сайта и дата обновления игры — разные значения. Перед установкой проверьте страницу автора: в ней может быть более свежая сборка.</p><p class="dialog-description">Порты одного названия от разных авторов отображаются отдельно. Избранное сохраняется только в вашем браузере. Обложки иллюстрируют оригинальные игры, внешний вид порта может отличаться.</p><div class="dialog-actions">${external(catalog.source,'Открыть источник','primary-button')}${external('https://github.com/Lonviser/switch-ports/actions','Проверить обновления')}</div><p class="dialog-note">Независимый проект сообщества, не связанный с Nintendo. Мы ссылаемся на страницы разработчиков; необходимые игровые файлы приобретаются отдельно.</p>`);
+  showDialog(`<div class="dialog-category">ОТКРЫТАЯ БИБЛИОТЕКА HOMEBREW</div><h2 id="dialog-title" class="dialog-title">Как работает каталог</h2><p class="dialog-description">Каждое утро, около <b>07:17 по Минску</b>, GitHub Actions забирает актуальный список robzilla10001/SwitchPorts, проверяет данные и публикует новую версию сайта. Запуск может задержаться на стороне GitHub.</p><p class="dialog-description">Последняя успешная проверка: <b>${checked} (Минск)</b>. В каталоге ${catalog.entries.length} проектов. При ошибке обновления сохраняется предыдущая опубликованная версия.</p><p class="dialog-description">Версии, даты, статус архива и сведения о готовности взяты из источника. «Обновлён недавно» означает дату за последние 7 дней. Дата синхронизации сайта и дата обновления игры — разные значения. Перед установкой проверьте страницу автора: в ней может быть более свежая сборка.</p><p class="dialog-description">Порты одного названия от разных авторов отображаются отдельно. Избранное сохраняется только в вашем браузере. Обложки иллюстрируют оригинальные игры, внешний вид порта может отличаться.</p><div class="dialog-actions">${external(catalog.source,'Открыть источник','primary-button')}${external('https://github.com/Lonviser/switch-ports/actions','Проверить обновления')}</div><p class="dialog-note">Независимый проект сообщества, не связанный с Nintendo. Мы ссылаемся на страницы разработчиков; необходимые игровые файлы приобретаются отдельно.</p>`);
   $('#dialog-content .dialog-note').insertAdjacentHTML('beforebegin','<p class="dialog-description">По умолчанию проекты отсортированы по числу звёзд их репозиториев на GitHub. Эти данные обновляются ежедневно. Для проектов без доступной статистики показывается «—»; они располагаются после проектов с известным числом звёзд. Обложки и иконки получены со страниц разработчиков, из Wikipedia и Steam.</p>');
 }
 document.addEventListener('click', event => {
@@ -115,6 +126,9 @@ try {
   if(!response.ok) throw new Error(`HTTP ${response.status}`);
   catalog = await response.json();
   if(!Array.isArray(catalog.entries) || !catalog.entries.length) throw new Error('Empty catalogue');
+  const firmwareFilter = $('#firmware-filter');
+  firmwareFilter.hidden = catalog.entries.every(entry => Object.hasOwn(entry, 'readiness'));
+  if (firmwareFilter.hidden) state.firmware = false;
   try {
     const extra=await fetch('./data/enrichment.json',{cache:'no-cache',signal:AbortSignal.timeout(15000)});
     if(extra.ok) enrichment=await extra.json();

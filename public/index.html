@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#f5f5ef">
-  <meta name="description" content="Порты игр и эмуляторы для Nintendo Switch. Поиск, версии, совместимость с FW 21+ и обновление каталога каждое утро.">
+  <meta name="description" content="Порты игр и эмуляторы для Nintendo Switch. Поиск, версии, сведения о готовности и ежедневное обновление каталога.">
   <title>Switch / Ports — каталог портов и эмуляторов</title>
   <link rel="icon" href="./assets/favicon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="./style.css">
@@ -42,7 +42,7 @@
         </aside>
 
         <div class="catalog-main">
-          <div class="search-row"><label class="search-box"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Название игры, автор или платформа…" aria-label="Поиск проектов"><kbd>/</kbd></label><button class="filter-toggle" id="firmware-filter" aria-pressed="false"><span>☷</span> FW 21+ <i></i></button></div>
+          <div class="search-row"><label class="search-box"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Название игры, автор или платформа…" aria-label="Поиск проектов"><kbd>/</kbd></label><button class="filter-toggle" id="firmware-filter" aria-pressed="false" hidden><span>☷</span> FW 21+ <i></i></button></div>
           <div class="catalog-toolbar"><div class="type-tabs" id="type-tabs"><button data-kind="all" class="active">Все</button><button data-kind="port">Порты игр</button><button data-kind="emulator">Эмуляторы</button></div><label class="sort-label" title="Популярность — число звёзд GitHub у проекта"><span class="sr-only">Сортировка</span><select id="sort"><option value="popular">По популярности</option><option value="updated">Сначала новые</option><option value="title">По названию: А–Я</option><option value="oldest">Сначала старые</option></select></label></div>
           <div class="results-line"><span id="results-count" role="status" aria-live="polite">Загружаем проекты…</span><button id="reset" hidden>Сбросить фильтры ×</button></div>
           <p class="popularity-note" id="popularity-note"><span>★</span> Популярность — число звёзд проекта на GitHub</p>

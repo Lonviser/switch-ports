@@ -23,7 +23,11 @@ const changes = [];
 for (const entry of entries) {
   const before = old.get(entry.id);
   entry.firstSeenAt = before?.firstSeenAt || now;
-  const changed = before && ['version', 'updatedAt', 'firmware', 'status'].some(k => entry[k] !== before[k]);
+  const changed = before && (
+    ['version', 'updatedAt', 'status'].some(k => entry[k] !== before[k]) ||
+    (entry.readiness ?? null) !== (before.readiness ?? null) ||
+    (!Object.hasOwn(entry, 'readiness') && !Object.hasOwn(before, 'readiness') && entry.firmware !== before.firmware)
+  );
   entry.changedAt = changed ? now : before?.changedAt || null;
   if (previous && (!before || changed)) changes.push({ id: entry.id, title: entry.title, kind: before ? 'updated' : 'added', at: now, version: entry.version });
 }
