@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "source": "https://github.com/robzilla10001/SwitchPorts",
-  "sourceHash": "f004366f677d53f4c25f618e431f7b51c199705dba975cda4fe0ca781ff26025",
-  "checkedAt": "2026-11-22T12:36:20.780Z",
-  "sourceChangedAt": "2026-11-22T12:36:20.780Z",
+  "sourceHash": "8bbbcfe98bff6c8a006107b88eed33d6f47ed904132d364551e02d1e5ec22d10",
+  "checkedAt": "2026-11-22T15:30:28.743Z",
+  "sourceChangedAt": "2026-11-22T15:30:28.743Z",
   "schedule": "07:17 Europe/Minsk",
   "entries": [
     {
@@ -4415,6 +4415,25 @@
       "changedAt": null
     },
     {
+      "id": "4c52f22a387a8235",
+      "title": "Manhunt",
+      "category": "Microsoft Xbox",
+      "system": "Microsoft Xbox",
+      "kind": "port",
+      "version": "1.0.0",
+      "updatedAt": "2026-11-20",
+      "dateLabel": "20/11/2026",
+      "url": "https://github.com/marmota94/manhunt1_nx",
+      "discussion": null,
+      "firmware": "unknown",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "readiness": null,
+      "firstSeenAt": "2026-11-22T15:30:28.743Z",
+      "changedAt": null
+    },
+    {
       "id": "ad758dd7170fc5ce",
       "title": "Midnight Club 3: Dub Edition",
       "category": "Microsoft Xbox",
@@ -4621,6 +4640,25 @@
       "markedRecent": false,
       "readiness": null,
       "firstSeenAt": "2026-11-05T12:22:06.603Z",
+      "changedAt": null
+    },
+    {
+      "id": "bbcef3e63f91b3e5",
+      "title": "Splinter Cell: Pandora Tomorrow",
+      "category": "Microsoft Xbox",
+      "system": "Microsoft Xbox",
+      "kind": "port",
+      "version": "0.3.7",
+      "updatedAt": "2026-11-22",
+      "dateLabel": "22/11/2026",
+      "url": "https://github.com/itouchdennis/scpt-nx",
+      "discussion": null,
+      "firmware": "unknown",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "readiness": null,
+      "firstSeenAt": "2026-11-22T15:30:28.743Z",
       "changedAt": null
     },
     {
@@ -4888,6 +4926,44 @@
       "readiness": null,
       "firstSeenAt": "2026-11-03T11:56:15.580Z",
       "changedAt": "2026-11-11T11:53:03.397Z"
+    },
+    {
+      "id": "95a0a8829fe77eb1",
+      "title": "Call of Duty: Modern Warfare 2",
+      "category": "Microsoft Xbox 360",
+      "system": "Microsoft Xbox 360",
+      "kind": "port",
+      "version": "1.0.1",
+      "updatedAt": "2026-11-21",
+      "dateLabel": "21/11/2026",
+      "url": "https://github.com/kyokoxdev/mw2nx",
+      "discussion": null,
+      "firmware": "unknown",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "readiness": null,
+      "firstSeenAt": "2026-11-22T15:30:28.743Z",
+      "changedAt": null
+    },
+    {
+      "id": "2c437ccc982f9a91",
+      "title": "CastleMiner Z",
+      "category": "Microsoft Xbox 360",
+      "system": "Microsoft Xbox 360",
+      "kind": "port",
+      "version": "released",
+      "updatedAt": "2026-11-22",
+      "dateLabel": "22/11/2026",
+      "url": "https://github.com/Bizzerowasnotavailable/castleminerz-nx",
+      "discussion": null,
+      "firmware": "unknown",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "readiness": null,
+      "firstSeenAt": "2026-11-22T15:30:28.743Z",
+      "changedAt": null
     },
     {
       "id": "a530ec3c7119a26c",
@@ -9716,6 +9792,25 @@
       "changedAt": "2026-11-10T12:39:49.301Z"
     },
     {
+      "id": "9cbb6e374e434b5c",
+      "title": "Downhill Domination",
+      "category": "Sony Playstation 2",
+      "system": "Sony Playstation 2",
+      "kind": "port",
+      "version": "0.8.10",
+      "updatedAt": "2026-11-20",
+      "dateLabel": "20/11/2026",
+      "url": "https://github.com/marmota94/downhill-revived",
+      "discussion": null,
+      "firmware": "unknown",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "readiness": null,
+      "firstSeenAt": "2026-11-22T15:30:28.743Z",
+      "changedAt": null
+    },
+    {
       "id": "73ff1a5e0d50b2ee",
       "title": "Dragonball Z: Tenkaichi Budokai 3",
       "category": "Sony Playstation 2",
@@ -9926,6 +10021,41 @@
     }
   ],
   "changes": [
+    {
+      "id": "4c52f22a387a8235",
+      "title": "Manhunt",
+      "kind": "added",
+      "at": "2026-11-22T15:30:28.743Z",
+      "version": "1.0.0"
+    },
+    {
+      "id": "bbcef3e63f91b3e5",
+      "title": "Splinter Cell: Pandora Tomorrow",
+      "kind": "added",
+      "at": "2026-11-22T15:30:28.743Z",
+      "version": "0.3.7"
+    },
+    {
+      "id": "95a0a8829fe77eb1",
+      "title": "Call of Duty: Modern Warfare 2",
+      "kind": "added",
+      "at": "2026-11-22T15:30:28.743Z",
+      "version": "1.0.1"
+    },
+    {
+      "id": "2c437ccc982f9a91",
+      "title": "CastleMiner Z",
+      "kind": "added",
+      "at": "2026-11-22T15:30:28.743Z",
+      "version": "released"
+    },
+    {
+      "id": "9cbb6e374e434b5c",
+      "title": "Downhill Domination",
+      "kind": "added",
+      "at": "2026-11-22T15:30:28.743Z",
+      "version": "0.8.10"
+    },
     {
       "id": "54a6d5b872dc1edb",
       "title": "Asphalt 5 HD",
@@ -11290,41 +11420,6 @@
       "kind": "updated",
       "at": "2026-11-11T11:53:03.397Z",
       "version": "1.0.1"
-    },
-    {
-      "id": "07aee6451bab92be",
-      "title": "Final Fantasy Dimension II",
-      "kind": "updated",
-      "at": "2026-11-11T11:53:03.397Z",
-      "version": "1.0.2"
-    },
-    {
-      "id": "34688b2b7ab123e7",
-      "title": "Final Fantasy III 3D Remake",
-      "kind": "updated",
-      "at": "2026-11-11T11:53:03.397Z",
-      "version": "1.0.1"
-    },
-    {
-      "id": "33356f8cb1fcafd7",
-      "title": "Final Fantasy IV 3D Remake",
-      "kind": "updated",
-      "at": "2026-11-11T11:53:03.397Z",
-      "version": "1.0.4"
-    },
-    {
-      "id": "36f31f2678037a92",
-      "title": "Final Fantasy IV The After Years",
-      "kind": "updated",
-      "at": "2026-11-11T11:53:03.397Z",
-      "version": "1.0.2"
-    },
-    {
-      "id": "c0a2bb93a58618e0",
-      "title": "Geometry Dash",
-      "kind": "updated",
-      "at": "2026-11-11T11:53:03.397Z",
-      "version": "1.0.4"
     }
   ]
 }
