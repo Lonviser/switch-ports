@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "source": "https://github.com/robzilla10001/SwitchPorts",
-  "sourceHash": "5c5aeafdcb4b2d4b02c2b47856e2ef29e39609d15ebab5e4adc0639e97385f76",
-  "checkedAt": "2026-11-21T12:39:39.207Z",
-  "sourceChangedAt": "2026-11-20T09:53:51.698Z",
+  "sourceHash": "f004366f677d53f4c25f618e431f7b51c199705dba975cda4fe0ca781ff26025",
+  "checkedAt": "2026-11-22T12:36:20.780Z",
+  "sourceChangedAt": "2026-11-22T12:36:20.780Z",
   "schedule": "07:17 Europe/Minsk",
   "entries": [
     {
@@ -577,14 +577,33 @@
       "changedAt": "2026-11-02T12:25:35.122Z"
     },
     {
+      "id": "54a6d5b872dc1edb",
+      "title": "Asphalt 5 HD",
+      "category": "Android 32bit",
+      "system": "Android 32bit",
+      "kind": "port",
+      "version": "0.3.0",
+      "updatedAt": "2026-11-22",
+      "dateLabel": "22/11/2026",
+      "url": "https://github.com/7UNC46/a5_nx",
+      "discussion": null,
+      "firmware": "unknown",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "readiness": null,
+      "firstSeenAt": "2026-11-22T12:36:20.780Z",
+      "changedAt": null
+    },
+    {
       "id": "328d18ee2f5614f9",
       "title": "Asphalt 6: Adrenaline",
       "category": "Android 32bit",
       "system": "Android 32bit",
       "kind": "port",
-      "version": "0.7.9",
-      "updatedAt": "2026-11-17",
-      "dateLabel": "17/11/2026",
+      "version": "0.8.0",
+      "updatedAt": "2026-11-19",
+      "dateLabel": "19/11/2026",
       "url": "https://github.com/7UNC46/a6_nx",
       "discussion": null,
       "firmware": "unknown",
@@ -593,6 +612,25 @@
       "markedRecent": true,
       "readiness": null,
       "firstSeenAt": "2026-11-20T09:53:51.698Z",
+      "changedAt": "2026-11-22T12:36:20.780Z"
+    },
+    {
+      "id": "f85df3753eae9f97",
+      "title": "Asphalt 7: Heat",
+      "category": "Android 32bit",
+      "system": "Android 32bit",
+      "kind": "port",
+      "version": "0.2.0",
+      "updatedAt": "2026-11-22",
+      "dateLabel": "22/11/2026",
+      "url": "https://github.com/7UNC46/a7_nx",
+      "discussion": null,
+      "firmware": "unknown",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "readiness": null,
+      "firstSeenAt": "2026-11-22T12:36:20.780Z",
       "changedAt": null
     },
     {
@@ -5089,25 +5127,6 @@
       "updatedAt": "2026-11-14",
       "dateLabel": "14/11/2026",
       "url": "https://gitlab.com/alexyt2021es/Budokai-NX/-/blob/main/README_EN.md",
-      "discussion": null,
-      "firmware": "unknown",
-      "firmwareUrl": null,
-      "status": "listed",
-      "markedRecent": true,
-      "readiness": null,
-      "firstSeenAt": "2026-11-20T09:53:51.698Z",
-      "changedAt": null
-    },
-    {
-      "id": "5cca234b7c73d3d7",
-      "title": "Dragon Ball Z: Budokai 3 HD (novapowers0)",
-      "category": "Microsoft Xbox 360",
-      "system": "Microsoft Xbox 360",
-      "kind": "port",
-      "version": "1.5.6.2",
-      "updatedAt": "2026-11-08",
-      "dateLabel": "08/11/2026",
-      "url": "https://github.com/novapowers0/DBZ-Budokai-3-HD-Collection",
       "discussion": null,
       "firmware": "unknown",
       "firmwareUrl": null,
@@ -9908,6 +9927,27 @@
   ],
   "changes": [
     {
+      "id": "54a6d5b872dc1edb",
+      "title": "Asphalt 5 HD",
+      "kind": "added",
+      "at": "2026-11-22T12:36:20.780Z",
+      "version": "0.3.0"
+    },
+    {
+      "id": "328d18ee2f5614f9",
+      "title": "Asphalt 6: Adrenaline",
+      "kind": "updated",
+      "at": "2026-11-22T12:36:20.780Z",
+      "version": "0.8.0"
+    },
+    {
+      "id": "f85df3753eae9f97",
+      "title": "Asphalt 7: Heat",
+      "kind": "added",
+      "at": "2026-11-22T12:36:20.780Z",
+      "version": "0.2.0"
+    },
+    {
       "id": "981b0614129b1b84",
       "title": "Flycast",
       "kind": "updated",
@@ -11285,27 +11325,6 @@
       "kind": "updated",
       "at": "2026-11-11T11:53:03.397Z",
       "version": "1.0.4"
-    },
-    {
-      "id": "f4192bc62fc34431",
-      "title": "Grand Theft Auto Chinatown Wars",
-      "kind": "updated",
-      "at": "2026-11-11T11:53:03.397Z",
-      "version": "1.0.2"
-    },
-    {
-      "id": "8e715720b87f08a0",
-      "title": "Grand Theft Auto Liberty City Stories",
-      "kind": "updated",
-      "at": "2026-11-11T11:53:03.397Z",
-      "version": "1.0.4"
-    },
-    {
-      "id": "8e7ea10e84c964f5",
-      "title": "Grand Theft Auto San Andreas",
-      "kind": "updated",
-      "at": "2026-11-11T11:53:03.397Z",
-      "version": "1.0.5"
     }
   ]
 }
