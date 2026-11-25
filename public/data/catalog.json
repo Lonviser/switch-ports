@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "source": "https://github.com/robzilla10001/SwitchPorts",
-  "sourceHash": "88f7e0f3926b9c0944a8a7de76cd3c2bbd61205917cd0f4cb6fcc6130a41776f",
-  "checkedAt": "2026-11-24T14:52:48.874Z",
-  "sourceChangedAt": "2026-11-24T14:52:48.874Z",
+  "sourceHash": "da036e9495307170c79340e21fda0dba99983cb4d41d498d42722beda6fc5d65",
+  "checkedAt": "2026-11-25T14:22:52.893Z",
+  "sourceChangedAt": "2026-11-25T14:22:52.893Z",
   "schedule": "07:17 Europe/Minsk",
   "entries": [
     {
@@ -6500,9 +6500,9 @@
       "firmwareUrl": null,
       "status": "listed",
       "markedRecent": true,
-      "readiness": null,
+      "readiness": "completable",
       "firstSeenAt": "2026-11-20T09:53:51.698Z",
-      "changedAt": "2026-11-24T14:52:48.874Z"
+      "changedAt": "2026-11-25T14:22:52.893Z"
     },
     {
       "id": "42d63f0b9dd24f82",
@@ -10440,6 +10440,13 @@
   ],
   "changes": [
     {
+      "id": "084a8269283f10e2",
+      "title": "Timeshift",
+      "kind": "updated",
+      "at": "2026-11-25T14:22:52.893Z",
+      "version": "pre-release"
+    },
+    {
       "id": "981b0614129b1b84",
       "title": "Flycast",
       "kind": "updated",
@@ -11831,13 +11838,6 @@
       "kind": "added",
       "at": "2026-11-20T09:53:51.698Z",
       "version": "1.0.2"
-    },
-    {
-      "id": "ff1c08609b909b7b",
-      "title": "Mario Kart: Double Dash!",
-      "kind": "updated",
-      "at": "2026-11-20T09:53:51.698Z",
-      "version": "2.0.1"
     }
   ]
 }
