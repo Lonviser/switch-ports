@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "source": "https://github.com/robzilla10001/SwitchPorts",
-  "sourceHash": "da036e9495307170c79340e21fda0dba99983cb4d41d498d42722beda6fc5d65",
-  "checkedAt": "2026-11-25T14:22:52.893Z",
-  "sourceChangedAt": "2026-11-25T14:22:52.893Z",
+  "sourceHash": "daafdedb49dd9453e46313c33a6da48806c155d90c7105aa190aa84700f36f31",
+  "checkedAt": "2026-11-26T13:54:22.042Z",
+  "sourceChangedAt": "2026-11-26T13:54:22.042Z",
   "schedule": "07:17 Europe/Minsk",
   "entries": [
     {
@@ -5973,6 +5973,25 @@
       "changedAt": null
     },
     {
+      "id": "90bdea5fccb99300",
+      "title": "NieR",
+      "category": "Microsoft Xbox 360",
+      "system": "Microsoft Xbox 360",
+      "kind": "port",
+      "version": "released",
+      "updatedAt": "2026-11-25",
+      "dateLabel": "25/11/2026",
+      "url": "https://github.com/LoLrD/nier-nx",
+      "discussion": null,
+      "firmware": "unknown",
+      "firmwareUrl": null,
+      "status": "listed",
+      "markedRecent": true,
+      "readiness": null,
+      "firstSeenAt": "2026-11-26T13:54:22.042Z",
+      "changedAt": null
+    },
+    {
       "id": "b57f55a8458d208e",
       "title": "Need for Speed: Carbon (Kaays)",
       "category": "Microsoft Xbox 360",
@@ -10440,6 +10459,13 @@
   ],
   "changes": [
     {
+      "id": "90bdea5fccb99300",
+      "title": "NieR",
+      "kind": "added",
+      "at": "2026-11-26T13:54:22.042Z",
+      "version": "released"
+    },
+    {
       "id": "084a8269283f10e2",
       "title": "Timeshift",
       "kind": "updated",
@@ -11831,13 +11857,6 @@
       "kind": "added",
       "at": "2026-11-20T09:53:51.698Z",
       "version": "1.1.3"
-    },
-    {
-      "id": "9527c69f2ebcc5fc",
-      "title": "The Legend of Zelda:Wind Waker",
-      "kind": "added",
-      "at": "2026-11-20T09:53:51.698Z",
-      "version": "1.0.2"
     }
   ]
 }
